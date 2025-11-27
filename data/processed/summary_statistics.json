@@ -1,0 +1,85 @@
+{
+    "dataset_info": {
+        "total_matches": 1520,
+        "date_range_start": "2020-09-12",
+        "date_range_end": "2024-05-19",
+        "unique_teams": 26,
+        "teams_analyzed": 26
+    },
+    "overall_results": {
+        "home_wins": 666,
+        "away_wins": 514,
+        "draws": 340,
+        "home_win_pct": 43.82,
+        "away_win_pct": 33.82,
+        "draw_pct": 22.37,
+        "home_advantage_pct_points": 10.0
+    },
+    "statistical_tests": {
+        "chi_square": {
+            "test_name": "Chi-Square Test for Independence",
+            "statistic": 105.0368,
+            "p_value": 0.0,
+            "significant": true,
+            "alpha": 0.05
+        },
+        "paired_t_test": {
+            "test_name": "Paired T-Test (Home vs Away Win %)",
+            "t_statistic": 6.4876,
+            "p_value": 1e-06,
+            "significant": true,
+            "alpha": 0.05
+        }
+    },
+    "team_level_analysis": {
+        "mean_home_advantage": 9.06,
+        "median_home_advantage": 8.99,
+        "std_home_advantage": 7.12,
+        "min_home_advantage": -10.53,
+        "max_home_advantage": 23.68
+    },
+    "top_5_teams": [
+        {
+            "team_name": "Tottenham",
+            "home_advantage": 23.68
+        },
+        {
+            "team_name": "Nott'm Forest",
+            "home_advantage": 21.05
+        },
+        {
+            "team_name": "Liverpool",
+            "home_advantage": 19.74
+        },
+        {
+            "team_name": "Newcastle",
+            "home_advantage": 15.79
+        },
+        {
+            "team_name": "Wolves",
+            "home_advantage": 14.47
+        }
+    ],
+    "bottom_5_teams": [
+        {
+            "team_name": "Brighton",
+            "home_advantage": 3.95
+        },
+        {
+            "team_name": "Chelsea",
+            "home_advantage": 1.32
+        },
+        {
+            "team_name": "Leeds",
+            "home_advantage": 0.0
+        },
+        {
+            "team_name": "Burnley",
+            "home_advantage": 0.0
+        },
+        {
+            "team_name": "Watford",
+            "home_advantage": -10.53
+        }
+    ]
+}
