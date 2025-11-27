@@ -1,0 +1,1521 @@
+date,home_team,away_team,home_goals,away_goals,match_uri
+2023-08-11,Burnley,Man City,0,3,http://football-data.co.uk/match/Burnley_vs_Man_City_20230811
+2023-08-12,Arsenal,Nott'm Forest,2,1,http://football-data.co.uk/match/Arsenal_vs_Nott'm_Forest_20230812
+2023-08-12,Bournemouth,West Ham,1,1,http://football-data.co.uk/match/Bournemouth_vs_West_Ham_20230812
+2023-08-12,Brighton,Luton,4,1,http://football-data.co.uk/match/Brighton_vs_Luton_20230812
+2023-08-12,Everton,Fulham,0,1,http://football-data.co.uk/match/Everton_vs_Fulham_20230812
+2023-08-12,Sheffield United,Crystal Palace,0,1,http://football-data.co.uk/match/Sheffield_United_vs_Crystal_Palace_20230812
+2023-08-12,Newcastle,Aston Villa,5,1,http://football-data.co.uk/match/Newcastle_vs_Aston_Villa_20230812
+2023-08-13,Brentford,Tottenham,2,2,http://football-data.co.uk/match/Brentford_vs_Tottenham_20230813
+2023-08-13,Chelsea,Liverpool,1,1,http://football-data.co.uk/match/Chelsea_vs_Liverpool_20230813
+2023-08-14,Man United,Wolves,1,0,http://football-data.co.uk/match/Man_United_vs_Wolves_20230814
+2023-08-18,Nott'm Forest,Sheffield United,2,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Sheffield_United_20230818
+2023-08-19,Fulham,Brentford,0,3,http://football-data.co.uk/match/Fulham_vs_Brentford_20230819
+2023-08-19,Liverpool,Bournemouth,3,1,http://football-data.co.uk/match/Liverpool_vs_Bournemouth_20230819
+2023-08-19,Wolves,Brighton,1,4,http://football-data.co.uk/match/Wolves_vs_Brighton_20230819
+2023-08-19,Tottenham,Man United,2,0,http://football-data.co.uk/match/Tottenham_vs_Man_United_20230819
+2023-08-19,Man City,Newcastle,1,0,http://football-data.co.uk/match/Man_City_vs_Newcastle_20230819
+2023-08-20,Aston Villa,Everton,4,0,http://football-data.co.uk/match/Aston_Villa_vs_Everton_20230820
+2023-08-20,West Ham,Chelsea,3,1,http://football-data.co.uk/match/West_Ham_vs_Chelsea_20230820
+2023-08-21,Crystal Palace,Arsenal,0,1,http://football-data.co.uk/match/Crystal_Palace_vs_Arsenal_20230821
+2023-08-25,Chelsea,Luton,3,0,http://football-data.co.uk/match/Chelsea_vs_Luton_20230825
+2023-08-26,Bournemouth,Tottenham,0,2,http://football-data.co.uk/match/Bournemouth_vs_Tottenham_20230826
+2023-08-26,Arsenal,Fulham,2,2,http://football-data.co.uk/match/Arsenal_vs_Fulham_20230826
+2023-08-26,Brentford,Crystal Palace,1,1,http://football-data.co.uk/match/Brentford_vs_Crystal_Palace_20230826
+2023-08-26,Everton,Wolves,0,1,http://football-data.co.uk/match/Everton_vs_Wolves_20230826
+2023-08-26,Man United,Nott'm Forest,3,2,http://football-data.co.uk/match/Man_United_vs_Nott'm_Forest_20230826
+2023-08-26,Brighton,West Ham,1,3,http://football-data.co.uk/match/Brighton_vs_West_Ham_20230826
+2023-08-27,Burnley,Aston Villa,1,3,http://football-data.co.uk/match/Burnley_vs_Aston_Villa_20230827
+2023-08-27,Sheffield United,Man City,1,2,http://football-data.co.uk/match/Sheffield_United_vs_Man_City_20230827
+2023-08-27,Newcastle,Liverpool,1,2,http://football-data.co.uk/match/Newcastle_vs_Liverpool_20230827
+2023-09-01,Luton,West Ham,1,2,http://football-data.co.uk/match/Luton_vs_West_Ham_20230901
+2023-09-02,Sheffield United,Everton,2,2,http://football-data.co.uk/match/Sheffield_United_vs_Everton_20230902
+2023-09-02,Brentford,Bournemouth,2,2,http://football-data.co.uk/match/Brentford_vs_Bournemouth_20230902
+2023-09-02,Burnley,Tottenham,2,5,http://football-data.co.uk/match/Burnley_vs_Tottenham_20230902
+2023-09-02,Chelsea,Nott'm Forest,0,1,http://football-data.co.uk/match/Chelsea_vs_Nott'm_Forest_20230902
+2023-09-02,Man City,Fulham,5,1,http://football-data.co.uk/match/Man_City_vs_Fulham_20230902
+2023-09-02,Brighton,Newcastle,3,1,http://football-data.co.uk/match/Brighton_vs_Newcastle_20230902
+2023-09-03,Crystal Palace,Wolves,3,2,http://football-data.co.uk/match/Crystal_Palace_vs_Wolves_20230903
+2023-09-03,Liverpool,Aston Villa,3,0,http://football-data.co.uk/match/Liverpool_vs_Aston_Villa_20230903
+2023-09-03,Arsenal,Man United,3,1,http://football-data.co.uk/match/Arsenal_vs_Man_United_20230903
+2023-09-16,Wolves,Liverpool,1,3,http://football-data.co.uk/match/Wolves_vs_Liverpool_20230916
+2023-09-16,Aston Villa,Crystal Palace,3,1,http://football-data.co.uk/match/Aston_Villa_vs_Crystal_Palace_20230916
+2023-09-16,Fulham,Luton,1,0,http://football-data.co.uk/match/Fulham_vs_Luton_20230916
+2023-09-16,Man United,Brighton,1,3,http://football-data.co.uk/match/Man_United_vs_Brighton_20230916
+2023-09-16,Tottenham,Sheffield United,2,1,http://football-data.co.uk/match/Tottenham_vs_Sheffield_United_20230916
+2023-09-16,West Ham,Man City,1,3,http://football-data.co.uk/match/West_Ham_vs_Man_City_20230916
+2023-09-16,Newcastle,Brentford,1,0,http://football-data.co.uk/match/Newcastle_vs_Brentford_20230916
+2023-09-17,Bournemouth,Chelsea,0,0,http://football-data.co.uk/match/Bournemouth_vs_Chelsea_20230917
+2023-09-17,Everton,Arsenal,0,1,http://football-data.co.uk/match/Everton_vs_Arsenal_20230917
+2023-09-18,Nott'm Forest,Burnley,1,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Burnley_20230918
+2023-09-23,Crystal Palace,Fulham,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Fulham_20230923
+2023-09-23,Luton,Wolves,1,1,http://football-data.co.uk/match/Luton_vs_Wolves_20230923
+2023-09-23,Man City,Nott'm Forest,2,0,http://football-data.co.uk/match/Man_City_vs_Nott'm_Forest_20230923
+2023-09-23,Brentford,Everton,1,3,http://football-data.co.uk/match/Brentford_vs_Everton_20230923
+2023-09-23,Burnley,Man United,0,1,http://football-data.co.uk/match/Burnley_vs_Man_United_20230923
+2023-09-24,Arsenal,Tottenham,2,2,http://football-data.co.uk/match/Arsenal_vs_Tottenham_20230924
+2023-09-24,Brighton,Bournemouth,3,1,http://football-data.co.uk/match/Brighton_vs_Bournemouth_20230924
+2023-09-24,Chelsea,Aston Villa,0,1,http://football-data.co.uk/match/Chelsea_vs_Aston_Villa_20230924
+2023-09-24,Liverpool,West Ham,3,1,http://football-data.co.uk/match/Liverpool_vs_West_Ham_20230924
+2023-09-24,Sheffield United,Newcastle,0,8,http://football-data.co.uk/match/Sheffield_United_vs_Newcastle_20230924
+2023-09-30,Aston Villa,Brighton,6,1,http://football-data.co.uk/match/Aston_Villa_vs_Brighton_20230930
+2023-09-30,Bournemouth,Arsenal,0,4,http://football-data.co.uk/match/Bournemouth_vs_Arsenal_20230930
+2023-09-30,Everton,Luton,1,2,http://football-data.co.uk/match/Everton_vs_Luton_20230930
+2023-09-30,Man United,Crystal Palace,0,1,http://football-data.co.uk/match/Man_United_vs_Crystal_Palace_20230930
+2023-09-30,Newcastle,Burnley,2,0,http://football-data.co.uk/match/Newcastle_vs_Burnley_20230930
+2023-09-30,West Ham,Sheffield United,2,0,http://football-data.co.uk/match/West_Ham_vs_Sheffield_United_20230930
+2023-09-30,Wolves,Man City,2,1,http://football-data.co.uk/match/Wolves_vs_Man_City_20230930
+2023-09-30,Tottenham,Liverpool,2,1,http://football-data.co.uk/match/Tottenham_vs_Liverpool_20230930
+2023-10-01,Nott'm Forest,Brentford,1,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Brentford_20231001
+2023-10-02,Fulham,Chelsea,0,2,http://football-data.co.uk/match/Fulham_vs_Chelsea_20231002
+2023-10-03,Luton,Burnley,1,2,http://football-data.co.uk/match/Luton_vs_Burnley_20231003
+2023-10-07,Luton,Tottenham,0,1,http://football-data.co.uk/match/Luton_vs_Tottenham_20231007
+2023-10-07,Burnley,Chelsea,1,4,http://football-data.co.uk/match/Burnley_vs_Chelsea_20231007
+2023-10-07,Everton,Bournemouth,3,0,http://football-data.co.uk/match/Everton_vs_Bournemouth_20231007
+2023-10-07,Fulham,Sheffield United,3,1,http://football-data.co.uk/match/Fulham_vs_Sheffield_United_20231007
+2023-10-07,Man United,Brentford,2,1,http://football-data.co.uk/match/Man_United_vs_Brentford_20231007
+2023-10-07,Crystal Palace,Nott'm Forest,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Nott'm_Forest_20231007
+2023-10-08,Brighton,Liverpool,2,2,http://football-data.co.uk/match/Brighton_vs_Liverpool_20231008
+2023-10-08,West Ham,Newcastle,2,2,http://football-data.co.uk/match/West_Ham_vs_Newcastle_20231008
+2023-10-08,Wolves,Aston Villa,1,1,http://football-data.co.uk/match/Wolves_vs_Aston_Villa_20231008
+2023-10-08,Arsenal,Man City,1,0,http://football-data.co.uk/match/Arsenal_vs_Man_City_20231008
+2023-10-21,Liverpool,Everton,2,0,http://football-data.co.uk/match/Liverpool_vs_Everton_20231021
+2023-10-21,Bournemouth,Wolves,1,2,http://football-data.co.uk/match/Bournemouth_vs_Wolves_20231021
+2023-10-21,Brentford,Burnley,3,0,http://football-data.co.uk/match/Brentford_vs_Burnley_20231021
+2023-10-21,Man City,Brighton,2,1,http://football-data.co.uk/match/Man_City_vs_Brighton_20231021
+2023-10-21,Newcastle,Crystal Palace,4,0,http://football-data.co.uk/match/Newcastle_vs_Crystal_Palace_20231021
+2023-10-21,Nott'm Forest,Luton,2,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Luton_20231021
+2023-10-21,Chelsea,Arsenal,2,2,http://football-data.co.uk/match/Chelsea_vs_Arsenal_20231021
+2023-10-21,Sheffield United,Man United,1,2,http://football-data.co.uk/match/Sheffield_United_vs_Man_United_20231021
+2023-10-22,Aston Villa,West Ham,4,1,http://football-data.co.uk/match/Aston_Villa_vs_West_Ham_20231022
+2023-10-23,Tottenham,Fulham,2,0,http://football-data.co.uk/match/Tottenham_vs_Fulham_20231023
+2023-10-27,Crystal Palace,Tottenham,1,2,http://football-data.co.uk/match/Crystal_Palace_vs_Tottenham_20231027
+2023-10-28,Chelsea,Brentford,0,2,http://football-data.co.uk/match/Chelsea_vs_Brentford_20231028
+2023-10-28,Arsenal,Sheffield United,5,0,http://football-data.co.uk/match/Arsenal_vs_Sheffield_United_20231028
+2023-10-28,Bournemouth,Burnley,2,1,http://football-data.co.uk/match/Bournemouth_vs_Burnley_20231028
+2023-10-28,Wolves,Newcastle,2,2,http://football-data.co.uk/match/Wolves_vs_Newcastle_20231028
+2023-10-29,West Ham,Everton,0,1,http://football-data.co.uk/match/West_Ham_vs_Everton_20231029
+2023-10-29,Aston Villa,Luton,3,1,http://football-data.co.uk/match/Aston_Villa_vs_Luton_20231029
+2023-10-29,Brighton,Fulham,1,1,http://football-data.co.uk/match/Brighton_vs_Fulham_20231029
+2023-10-29,Liverpool,Nott'm Forest,3,0,http://football-data.co.uk/match/Liverpool_vs_Nott'm_Forest_20231029
+2023-10-29,Man United,Man City,0,3,http://football-data.co.uk/match/Man_United_vs_Man_City_20231029
+2023-11-04,Fulham,Man United,0,1,http://football-data.co.uk/match/Fulham_vs_Man_United_20231104
+2023-11-04,Brentford,West Ham,3,2,http://football-data.co.uk/match/Brentford_vs_West_Ham_20231104
+2023-11-04,Burnley,Crystal Palace,0,2,http://football-data.co.uk/match/Burnley_vs_Crystal_Palace_20231104
+2023-11-04,Everton,Brighton,1,1,http://football-data.co.uk/match/Everton_vs_Brighton_20231104
+2023-11-04,Man City,Bournemouth,6,1,http://football-data.co.uk/match/Man_City_vs_Bournemouth_20231104
+2023-11-04,Sheffield United,Wolves,2,1,http://football-data.co.uk/match/Sheffield_United_vs_Wolves_20231104
+2023-11-04,Newcastle,Arsenal,1,0,http://football-data.co.uk/match/Newcastle_vs_Arsenal_20231104
+2023-11-05,Nott'm Forest,Aston Villa,2,0,http://football-data.co.uk/match/Nott'm_Forest_vs_Aston_Villa_20231105
+2023-11-05,Luton,Liverpool,1,1,http://football-data.co.uk/match/Luton_vs_Liverpool_20231105
+2023-11-06,Tottenham,Chelsea,1,4,http://football-data.co.uk/match/Tottenham_vs_Chelsea_20231106
+2023-11-11,Wolves,Tottenham,2,1,http://football-data.co.uk/match/Wolves_vs_Tottenham_20231111
+2023-11-11,Arsenal,Burnley,3,1,http://football-data.co.uk/match/Arsenal_vs_Burnley_20231111
+2023-11-11,Crystal Palace,Everton,2,3,http://football-data.co.uk/match/Crystal_Palace_vs_Everton_20231111
+2023-11-11,Man United,Luton,1,0,http://football-data.co.uk/match/Man_United_vs_Luton_20231111
+2023-11-11,Bournemouth,Newcastle,2,0,http://football-data.co.uk/match/Bournemouth_vs_Newcastle_20231111
+2023-11-12,Aston Villa,Fulham,3,1,http://football-data.co.uk/match/Aston_Villa_vs_Fulham_20231112
+2023-11-12,Brighton,Sheffield United,1,1,http://football-data.co.uk/match/Brighton_vs_Sheffield_United_20231112
+2023-11-12,Liverpool,Brentford,3,0,http://football-data.co.uk/match/Liverpool_vs_Brentford_20231112
+2023-11-12,West Ham,Nott'm Forest,3,2,http://football-data.co.uk/match/West_Ham_vs_Nott'm_Forest_20231112
+2023-11-12,Chelsea,Man City,4,4,http://football-data.co.uk/match/Chelsea_vs_Man_City_20231112
+2023-11-25,Man City,Liverpool,1,1,http://football-data.co.uk/match/Man_City_vs_Liverpool_20231125
+2023-11-25,Burnley,West Ham,1,2,http://football-data.co.uk/match/Burnley_vs_West_Ham_20231125
+2023-11-25,Luton,Crystal Palace,2,1,http://football-data.co.uk/match/Luton_vs_Crystal_Palace_20231125
+2023-11-25,Newcastle,Chelsea,4,1,http://football-data.co.uk/match/Newcastle_vs_Chelsea_20231125
+2023-11-25,Nott'm Forest,Brighton,2,3,http://football-data.co.uk/match/Nott'm_Forest_vs_Brighton_20231125
+2023-11-25,Sheffield United,Bournemouth,1,3,http://football-data.co.uk/match/Sheffield_United_vs_Bournemouth_20231125
+2023-11-25,Brentford,Arsenal,0,1,http://football-data.co.uk/match/Brentford_vs_Arsenal_20231125
+2023-11-26,Tottenham,Aston Villa,1,2,http://football-data.co.uk/match/Tottenham_vs_Aston_Villa_20231126
+2023-11-26,Everton,Man United,0,3,http://football-data.co.uk/match/Everton_vs_Man_United_20231126
+2023-11-27,Fulham,Wolves,3,2,http://football-data.co.uk/match/Fulham_vs_Wolves_20231127
+2023-12-02,Arsenal,Wolves,2,1,http://football-data.co.uk/match/Arsenal_vs_Wolves_20231202
+2023-12-02,Brentford,Luton,3,1,http://football-data.co.uk/match/Brentford_vs_Luton_20231202
+2023-12-02,Burnley,Sheffield United,5,0,http://football-data.co.uk/match/Burnley_vs_Sheffield_United_20231202
+2023-12-02,Nott'm Forest,Everton,0,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Everton_20231202
+2023-12-02,Newcastle,Man United,1,0,http://football-data.co.uk/match/Newcastle_vs_Man_United_20231202
+2023-12-03,Bournemouth,Aston Villa,2,2,http://football-data.co.uk/match/Bournemouth_vs_Aston_Villa_20231203
+2023-12-03,Chelsea,Brighton,3,2,http://football-data.co.uk/match/Chelsea_vs_Brighton_20231203
+2023-12-03,Liverpool,Fulham,4,3,http://football-data.co.uk/match/Liverpool_vs_Fulham_20231203
+2023-12-03,West Ham,Crystal Palace,1,1,http://football-data.co.uk/match/West_Ham_vs_Crystal_Palace_20231203
+2023-12-03,Man City,Tottenham,3,3,http://football-data.co.uk/match/Man_City_vs_Tottenham_20231203
+2023-12-05,Wolves,Burnley,1,0,http://football-data.co.uk/match/Wolves_vs_Burnley_20231205
+2023-12-05,Luton,Arsenal,3,4,http://football-data.co.uk/match/Luton_vs_Arsenal_20231205
+2023-12-06,Brighton,Brentford,2,1,http://football-data.co.uk/match/Brighton_vs_Brentford_20231206
+2023-12-06,Crystal Palace,Bournemouth,0,2,http://football-data.co.uk/match/Crystal_Palace_vs_Bournemouth_20231206
+2023-12-06,Fulham,Nott'm Forest,5,0,http://football-data.co.uk/match/Fulham_vs_Nott'm_Forest_20231206
+2023-12-06,Sheffield United,Liverpool,0,2,http://football-data.co.uk/match/Sheffield_United_vs_Liverpool_20231206
+2023-12-06,Aston Villa,Man City,1,0,http://football-data.co.uk/match/Aston_Villa_vs_Man_City_20231206
+2023-12-06,Man United,Chelsea,2,1,http://football-data.co.uk/match/Man_United_vs_Chelsea_20231206
+2023-12-07,Everton,Newcastle,3,0,http://football-data.co.uk/match/Everton_vs_Newcastle_20231207
+2023-12-07,Tottenham,West Ham,1,2,http://football-data.co.uk/match/Tottenham_vs_West_Ham_20231207
+2023-12-09,Crystal Palace,Liverpool,1,2,http://football-data.co.uk/match/Crystal_Palace_vs_Liverpool_20231209
+2023-12-09,Brighton,Burnley,1,1,http://football-data.co.uk/match/Brighton_vs_Burnley_20231209
+2023-12-09,Man United,Bournemouth,0,3,http://football-data.co.uk/match/Man_United_vs_Bournemouth_20231209
+2023-12-09,Sheffield United,Brentford,1,0,http://football-data.co.uk/match/Sheffield_United_vs_Brentford_20231209
+2023-12-09,Wolves,Nott'm Forest,1,1,http://football-data.co.uk/match/Wolves_vs_Nott'm_Forest_20231209
+2023-12-09,Aston Villa,Arsenal,1,0,http://football-data.co.uk/match/Aston_Villa_vs_Arsenal_20231209
+2023-12-10,Everton,Chelsea,2,0,http://football-data.co.uk/match/Everton_vs_Chelsea_20231210
+2023-12-10,Fulham,West Ham,5,0,http://football-data.co.uk/match/Fulham_vs_West_Ham_20231210
+2023-12-10,Luton,Man City,1,2,http://football-data.co.uk/match/Luton_vs_Man_City_20231210
+2023-12-10,Tottenham,Newcastle,4,1,http://football-data.co.uk/match/Tottenham_vs_Newcastle_20231210
+2023-12-15,Nott'm Forest,Tottenham,0,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Tottenham_20231215
+2023-12-16,Chelsea,Sheffield United,2,0,http://football-data.co.uk/match/Chelsea_vs_Sheffield_United_20231216
+2023-12-16,Man City,Crystal Palace,2,2,http://football-data.co.uk/match/Man_City_vs_Crystal_Palace_20231216
+2023-12-16,Newcastle,Fulham,3,0,http://football-data.co.uk/match/Newcastle_vs_Fulham_20231216
+2023-12-16,Burnley,Everton,0,2,http://football-data.co.uk/match/Burnley_vs_Everton_20231216
+2023-12-17,Arsenal,Brighton,2,0,http://football-data.co.uk/match/Arsenal_vs_Brighton_20231217
+2023-12-17,Brentford,Aston Villa,1,2,http://football-data.co.uk/match/Brentford_vs_Aston_Villa_20231217
+2023-12-17,West Ham,Wolves,3,0,http://football-data.co.uk/match/West_Ham_vs_Wolves_20231217
+2023-12-17,Liverpool,Man United,0,0,http://football-data.co.uk/match/Liverpool_vs_Man_United_20231217
+2023-12-21,Crystal Palace,Brighton,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Brighton_20231221
+2023-12-22,Aston Villa,Sheffield United,1,1,http://football-data.co.uk/match/Aston_Villa_vs_Sheffield_United_20231222
+2023-12-23,West Ham,Man United,2,0,http://football-data.co.uk/match/West_Ham_vs_Man_United_20231223
+2023-12-23,Fulham,Burnley,0,2,http://football-data.co.uk/match/Fulham_vs_Burnley_20231223
+2023-12-23,Luton,Newcastle,1,0,http://football-data.co.uk/match/Luton_vs_Newcastle_20231223
+2023-12-23,Nott'm Forest,Bournemouth,2,3,http://football-data.co.uk/match/Nott'm_Forest_vs_Bournemouth_20231223
+2023-12-23,Tottenham,Everton,2,1,http://football-data.co.uk/match/Tottenham_vs_Everton_20231223
+2023-12-23,Liverpool,Arsenal,1,1,http://football-data.co.uk/match/Liverpool_vs_Arsenal_20231223
+2023-12-24,Wolves,Chelsea,2,1,http://football-data.co.uk/match/Wolves_vs_Chelsea_20231224
+2023-12-26,Newcastle,Nott'm Forest,1,3,http://football-data.co.uk/match/Newcastle_vs_Nott'm_Forest_20231226
+2023-12-26,Bournemouth,Fulham,3,0,http://football-data.co.uk/match/Bournemouth_vs_Fulham_20231226
+2023-12-26,Sheffield United,Luton,2,3,http://football-data.co.uk/match/Sheffield_United_vs_Luton_20231226
+2023-12-26,Burnley,Liverpool,0,2,http://football-data.co.uk/match/Burnley_vs_Liverpool_20231226
+2023-12-26,Man United,Aston Villa,3,2,http://football-data.co.uk/match/Man_United_vs_Aston_Villa_20231226
+2023-12-27,Brentford,Wolves,1,4,http://football-data.co.uk/match/Brentford_vs_Wolves_20231227
+2023-12-27,Chelsea,Crystal Palace,2,1,http://football-data.co.uk/match/Chelsea_vs_Crystal_Palace_20231227
+2023-12-27,Everton,Man City,1,3,http://football-data.co.uk/match/Everton_vs_Man_City_20231227
+2023-12-28,Brighton,Tottenham,4,2,http://football-data.co.uk/match/Brighton_vs_Tottenham_20231228
+2023-12-28,Arsenal,West Ham,0,2,http://football-data.co.uk/match/Arsenal_vs_West_Ham_20231228
+2023-12-30,Luton,Chelsea,2,3,http://football-data.co.uk/match/Luton_vs_Chelsea_20231230
+2023-12-30,Aston Villa,Burnley,3,2,http://football-data.co.uk/match/Aston_Villa_vs_Burnley_20231230
+2023-12-30,Crystal Palace,Brentford,3,1,http://football-data.co.uk/match/Crystal_Palace_vs_Brentford_20231230
+2023-12-30,Man City,Sheffield United,2,0,http://football-data.co.uk/match/Man_City_vs_Sheffield_United_20231230
+2023-12-30,Wolves,Everton,3,0,http://football-data.co.uk/match/Wolves_vs_Everton_20231230
+2023-12-30,Nott'm Forest,Man United,2,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Man_United_20231230
+2023-12-31,Fulham,Arsenal,2,1,http://football-data.co.uk/match/Fulham_vs_Arsenal_20231231
+2023-12-31,Tottenham,Bournemouth,3,1,http://football-data.co.uk/match/Tottenham_vs_Bournemouth_20231231
+2024-01-01,Liverpool,Newcastle,4,2,http://football-data.co.uk/match/Liverpool_vs_Newcastle_20240101
+2024-01-02,West Ham,Brighton,0,0,http://football-data.co.uk/match/West_Ham_vs_Brighton_20240102
+2024-01-12,Burnley,Luton,1,1,http://football-data.co.uk/match/Burnley_vs_Luton_20240112
+2024-01-13,Chelsea,Fulham,1,0,http://football-data.co.uk/match/Chelsea_vs_Fulham_20240113
+2024-01-13,Newcastle,Man City,2,3,http://football-data.co.uk/match/Newcastle_vs_Man_City_20240113
+2024-01-14,Everton,Aston Villa,0,0,http://football-data.co.uk/match/Everton_vs_Aston_Villa_20240114
+2024-01-14,Man United,Tottenham,2,2,http://football-data.co.uk/match/Man_United_vs_Tottenham_20240114
+2024-01-20,Arsenal,Crystal Palace,5,0,http://football-data.co.uk/match/Arsenal_vs_Crystal_Palace_20240120
+2024-01-20,Brentford,Nott'm Forest,3,2,http://football-data.co.uk/match/Brentford_vs_Nott'm_Forest_20240120
+2024-01-21,Sheffield United,West Ham,2,2,http://football-data.co.uk/match/Sheffield_United_vs_West_Ham_20240121
+2024-01-21,Bournemouth,Liverpool,0,4,http://football-data.co.uk/match/Bournemouth_vs_Liverpool_20240121
+2024-01-22,Brighton,Wolves,0,0,http://football-data.co.uk/match/Brighton_vs_Wolves_20240122
+2024-01-30,Nott'm Forest,Arsenal,1,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Arsenal_20240130
+2024-01-30,Fulham,Everton,0,0,http://football-data.co.uk/match/Fulham_vs_Everton_20240130
+2024-01-30,Luton,Brighton,4,0,http://football-data.co.uk/match/Luton_vs_Brighton_20240130
+2024-01-30,Crystal Palace,Sheffield United,3,2,http://football-data.co.uk/match/Crystal_Palace_vs_Sheffield_United_20240130
+2024-01-30,Aston Villa,Newcastle,1,3,http://football-data.co.uk/match/Aston_Villa_vs_Newcastle_20240130
+2024-01-31,Man City,Burnley,3,1,http://football-data.co.uk/match/Man_City_vs_Burnley_20240131
+2024-01-31,Tottenham,Brentford,3,2,http://football-data.co.uk/match/Tottenham_vs_Brentford_20240131
+2024-01-31,Liverpool,Chelsea,4,1,http://football-data.co.uk/match/Liverpool_vs_Chelsea_20240131
+2024-02-01,West Ham,Bournemouth,1,1,http://football-data.co.uk/match/West_Ham_vs_Bournemouth_20240201
+2024-02-01,Wolves,Man United,3,4,http://football-data.co.uk/match/Wolves_vs_Man_United_20240201
+2024-02-03,Everton,Tottenham,2,2,http://football-data.co.uk/match/Everton_vs_Tottenham_20240203
+2024-02-03,Brighton,Crystal Palace,4,1,http://football-data.co.uk/match/Brighton_vs_Crystal_Palace_20240203
+2024-02-03,Burnley,Fulham,2,2,http://football-data.co.uk/match/Burnley_vs_Fulham_20240203
+2024-02-03,Newcastle,Luton,4,4,http://football-data.co.uk/match/Newcastle_vs_Luton_20240203
+2024-02-03,Sheffield United,Aston Villa,0,5,http://football-data.co.uk/match/Sheffield_United_vs_Aston_Villa_20240203
+2024-02-04,Bournemouth,Nott'm Forest,1,1,http://football-data.co.uk/match/Bournemouth_vs_Nott'm_Forest_20240204
+2024-02-04,Chelsea,Wolves,2,4,http://football-data.co.uk/match/Chelsea_vs_Wolves_20240204
+2024-02-04,Man United,West Ham,3,0,http://football-data.co.uk/match/Man_United_vs_West_Ham_20240204
+2024-02-04,Arsenal,Liverpool,3,1,http://football-data.co.uk/match/Arsenal_vs_Liverpool_20240204
+2024-02-05,Brentford,Man City,1,3,http://football-data.co.uk/match/Brentford_vs_Man_City_20240205
+2024-02-10,Man City,Everton,2,0,http://football-data.co.uk/match/Man_City_vs_Everton_20240210
+2024-02-10,Fulham,Bournemouth,3,1,http://football-data.co.uk/match/Fulham_vs_Bournemouth_20240210
+2024-02-10,Liverpool,Burnley,3,1,http://football-data.co.uk/match/Liverpool_vs_Burnley_20240210
+2024-02-10,Luton,Sheffield United,1,3,http://football-data.co.uk/match/Luton_vs_Sheffield_United_20240210
+2024-02-10,Tottenham,Brighton,2,1,http://football-data.co.uk/match/Tottenham_vs_Brighton_20240210
+2024-02-10,Wolves,Brentford,0,2,http://football-data.co.uk/match/Wolves_vs_Brentford_20240210
+2024-02-10,Nott'm Forest,Newcastle,2,3,http://football-data.co.uk/match/Nott'm_Forest_vs_Newcastle_20240210
+2024-02-11,West Ham,Arsenal,0,6,http://football-data.co.uk/match/West_Ham_vs_Arsenal_20240211
+2024-02-11,Aston Villa,Man United,1,2,http://football-data.co.uk/match/Aston_Villa_vs_Man_United_20240211
+2024-02-12,Crystal Palace,Chelsea,1,3,http://football-data.co.uk/match/Crystal_Palace_vs_Chelsea_20240212
+2024-02-17,Brentford,Liverpool,1,4,http://football-data.co.uk/match/Brentford_vs_Liverpool_20240217
+2024-02-17,Burnley,Arsenal,0,5,http://football-data.co.uk/match/Burnley_vs_Arsenal_20240217
+2024-02-17,Fulham,Aston Villa,1,2,http://football-data.co.uk/match/Fulham_vs_Aston_Villa_20240217
+2024-02-17,Newcastle,Bournemouth,2,2,http://football-data.co.uk/match/Newcastle_vs_Bournemouth_20240217
+2024-02-17,Nott'm Forest,West Ham,2,0,http://football-data.co.uk/match/Nott'm_Forest_vs_West_Ham_20240217
+2024-02-17,Tottenham,Wolves,1,2,http://football-data.co.uk/match/Tottenham_vs_Wolves_20240217
+2024-02-17,Man City,Chelsea,1,1,http://football-data.co.uk/match/Man_City_vs_Chelsea_20240217
+2024-02-18,Sheffield United,Brighton,0,5,http://football-data.co.uk/match/Sheffield_United_vs_Brighton_20240218
+2024-02-18,Luton,Man United,1,2,http://football-data.co.uk/match/Luton_vs_Man_United_20240218
+2024-02-19,Everton,Crystal Palace,1,1,http://football-data.co.uk/match/Everton_vs_Crystal_Palace_20240219
+2024-02-20,Man City,Brentford,1,0,http://football-data.co.uk/match/Man_City_vs_Brentford_20240220
+2024-02-21,Liverpool,Luton,4,1,http://football-data.co.uk/match/Liverpool_vs_Luton_20240221
+2024-02-24,Aston Villa,Nott'm Forest,4,2,http://football-data.co.uk/match/Aston_Villa_vs_Nott'm_Forest_20240224
+2024-02-24,Brighton,Everton,1,1,http://football-data.co.uk/match/Brighton_vs_Everton_20240224
+2024-02-24,Crystal Palace,Burnley,3,0,http://football-data.co.uk/match/Crystal_Palace_vs_Burnley_20240224
+2024-02-24,Man United,Fulham,1,2,http://football-data.co.uk/match/Man_United_vs_Fulham_20240224
+2024-02-24,Bournemouth,Man City,0,1,http://football-data.co.uk/match/Bournemouth_vs_Man_City_20240224
+2024-02-24,Arsenal,Newcastle,4,1,http://football-data.co.uk/match/Arsenal_vs_Newcastle_20240224
+2024-02-25,Wolves,Sheffield United,1,0,http://football-data.co.uk/match/Wolves_vs_Sheffield_United_20240225
+2024-02-26,West Ham,Brentford,4,2,http://football-data.co.uk/match/West_Ham_vs_Brentford_20240226
+2024-03-02,Brentford,Chelsea,2,2,http://football-data.co.uk/match/Brentford_vs_Chelsea_20240302
+2024-03-02,Everton,West Ham,1,3,http://football-data.co.uk/match/Everton_vs_West_Ham_20240302
+2024-03-02,Fulham,Brighton,3,0,http://football-data.co.uk/match/Fulham_vs_Brighton_20240302
+2024-03-02,Newcastle,Wolves,3,0,http://football-data.co.uk/match/Newcastle_vs_Wolves_20240302
+2024-03-02,Nott'm Forest,Liverpool,0,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Liverpool_20240302
+2024-03-02,Tottenham,Crystal Palace,3,1,http://football-data.co.uk/match/Tottenham_vs_Crystal_Palace_20240302
+2024-03-02,Luton,Aston Villa,2,3,http://football-data.co.uk/match/Luton_vs_Aston_Villa_20240302
+2024-03-03,Burnley,Bournemouth,0,2,http://football-data.co.uk/match/Burnley_vs_Bournemouth_20240303
+2024-03-03,Man City,Man United,3,1,http://football-data.co.uk/match/Man_City_vs_Man_United_20240303
+2024-03-04,Sheffield United,Arsenal,0,6,http://football-data.co.uk/match/Sheffield_United_vs_Arsenal_20240304
+2024-03-09,Man United,Everton,2,0,http://football-data.co.uk/match/Man_United_vs_Everton_20240309
+2024-03-09,Bournemouth,Sheffield United,2,2,http://football-data.co.uk/match/Bournemouth_vs_Sheffield_United_20240309
+2024-03-09,Crystal Palace,Luton,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Luton_20240309
+2024-03-09,Wolves,Fulham,2,1,http://football-data.co.uk/match/Wolves_vs_Fulham_20240309
+2024-03-09,Arsenal,Brentford,2,1,http://football-data.co.uk/match/Arsenal_vs_Brentford_20240309
+2024-03-10,Aston Villa,Tottenham,0,4,http://football-data.co.uk/match/Aston_Villa_vs_Tottenham_20240310
+2024-03-10,Brighton,Nott'm Forest,1,0,http://football-data.co.uk/match/Brighton_vs_Nott'm_Forest_20240310
+2024-03-10,West Ham,Burnley,2,2,http://football-data.co.uk/match/West_Ham_vs_Burnley_20240310
+2024-03-10,Liverpool,Man City,1,1,http://football-data.co.uk/match/Liverpool_vs_Man_City_20240310
+2024-03-11,Chelsea,Newcastle,3,2,http://football-data.co.uk/match/Chelsea_vs_Newcastle_20240311
+2024-03-13,Bournemouth,Luton,4,3,http://football-data.co.uk/match/Bournemouth_vs_Luton_20240313
+2024-03-16,Burnley,Brentford,2,1,http://football-data.co.uk/match/Burnley_vs_Brentford_20240316
+2024-03-16,Luton,Nott'm Forest,1,1,http://football-data.co.uk/match/Luton_vs_Nott'm_Forest_20240316
+2024-03-16,Fulham,Tottenham,3,0,http://football-data.co.uk/match/Fulham_vs_Tottenham_20240316
+2024-03-17,West Ham,Aston Villa,1,1,http://football-data.co.uk/match/West_Ham_vs_Aston_Villa_20240317
+2024-03-30,Newcastle,West Ham,4,3,http://football-data.co.uk/match/Newcastle_vs_West_Ham_20240330
+2024-03-30,Bournemouth,Everton,2,1,http://football-data.co.uk/match/Bournemouth_vs_Everton_20240330
+2024-03-30,Chelsea,Burnley,2,2,http://football-data.co.uk/match/Chelsea_vs_Burnley_20240330
+2024-03-30,Nott'm Forest,Crystal Palace,1,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Crystal_Palace_20240330
+2024-03-30,Sheffield United,Fulham,3,3,http://football-data.co.uk/match/Sheffield_United_vs_Fulham_20240330
+2024-03-30,Tottenham,Luton,2,1,http://football-data.co.uk/match/Tottenham_vs_Luton_20240330
+2024-03-30,Aston Villa,Wolves,2,0,http://football-data.co.uk/match/Aston_Villa_vs_Wolves_20240330
+2024-03-30,Brentford,Man United,1,1,http://football-data.co.uk/match/Brentford_vs_Man_United_20240330
+2024-03-31,Liverpool,Brighton,2,1,http://football-data.co.uk/match/Liverpool_vs_Brighton_20240331
+2024-03-31,Man City,Arsenal,0,0,http://football-data.co.uk/match/Man_City_vs_Arsenal_20240331
+2024-04-02,Newcastle,Everton,1,1,http://football-data.co.uk/match/Newcastle_vs_Everton_20240402
+2024-04-02,Nott'm Forest,Fulham,3,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Fulham_20240402
+2024-04-02,Bournemouth,Crystal Palace,1,0,http://football-data.co.uk/match/Bournemouth_vs_Crystal_Palace_20240402
+2024-04-02,Burnley,Wolves,1,1,http://football-data.co.uk/match/Burnley_vs_Wolves_20240402
+2024-04-02,West Ham,Tottenham,1,1,http://football-data.co.uk/match/West_Ham_vs_Tottenham_20240402
+2024-04-03,Arsenal,Luton,2,0,http://football-data.co.uk/match/Arsenal_vs_Luton_20240403
+2024-04-03,Brentford,Brighton,0,0,http://football-data.co.uk/match/Brentford_vs_Brighton_20240403
+2024-04-03,Man City,Aston Villa,4,1,http://football-data.co.uk/match/Man_City_vs_Aston_Villa_20240403
+2024-04-04,Liverpool,Sheffield United,3,1,http://football-data.co.uk/match/Liverpool_vs_Sheffield_United_20240404
+2024-04-04,Chelsea,Man United,4,3,http://football-data.co.uk/match/Chelsea_vs_Man_United_20240404
+2024-04-06,Crystal Palace,Man City,2,4,http://football-data.co.uk/match/Crystal_Palace_vs_Man_City_20240406
+2024-04-06,Aston Villa,Brentford,3,3,http://football-data.co.uk/match/Aston_Villa_vs_Brentford_20240406
+2024-04-06,Everton,Burnley,1,0,http://football-data.co.uk/match/Everton_vs_Burnley_20240406
+2024-04-06,Fulham,Newcastle,0,1,http://football-data.co.uk/match/Fulham_vs_Newcastle_20240406
+2024-04-06,Luton,Bournemouth,2,1,http://football-data.co.uk/match/Luton_vs_Bournemouth_20240406
+2024-04-06,Wolves,West Ham,1,2,http://football-data.co.uk/match/Wolves_vs_West_Ham_20240406
+2024-04-06,Brighton,Arsenal,0,3,http://football-data.co.uk/match/Brighton_vs_Arsenal_20240406
+2024-04-07,Man United,Liverpool,2,2,http://football-data.co.uk/match/Man_United_vs_Liverpool_20240407
+2024-04-07,Sheffield United,Chelsea,2,2,http://football-data.co.uk/match/Sheffield_United_vs_Chelsea_20240407
+2024-04-07,Tottenham,Nott'm Forest,3,1,http://football-data.co.uk/match/Tottenham_vs_Nott'm_Forest_20240407
+2024-04-13,Newcastle,Tottenham,4,0,http://football-data.co.uk/match/Newcastle_vs_Tottenham_20240413
+2024-04-13,Brentford,Sheffield United,2,0,http://football-data.co.uk/match/Brentford_vs_Sheffield_United_20240413
+2024-04-13,Burnley,Brighton,1,1,http://football-data.co.uk/match/Burnley_vs_Brighton_20240413
+2024-04-13,Man City,Luton,5,1,http://football-data.co.uk/match/Man_City_vs_Luton_20240413
+2024-04-13,Nott'm Forest,Wolves,2,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Wolves_20240413
+2024-04-13,Bournemouth,Man United,2,2,http://football-data.co.uk/match/Bournemouth_vs_Man_United_20240413
+2024-04-14,Liverpool,Crystal Palace,0,1,http://football-data.co.uk/match/Liverpool_vs_Crystal_Palace_20240414
+2024-04-14,West Ham,Fulham,0,2,http://football-data.co.uk/match/West_Ham_vs_Fulham_20240414
+2024-04-14,Arsenal,Aston Villa,0,2,http://football-data.co.uk/match/Arsenal_vs_Aston_Villa_20240414
+2024-04-15,Chelsea,Everton,6,0,http://football-data.co.uk/match/Chelsea_vs_Everton_20240415
+2024-04-20,Luton,Brentford,1,5,http://football-data.co.uk/match/Luton_vs_Brentford_20240420
+2024-04-20,Sheffield United,Burnley,1,4,http://football-data.co.uk/match/Sheffield_United_vs_Burnley_20240420
+2024-04-20,Wolves,Arsenal,0,2,http://football-data.co.uk/match/Wolves_vs_Arsenal_20240420
+2024-04-21,Everton,Nott'm Forest,2,0,http://football-data.co.uk/match/Everton_vs_Nott'm_Forest_20240421
+2024-04-21,Aston Villa,Bournemouth,3,1,http://football-data.co.uk/match/Aston_Villa_vs_Bournemouth_20240421
+2024-04-21,Crystal Palace,West Ham,5,2,http://football-data.co.uk/match/Crystal_Palace_vs_West_Ham_20240421
+2024-04-21,Fulham,Liverpool,1,3,http://football-data.co.uk/match/Fulham_vs_Liverpool_20240421
+2024-04-23,Arsenal,Chelsea,5,0,http://football-data.co.uk/match/Arsenal_vs_Chelsea_20240423
+2024-04-24,Wolves,Bournemouth,0,1,http://football-data.co.uk/match/Wolves_vs_Bournemouth_20240424
+2024-04-24,Crystal Palace,Newcastle,2,0,http://football-data.co.uk/match/Crystal_Palace_vs_Newcastle_20240424
+2024-04-24,Everton,Liverpool,2,0,http://football-data.co.uk/match/Everton_vs_Liverpool_20240424
+2024-04-24,Man United,Sheffield United,4,2,http://football-data.co.uk/match/Man_United_vs_Sheffield_United_20240424
+2024-04-25,Brighton,Man City,0,4,http://football-data.co.uk/match/Brighton_vs_Man_City_20240425
+2024-04-27,West Ham,Liverpool,2,2,http://football-data.co.uk/match/West_Ham_vs_Liverpool_20240427
+2024-04-27,Fulham,Crystal Palace,1,1,http://football-data.co.uk/match/Fulham_vs_Crystal_Palace_20240427
+2024-04-27,Man United,Burnley,1,1,http://football-data.co.uk/match/Man_United_vs_Burnley_20240427
+2024-04-27,Newcastle,Sheffield United,5,1,http://football-data.co.uk/match/Newcastle_vs_Sheffield_United_20240427
+2024-04-27,Wolves,Luton,2,1,http://football-data.co.uk/match/Wolves_vs_Luton_20240427
+2024-04-27,Everton,Brentford,1,0,http://football-data.co.uk/match/Everton_vs_Brentford_20240427
+2024-04-27,Aston Villa,Chelsea,2,2,http://football-data.co.uk/match/Aston_Villa_vs_Chelsea_20240427
+2024-04-28,Bournemouth,Brighton,3,0,http://football-data.co.uk/match/Bournemouth_vs_Brighton_20240428
+2024-04-28,Tottenham,Arsenal,2,3,http://football-data.co.uk/match/Tottenham_vs_Arsenal_20240428
+2024-04-28,Nott'm Forest,Man City,0,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Man_City_20240428
+2024-05-02,Chelsea,Tottenham,2,0,http://football-data.co.uk/match/Chelsea_vs_Tottenham_20240502
+2024-05-03,Luton,Everton,1,1,http://football-data.co.uk/match/Luton_vs_Everton_20240503
+2024-05-04,Arsenal,Bournemouth,3,0,http://football-data.co.uk/match/Arsenal_vs_Bournemouth_20240504
+2024-05-04,Brentford,Fulham,0,0,http://football-data.co.uk/match/Brentford_vs_Fulham_20240504
+2024-05-04,Burnley,Newcastle,1,4,http://football-data.co.uk/match/Burnley_vs_Newcastle_20240504
+2024-05-04,Sheffield United,Nott'm Forest,1,3,http://football-data.co.uk/match/Sheffield_United_vs_Nott'm_Forest_20240504
+2024-05-04,Man City,Wolves,5,1,http://football-data.co.uk/match/Man_City_vs_Wolves_20240504
+2024-05-05,Brighton,Aston Villa,1,0,http://football-data.co.uk/match/Brighton_vs_Aston_Villa_20240505
+2024-05-05,Chelsea,West Ham,5,0,http://football-data.co.uk/match/Chelsea_vs_West_Ham_20240505
+2024-05-05,Liverpool,Tottenham,4,2,http://football-data.co.uk/match/Liverpool_vs_Tottenham_20240505
+2024-05-06,Crystal Palace,Man United,4,0,http://football-data.co.uk/match/Crystal_Palace_vs_Man_United_20240506
+2024-05-11,Fulham,Man City,0,4,http://football-data.co.uk/match/Fulham_vs_Man_City_20240511
+2024-05-11,Bournemouth,Brentford,1,2,http://football-data.co.uk/match/Bournemouth_vs_Brentford_20240511
+2024-05-11,Everton,Sheffield United,1,0,http://football-data.co.uk/match/Everton_vs_Sheffield_United_20240511
+2024-05-11,Newcastle,Brighton,1,1,http://football-data.co.uk/match/Newcastle_vs_Brighton_20240511
+2024-05-11,Tottenham,Burnley,2,1,http://football-data.co.uk/match/Tottenham_vs_Burnley_20240511
+2024-05-11,West Ham,Luton,3,1,http://football-data.co.uk/match/West_Ham_vs_Luton_20240511
+2024-05-11,Wolves,Crystal Palace,1,3,http://football-data.co.uk/match/Wolves_vs_Crystal_Palace_20240511
+2024-05-11,Nott'm Forest,Chelsea,2,3,http://football-data.co.uk/match/Nott'm_Forest_vs_Chelsea_20240511
+2024-05-12,Man United,Arsenal,0,1,http://football-data.co.uk/match/Man_United_vs_Arsenal_20240512
+2024-05-13,Aston Villa,Liverpool,3,3,http://football-data.co.uk/match/Aston_Villa_vs_Liverpool_20240513
+2024-05-14,Tottenham,Man City,0,2,http://football-data.co.uk/match/Tottenham_vs_Man_City_20240514
+2024-05-15,Brighton,Chelsea,1,2,http://football-data.co.uk/match/Brighton_vs_Chelsea_20240515
+2024-05-15,Man United,Newcastle,3,2,http://football-data.co.uk/match/Man_United_vs_Newcastle_20240515
+2024-05-19,Arsenal,Everton,2,1,http://football-data.co.uk/match/Arsenal_vs_Everton_20240519
+2024-05-19,Brentford,Newcastle,2,4,http://football-data.co.uk/match/Brentford_vs_Newcastle_20240519
+2024-05-19,Brighton,Man United,0,2,http://football-data.co.uk/match/Brighton_vs_Man_United_20240519
+2024-05-19,Burnley,Nott'm Forest,1,2,http://football-data.co.uk/match/Burnley_vs_Nott'm_Forest_20240519
+2024-05-19,Chelsea,Bournemouth,2,1,http://football-data.co.uk/match/Chelsea_vs_Bournemouth_20240519
+2024-05-19,Crystal Palace,Aston Villa,5,0,http://football-data.co.uk/match/Crystal_Palace_vs_Aston_Villa_20240519
+2024-05-19,Liverpool,Wolves,2,0,http://football-data.co.uk/match/Liverpool_vs_Wolves_20240519
+2024-05-19,Luton,Fulham,2,4,http://football-data.co.uk/match/Luton_vs_Fulham_20240519
+2024-05-19,Man City,West Ham,3,1,http://football-data.co.uk/match/Man_City_vs_West_Ham_20240519
+2024-05-19,Sheffield United,Tottenham,0,3,http://football-data.co.uk/match/Sheffield_United_vs_Tottenham_20240519
+2022-08-05,Crystal Palace,Arsenal,0,2,http://football-data.co.uk/match/Crystal_Palace_vs_Arsenal_20220805
+2022-08-06,Fulham,Liverpool,2,2,http://football-data.co.uk/match/Fulham_vs_Liverpool_20220806
+2022-08-06,Bournemouth,Aston Villa,2,0,http://football-data.co.uk/match/Bournemouth_vs_Aston_Villa_20220806
+2022-08-06,Leeds,Wolves,2,1,http://football-data.co.uk/match/Leeds_vs_Wolves_20220806
+2022-08-06,Newcastle,Nott'm Forest,2,0,http://football-data.co.uk/match/Newcastle_vs_Nott'm_Forest_20220806
+2022-08-06,Tottenham,Southampton,4,1,http://football-data.co.uk/match/Tottenham_vs_Southampton_20220806
+2022-08-06,Everton,Chelsea,0,1,http://football-data.co.uk/match/Everton_vs_Chelsea_20220806
+2022-08-07,Leicester,Brentford,2,2,http://football-data.co.uk/match/Leicester_vs_Brentford_20220807
+2022-08-07,Man United,Brighton,1,2,http://football-data.co.uk/match/Man_United_vs_Brighton_20220807
+2022-08-07,West Ham,Man City,0,2,http://football-data.co.uk/match/West_Ham_vs_Man_City_20220807
+2022-08-13,Aston Villa,Everton,2,1,http://football-data.co.uk/match/Aston_Villa_vs_Everton_20220813
+2022-08-13,Arsenal,Leicester,4,2,http://football-data.co.uk/match/Arsenal_vs_Leicester_20220813
+2022-08-13,Brighton,Newcastle,0,0,http://football-data.co.uk/match/Brighton_vs_Newcastle_20220813
+2022-08-13,Man City,Bournemouth,4,0,http://football-data.co.uk/match/Man_City_vs_Bournemouth_20220813
+2022-08-13,Southampton,Leeds,2,2,http://football-data.co.uk/match/Southampton_vs_Leeds_20220813
+2022-08-13,Wolves,Fulham,0,0,http://football-data.co.uk/match/Wolves_vs_Fulham_20220813
+2022-08-13,Brentford,Man United,4,0,http://football-data.co.uk/match/Brentford_vs_Man_United_20220813
+2022-08-14,Nott'm Forest,West Ham,1,0,http://football-data.co.uk/match/Nott'm_Forest_vs_West_Ham_20220814
+2022-08-14,Chelsea,Tottenham,2,2,http://football-data.co.uk/match/Chelsea_vs_Tottenham_20220814
+2022-08-15,Liverpool,Crystal Palace,1,1,http://football-data.co.uk/match/Liverpool_vs_Crystal_Palace_20220815
+2022-08-20,Tottenham,Wolves,1,0,http://football-data.co.uk/match/Tottenham_vs_Wolves_20220820
+2022-08-20,Crystal Palace,Aston Villa,3,1,http://football-data.co.uk/match/Crystal_Palace_vs_Aston_Villa_20220820
+2022-08-20,Everton,Nott'm Forest,1,1,http://football-data.co.uk/match/Everton_vs_Nott'm_Forest_20220820
+2022-08-20,Fulham,Brentford,3,2,http://football-data.co.uk/match/Fulham_vs_Brentford_20220820
+2022-08-20,Leicester,Southampton,1,2,http://football-data.co.uk/match/Leicester_vs_Southampton_20220820
+2022-08-20,Bournemouth,Arsenal,0,3,http://football-data.co.uk/match/Bournemouth_vs_Arsenal_20220820
+2022-08-21,Leeds,Chelsea,3,0,http://football-data.co.uk/match/Leeds_vs_Chelsea_20220821
+2022-08-21,West Ham,Brighton,0,2,http://football-data.co.uk/match/West_Ham_vs_Brighton_20220821
+2022-08-21,Newcastle,Man City,3,3,http://football-data.co.uk/match/Newcastle_vs_Man_City_20220821
+2022-08-22,Man United,Liverpool,2,1,http://football-data.co.uk/match/Man_United_vs_Liverpool_20220822
+2022-08-27,Southampton,Man United,0,1,http://football-data.co.uk/match/Southampton_vs_Man_United_20220827
+2022-08-27,Brentford,Everton,1,1,http://football-data.co.uk/match/Brentford_vs_Everton_20220827
+2022-08-27,Brighton,Leeds,1,0,http://football-data.co.uk/match/Brighton_vs_Leeds_20220827
+2022-08-27,Chelsea,Leicester,2,1,http://football-data.co.uk/match/Chelsea_vs_Leicester_20220827
+2022-08-27,Liverpool,Bournemouth,9,0,http://football-data.co.uk/match/Liverpool_vs_Bournemouth_20220827
+2022-08-27,Man City,Crystal Palace,4,2,http://football-data.co.uk/match/Man_City_vs_Crystal_Palace_20220827
+2022-08-27,Arsenal,Fulham,2,1,http://football-data.co.uk/match/Arsenal_vs_Fulham_20220827
+2022-08-28,Aston Villa,West Ham,0,1,http://football-data.co.uk/match/Aston_Villa_vs_West_Ham_20220828
+2022-08-28,Wolves,Newcastle,1,1,http://football-data.co.uk/match/Wolves_vs_Newcastle_20220828
+2022-08-28,Nott'm Forest,Tottenham,0,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Tottenham_20220828
+2022-08-30,Crystal Palace,Brentford,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Brentford_20220830
+2022-08-30,Fulham,Brighton,2,1,http://football-data.co.uk/match/Fulham_vs_Brighton_20220830
+2022-08-30,Southampton,Chelsea,2,1,http://football-data.co.uk/match/Southampton_vs_Chelsea_20220830
+2022-08-30,Leeds,Everton,1,1,http://football-data.co.uk/match/Leeds_vs_Everton_20220830
+2022-08-31,Arsenal,Aston Villa,2,1,http://football-data.co.uk/match/Arsenal_vs_Aston_Villa_20220831
+2022-08-31,Bournemouth,Wolves,0,0,http://football-data.co.uk/match/Bournemouth_vs_Wolves_20220831
+2022-08-31,Man City,Nott'm Forest,6,0,http://football-data.co.uk/match/Man_City_vs_Nott'm_Forest_20220831
+2022-08-31,West Ham,Tottenham,1,1,http://football-data.co.uk/match/West_Ham_vs_Tottenham_20220831
+2022-08-31,Liverpool,Newcastle,2,1,http://football-data.co.uk/match/Liverpool_vs_Newcastle_20220831
+2022-09-01,Leicester,Man United,0,1,http://football-data.co.uk/match/Leicester_vs_Man_United_20220901
+2022-09-03,Everton,Liverpool,0,0,http://football-data.co.uk/match/Everton_vs_Liverpool_20220903
+2022-09-03,Brentford,Leeds,5,2,http://football-data.co.uk/match/Brentford_vs_Leeds_20220903
+2022-09-03,Chelsea,West Ham,2,1,http://football-data.co.uk/match/Chelsea_vs_West_Ham_20220903
+2022-09-03,Newcastle,Crystal Palace,0,0,http://football-data.co.uk/match/Newcastle_vs_Crystal_Palace_20220903
+2022-09-03,Nott'm Forest,Bournemouth,2,3,http://football-data.co.uk/match/Nott'm_Forest_vs_Bournemouth_20220903
+2022-09-03,Tottenham,Fulham,2,1,http://football-data.co.uk/match/Tottenham_vs_Fulham_20220903
+2022-09-03,Wolves,Southampton,1,0,http://football-data.co.uk/match/Wolves_vs_Southampton_20220903
+2022-09-03,Aston Villa,Man City,1,1,http://football-data.co.uk/match/Aston_Villa_vs_Man_City_20220903
+2022-09-04,Brighton,Leicester,5,2,http://football-data.co.uk/match/Brighton_vs_Leicester_20220904
+2022-09-04,Man United,Arsenal,3,1,http://football-data.co.uk/match/Man_United_vs_Arsenal_20220904
+2022-09-16,Aston Villa,Southampton,1,0,http://football-data.co.uk/match/Aston_Villa_vs_Southampton_20220916
+2022-09-16,Nott'm Forest,Fulham,2,3,http://football-data.co.uk/match/Nott'm_Forest_vs_Fulham_20220916
+2022-09-17,Wolves,Man City,0,3,http://football-data.co.uk/match/Wolves_vs_Man_City_20220917
+2022-09-17,Newcastle,Bournemouth,1,1,http://football-data.co.uk/match/Newcastle_vs_Bournemouth_20220917
+2022-09-17,Tottenham,Leicester,6,2,http://football-data.co.uk/match/Tottenham_vs_Leicester_20220917
+2022-09-18,Brentford,Arsenal,0,3,http://football-data.co.uk/match/Brentford_vs_Arsenal_20220918
+2022-09-18,Everton,West Ham,1,0,http://football-data.co.uk/match/Everton_vs_West_Ham_20220918
+2022-10-01,Arsenal,Tottenham,3,1,http://football-data.co.uk/match/Arsenal_vs_Tottenham_20221001
+2022-10-01,Bournemouth,Brentford,0,0,http://football-data.co.uk/match/Bournemouth_vs_Brentford_20221001
+2022-10-01,Crystal Palace,Chelsea,1,2,http://football-data.co.uk/match/Crystal_Palace_vs_Chelsea_20221001
+2022-10-01,Fulham,Newcastle,1,4,http://football-data.co.uk/match/Fulham_vs_Newcastle_20221001
+2022-10-01,Liverpool,Brighton,3,3,http://football-data.co.uk/match/Liverpool_vs_Brighton_20221001
+2022-10-01,Southampton,Everton,1,2,http://football-data.co.uk/match/Southampton_vs_Everton_20221001
+2022-10-01,West Ham,Wolves,2,0,http://football-data.co.uk/match/West_Ham_vs_Wolves_20221001
+2022-10-02,Man City,Man United,6,3,http://football-data.co.uk/match/Man_City_vs_Man_United_20221002
+2022-10-02,Leeds,Aston Villa,0,0,http://football-data.co.uk/match/Leeds_vs_Aston_Villa_20221002
+2022-10-03,Leicester,Nott'm Forest,4,0,http://football-data.co.uk/match/Leicester_vs_Nott'm_Forest_20221003
+2022-10-08,Bournemouth,Leicester,2,1,http://football-data.co.uk/match/Bournemouth_vs_Leicester_20221008
+2022-10-08,Chelsea,Wolves,3,0,http://football-data.co.uk/match/Chelsea_vs_Wolves_20221008
+2022-10-08,Man City,Southampton,4,0,http://football-data.co.uk/match/Man_City_vs_Southampton_20221008
+2022-10-08,Newcastle,Brentford,5,1,http://football-data.co.uk/match/Newcastle_vs_Brentford_20221008
+2022-10-08,Brighton,Tottenham,0,1,http://football-data.co.uk/match/Brighton_vs_Tottenham_20221008
+2022-10-09,Crystal Palace,Leeds,2,1,http://football-data.co.uk/match/Crystal_Palace_vs_Leeds_20221009
+2022-10-09,West Ham,Fulham,3,1,http://football-data.co.uk/match/West_Ham_vs_Fulham_20221009
+2022-10-09,Arsenal,Liverpool,3,2,http://football-data.co.uk/match/Arsenal_vs_Liverpool_20221009
+2022-10-09,Everton,Man United,1,2,http://football-data.co.uk/match/Everton_vs_Man_United_20221009
+2022-10-10,Nott'm Forest,Aston Villa,1,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Aston_Villa_20221010
+2022-10-14,Brentford,Brighton,2,0,http://football-data.co.uk/match/Brentford_vs_Brighton_20221014
+2022-10-15,Leicester,Crystal Palace,0,0,http://football-data.co.uk/match/Leicester_vs_Crystal_Palace_20221015
+2022-10-15,Fulham,Bournemouth,2,2,http://football-data.co.uk/match/Fulham_vs_Bournemouth_20221015
+2022-10-15,Wolves,Nott'm Forest,1,0,http://football-data.co.uk/match/Wolves_vs_Nott'm_Forest_20221015
+2022-10-15,Tottenham,Everton,2,0,http://football-data.co.uk/match/Tottenham_vs_Everton_20221015
+2022-10-16,Aston Villa,Chelsea,0,2,http://football-data.co.uk/match/Aston_Villa_vs_Chelsea_20221016
+2022-10-16,Leeds,Arsenal,0,1,http://football-data.co.uk/match/Leeds_vs_Arsenal_20221016
+2022-10-16,Man United,Newcastle,0,0,http://football-data.co.uk/match/Man_United_vs_Newcastle_20221016
+2022-10-16,Southampton,West Ham,1,1,http://football-data.co.uk/match/Southampton_vs_West_Ham_20221016
+2022-10-16,Liverpool,Man City,1,0,http://football-data.co.uk/match/Liverpool_vs_Man_City_20221016
+2022-10-18,Brighton,Nott'm Forest,0,0,http://football-data.co.uk/match/Brighton_vs_Nott'm_Forest_20221018
+2022-10-18,Crystal Palace,Wolves,2,1,http://football-data.co.uk/match/Crystal_Palace_vs_Wolves_20221018
+2022-10-19,Bournemouth,Southampton,0,1,http://football-data.co.uk/match/Bournemouth_vs_Southampton_20221019
+2022-10-19,Brentford,Chelsea,0,0,http://football-data.co.uk/match/Brentford_vs_Chelsea_20221019
+2022-10-19,Liverpool,West Ham,1,0,http://football-data.co.uk/match/Liverpool_vs_West_Ham_20221019
+2022-10-19,Newcastle,Everton,1,0,http://football-data.co.uk/match/Newcastle_vs_Everton_20221019
+2022-10-19,Man United,Tottenham,2,0,http://football-data.co.uk/match/Man_United_vs_Tottenham_20221019
+2022-10-20,Fulham,Aston Villa,3,0,http://football-data.co.uk/match/Fulham_vs_Aston_Villa_20221020
+2022-10-20,Leicester,Leeds,2,0,http://football-data.co.uk/match/Leicester_vs_Leeds_20221020
+2022-10-22,Nott'm Forest,Liverpool,1,0,http://football-data.co.uk/match/Nott'm_Forest_vs_Liverpool_20221022
+2022-10-22,Everton,Crystal Palace,3,0,http://football-data.co.uk/match/Everton_vs_Crystal_Palace_20221022
+2022-10-22,Man City,Brighton,3,1,http://football-data.co.uk/match/Man_City_vs_Brighton_20221022
+2022-10-22,Chelsea,Man United,1,1,http://football-data.co.uk/match/Chelsea_vs_Man_United_20221022
+2022-10-23,Aston Villa,Brentford,4,0,http://football-data.co.uk/match/Aston_Villa_vs_Brentford_20221023
+2022-10-23,Leeds,Fulham,2,3,http://football-data.co.uk/match/Leeds_vs_Fulham_20221023
+2022-10-23,Southampton,Arsenal,1,1,http://football-data.co.uk/match/Southampton_vs_Arsenal_20221023
+2022-10-23,Wolves,Leicester,0,4,http://football-data.co.uk/match/Wolves_vs_Leicester_20221023
+2022-10-23,Tottenham,Newcastle,1,2,http://football-data.co.uk/match/Tottenham_vs_Newcastle_20221023
+2022-10-24,West Ham,Bournemouth,2,0,http://football-data.co.uk/match/West_Ham_vs_Bournemouth_20221024
+2022-10-29,Leicester,Man City,0,1,http://football-data.co.uk/match/Leicester_vs_Man_City_20221029
+2022-10-29,Bournemouth,Tottenham,2,3,http://football-data.co.uk/match/Bournemouth_vs_Tottenham_20221029
+2022-10-29,Brentford,Wolves,1,1,http://football-data.co.uk/match/Brentford_vs_Wolves_20221029
+2022-10-29,Brighton,Chelsea,4,1,http://football-data.co.uk/match/Brighton_vs_Chelsea_20221029
+2022-10-29,Crystal Palace,Southampton,1,0,http://football-data.co.uk/match/Crystal_Palace_vs_Southampton_20221029
+2022-10-29,Newcastle,Aston Villa,4,0,http://football-data.co.uk/match/Newcastle_vs_Aston_Villa_20221029
+2022-10-29,Fulham,Everton,0,0,http://football-data.co.uk/match/Fulham_vs_Everton_20221029
+2022-10-29,Liverpool,Leeds,1,2,http://football-data.co.uk/match/Liverpool_vs_Leeds_20221029
+2022-10-30,Arsenal,Nott'm Forest,5,0,http://football-data.co.uk/match/Arsenal_vs_Nott'm_Forest_20221030
+2022-10-30,Man United,West Ham,1,0,http://football-data.co.uk/match/Man_United_vs_West_Ham_20221030
+2022-11-05,Leeds,Bournemouth,4,3,http://football-data.co.uk/match/Leeds_vs_Bournemouth_20221105
+2022-11-05,Man City,Fulham,2,1,http://football-data.co.uk/match/Man_City_vs_Fulham_20221105
+2022-11-05,Nott'm Forest,Brentford,2,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Brentford_20221105
+2022-11-05,Wolves,Brighton,2,3,http://football-data.co.uk/match/Wolves_vs_Brighton_20221105
+2022-11-05,Everton,Leicester,0,2,http://football-data.co.uk/match/Everton_vs_Leicester_20221105
+2022-11-06,Chelsea,Arsenal,0,1,http://football-data.co.uk/match/Chelsea_vs_Arsenal_20221106
+2022-11-06,Aston Villa,Man United,3,1,http://football-data.co.uk/match/Aston_Villa_vs_Man_United_20221106
+2022-11-06,Southampton,Newcastle,1,4,http://football-data.co.uk/match/Southampton_vs_Newcastle_20221106
+2022-11-06,West Ham,Crystal Palace,1,2,http://football-data.co.uk/match/West_Ham_vs_Crystal_Palace_20221106
+2022-11-06,Tottenham,Liverpool,1,2,http://football-data.co.uk/match/Tottenham_vs_Liverpool_20221106
+2022-11-12,Man City,Brentford,1,2,http://football-data.co.uk/match/Man_City_vs_Brentford_20221112
+2022-11-12,Bournemouth,Everton,3,0,http://football-data.co.uk/match/Bournemouth_vs_Everton_20221112
+2022-11-12,Liverpool,Southampton,3,1,http://football-data.co.uk/match/Liverpool_vs_Southampton_20221112
+2022-11-12,Nott'm Forest,Crystal Palace,1,0,http://football-data.co.uk/match/Nott'm_Forest_vs_Crystal_Palace_20221112
+2022-11-12,Tottenham,Leeds,4,3,http://football-data.co.uk/match/Tottenham_vs_Leeds_20221112
+2022-11-12,West Ham,Leicester,0,2,http://football-data.co.uk/match/West_Ham_vs_Leicester_20221112
+2022-11-12,Newcastle,Chelsea,1,0,http://football-data.co.uk/match/Newcastle_vs_Chelsea_20221112
+2022-11-12,Wolves,Arsenal,0,2,http://football-data.co.uk/match/Wolves_vs_Arsenal_20221112
+2022-11-13,Brighton,Aston Villa,1,2,http://football-data.co.uk/match/Brighton_vs_Aston_Villa_20221113
+2022-11-13,Fulham,Man United,1,2,http://football-data.co.uk/match/Fulham_vs_Man_United_20221113
+2022-12-26,Brentford,Tottenham,2,2,http://football-data.co.uk/match/Brentford_vs_Tottenham_20221226
+2022-12-26,Crystal Palace,Fulham,0,3,http://football-data.co.uk/match/Crystal_Palace_vs_Fulham_20221226
+2022-12-26,Everton,Wolves,1,2,http://football-data.co.uk/match/Everton_vs_Wolves_20221226
+2022-12-26,Leicester,Newcastle,0,3,http://football-data.co.uk/match/Leicester_vs_Newcastle_20221226
+2022-12-26,Southampton,Brighton,1,3,http://football-data.co.uk/match/Southampton_vs_Brighton_20221226
+2022-12-26,Aston Villa,Liverpool,1,3,http://football-data.co.uk/match/Aston_Villa_vs_Liverpool_20221226
+2022-12-26,Arsenal,West Ham,3,1,http://football-data.co.uk/match/Arsenal_vs_West_Ham_20221226
+2022-12-27,Chelsea,Bournemouth,2,0,http://football-data.co.uk/match/Chelsea_vs_Bournemouth_20221227
+2022-12-27,Man United,Nott'm Forest,3,0,http://football-data.co.uk/match/Man_United_vs_Nott'm_Forest_20221227
+2022-12-28,Leeds,Man City,1,3,http://football-data.co.uk/match/Leeds_vs_Man_City_20221228
+2022-12-30,West Ham,Brentford,0,2,http://football-data.co.uk/match/West_Ham_vs_Brentford_20221230
+2022-12-30,Liverpool,Leicester,2,1,http://football-data.co.uk/match/Liverpool_vs_Leicester_20221230
+2022-12-31,Wolves,Man United,0,1,http://football-data.co.uk/match/Wolves_vs_Man_United_20221231
+2022-12-31,Bournemouth,Crystal Palace,0,2,http://football-data.co.uk/match/Bournemouth_vs_Crystal_Palace_20221231
+2022-12-31,Fulham,Southampton,2,1,http://football-data.co.uk/match/Fulham_vs_Southampton_20221231
+2022-12-31,Man City,Everton,1,1,http://football-data.co.uk/match/Man_City_vs_Everton_20221231
+2022-12-31,Newcastle,Leeds,0,0,http://football-data.co.uk/match/Newcastle_vs_Leeds_20221231
+2022-12-31,Brighton,Arsenal,2,4,http://football-data.co.uk/match/Brighton_vs_Arsenal_20221231
+2023-01-01,Tottenham,Aston Villa,0,2,http://football-data.co.uk/match/Tottenham_vs_Aston_Villa_20230101
+2023-01-01,Nott'm Forest,Chelsea,1,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Chelsea_20230101
+2023-01-02,Brentford,Liverpool,3,1,http://football-data.co.uk/match/Brentford_vs_Liverpool_20230102
+2023-01-03,Arsenal,Newcastle,0,0,http://football-data.co.uk/match/Arsenal_vs_Newcastle_20230103
+2023-01-03,Everton,Brighton,1,4,http://football-data.co.uk/match/Everton_vs_Brighton_20230103
+2023-01-03,Leicester,Fulham,0,1,http://football-data.co.uk/match/Leicester_vs_Fulham_20230103
+2023-01-03,Man United,Bournemouth,3,0,http://football-data.co.uk/match/Man_United_vs_Bournemouth_20230103
+2023-01-04,Southampton,Nott'm Forest,0,1,http://football-data.co.uk/match/Southampton_vs_Nott'm_Forest_20230104
+2023-01-04,Leeds,West Ham,2,2,http://football-data.co.uk/match/Leeds_vs_West_Ham_20230104
+2023-01-04,Aston Villa,Wolves,1,1,http://football-data.co.uk/match/Aston_Villa_vs_Wolves_20230104
+2023-01-04,Crystal Palace,Tottenham,0,4,http://football-data.co.uk/match/Crystal_Palace_vs_Tottenham_20230104
+2023-01-05,Chelsea,Man City,0,1,http://football-data.co.uk/match/Chelsea_vs_Man_City_20230105
+2023-01-12,Fulham,Chelsea,2,1,http://football-data.co.uk/match/Fulham_vs_Chelsea_20230112
+2023-01-13,Aston Villa,Leeds,2,1,http://football-data.co.uk/match/Aston_Villa_vs_Leeds_20230113
+2023-01-14,Man United,Man City,2,1,http://football-data.co.uk/match/Man_United_vs_Man_City_20230114
+2023-01-14,Brighton,Liverpool,3,0,http://football-data.co.uk/match/Brighton_vs_Liverpool_20230114
+2023-01-14,Everton,Southampton,1,2,http://football-data.co.uk/match/Everton_vs_Southampton_20230114
+2023-01-14,Nott'm Forest,Leicester,2,0,http://football-data.co.uk/match/Nott'm_Forest_vs_Leicester_20230114
+2023-01-14,Wolves,West Ham,1,0,http://football-data.co.uk/match/Wolves_vs_West_Ham_20230114
+2023-01-14,Brentford,Bournemouth,2,0,http://football-data.co.uk/match/Brentford_vs_Bournemouth_20230114
+2023-01-15,Chelsea,Crystal Palace,1,0,http://football-data.co.uk/match/Chelsea_vs_Crystal_Palace_20230115
+2023-01-15,Newcastle,Fulham,1,0,http://football-data.co.uk/match/Newcastle_vs_Fulham_20230115
+2023-01-15,Tottenham,Arsenal,0,2,http://football-data.co.uk/match/Tottenham_vs_Arsenal_20230115
+2023-01-18,Crystal Palace,Man United,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Man_United_20230118
+2023-01-19,Man City,Tottenham,4,2,http://football-data.co.uk/match/Man_City_vs_Tottenham_20230119
+2023-01-21,Liverpool,Chelsea,0,0,http://football-data.co.uk/match/Liverpool_vs_Chelsea_20230121
+2023-01-21,Bournemouth,Nott'm Forest,1,1,http://football-data.co.uk/match/Bournemouth_vs_Nott'm_Forest_20230121
+2023-01-21,Leicester,Brighton,2,2,http://football-data.co.uk/match/Leicester_vs_Brighton_20230121
+2023-01-21,Southampton,Aston Villa,0,1,http://football-data.co.uk/match/Southampton_vs_Aston_Villa_20230121
+2023-01-21,West Ham,Everton,2,0,http://football-data.co.uk/match/West_Ham_vs_Everton_20230121
+2023-01-21,Crystal Palace,Newcastle,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Newcastle_20230121
+2023-01-22,Leeds,Brentford,0,0,http://football-data.co.uk/match/Leeds_vs_Brentford_20230122
+2023-01-22,Man City,Wolves,3,0,http://football-data.co.uk/match/Man_City_vs_Wolves_20230122
+2023-01-22,Arsenal,Man United,3,2,http://football-data.co.uk/match/Arsenal_vs_Man_United_20230122
+2023-01-23,Fulham,Tottenham,0,1,http://football-data.co.uk/match/Fulham_vs_Tottenham_20230123
+2023-02-03,Chelsea,Fulham,0,0,http://football-data.co.uk/match/Chelsea_vs_Fulham_20230203
+2023-02-04,Everton,Arsenal,1,0,http://football-data.co.uk/match/Everton_vs_Arsenal_20230204
+2023-02-04,Aston Villa,Leicester,2,4,http://football-data.co.uk/match/Aston_Villa_vs_Leicester_20230204
+2023-02-04,Brentford,Southampton,3,0,http://football-data.co.uk/match/Brentford_vs_Southampton_20230204
+2023-02-04,Brighton,Bournemouth,1,0,http://football-data.co.uk/match/Brighton_vs_Bournemouth_20230204
+2023-02-04,Man United,Crystal Palace,2,1,http://football-data.co.uk/match/Man_United_vs_Crystal_Palace_20230204
+2023-02-04,Wolves,Liverpool,3,0,http://football-data.co.uk/match/Wolves_vs_Liverpool_20230204
+2023-02-04,Newcastle,West Ham,1,1,http://football-data.co.uk/match/Newcastle_vs_West_Ham_20230204
+2023-02-05,Nott'm Forest,Leeds,1,0,http://football-data.co.uk/match/Nott'm_Forest_vs_Leeds_20230205
+2023-02-05,Tottenham,Man City,1,0,http://football-data.co.uk/match/Tottenham_vs_Man_City_20230205
+2023-02-08,Man United,Leeds,2,2,http://football-data.co.uk/match/Man_United_vs_Leeds_20230208
+2023-02-11,West Ham,Chelsea,1,1,http://football-data.co.uk/match/West_Ham_vs_Chelsea_20230211
+2023-02-11,Arsenal,Brentford,1,1,http://football-data.co.uk/match/Arsenal_vs_Brentford_20230211
+2023-02-11,Crystal Palace,Brighton,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Brighton_20230211
+2023-02-11,Fulham,Nott'm Forest,2,0,http://football-data.co.uk/match/Fulham_vs_Nott'm_Forest_20230211
+2023-02-11,Leicester,Tottenham,4,1,http://football-data.co.uk/match/Leicester_vs_Tottenham_20230211
+2023-02-11,Southampton,Wolves,1,2,http://football-data.co.uk/match/Southampton_vs_Wolves_20230211
+2023-02-11,Bournemouth,Newcastle,1,1,http://football-data.co.uk/match/Bournemouth_vs_Newcastle_20230211
+2023-02-12,Leeds,Man United,0,2,http://football-data.co.uk/match/Leeds_vs_Man_United_20230212
+2023-02-12,Man City,Aston Villa,3,1,http://football-data.co.uk/match/Man_City_vs_Aston_Villa_20230212
+2023-02-13,Liverpool,Everton,2,0,http://football-data.co.uk/match/Liverpool_vs_Everton_20230213
+2023-02-15,Arsenal,Man City,1,3,http://football-data.co.uk/match/Arsenal_vs_Man_City_20230215
+2023-02-18,Aston Villa,Arsenal,2,4,http://football-data.co.uk/match/Aston_Villa_vs_Arsenal_20230218
+2023-02-18,Brentford,Crystal Palace,1,1,http://football-data.co.uk/match/Brentford_vs_Crystal_Palace_20230218
+2023-02-18,Brighton,Fulham,0,1,http://football-data.co.uk/match/Brighton_vs_Fulham_20230218
+2023-02-18,Chelsea,Southampton,0,1,http://football-data.co.uk/match/Chelsea_vs_Southampton_20230218
+2023-02-18,Everton,Leeds,1,0,http://football-data.co.uk/match/Everton_vs_Leeds_20230218
+2023-02-18,Nott'm Forest,Man City,1,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Man_City_20230218
+2023-02-18,Wolves,Bournemouth,0,1,http://football-data.co.uk/match/Wolves_vs_Bournemouth_20230218
+2023-02-18,Newcastle,Liverpool,0,2,http://football-data.co.uk/match/Newcastle_vs_Liverpool_20230218
+2023-02-19,Man United,Leicester,3,0,http://football-data.co.uk/match/Man_United_vs_Leicester_20230219
+2023-02-19,Tottenham,West Ham,2,0,http://football-data.co.uk/match/Tottenham_vs_West_Ham_20230219
+2023-02-24,Fulham,Wolves,1,1,http://football-data.co.uk/match/Fulham_vs_Wolves_20230224
+2023-02-25,Everton,Aston Villa,0,2,http://football-data.co.uk/match/Everton_vs_Aston_Villa_20230225
+2023-02-25,Leeds,Southampton,1,0,http://football-data.co.uk/match/Leeds_vs_Southampton_20230225
+2023-02-25,Leicester,Arsenal,0,1,http://football-data.co.uk/match/Leicester_vs_Arsenal_20230225
+2023-02-25,West Ham,Nott'm Forest,4,0,http://football-data.co.uk/match/West_Ham_vs_Nott'm_Forest_20230225
+2023-02-25,Bournemouth,Man City,1,4,http://football-data.co.uk/match/Bournemouth_vs_Man_City_20230225
+2023-02-25,Crystal Palace,Liverpool,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Liverpool_20230225
+2023-02-26,Tottenham,Chelsea,2,0,http://football-data.co.uk/match/Tottenham_vs_Chelsea_20230226
+2023-03-01,Arsenal,Everton,4,0,http://football-data.co.uk/match/Arsenal_vs_Everton_20230301
+2023-03-01,Liverpool,Wolves,2,0,http://football-data.co.uk/match/Liverpool_vs_Wolves_20230301
+2023-03-04,Man City,Newcastle,2,0,http://football-data.co.uk/match/Man_City_vs_Newcastle_20230304
+2023-03-04,Arsenal,Bournemouth,3,2,http://football-data.co.uk/match/Arsenal_vs_Bournemouth_20230304
+2023-03-04,Aston Villa,Crystal Palace,1,0,http://football-data.co.uk/match/Aston_Villa_vs_Crystal_Palace_20230304
+2023-03-04,Brighton,West Ham,4,0,http://football-data.co.uk/match/Brighton_vs_West_Ham_20230304
+2023-03-04,Chelsea,Leeds,1,0,http://football-data.co.uk/match/Chelsea_vs_Leeds_20230304
+2023-03-04,Wolves,Tottenham,1,0,http://football-data.co.uk/match/Wolves_vs_Tottenham_20230304
+2023-03-04,Southampton,Leicester,1,0,http://football-data.co.uk/match/Southampton_vs_Leicester_20230304
+2023-03-05,Nott'm Forest,Everton,2,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Everton_20230305
+2023-03-05,Liverpool,Man United,7,0,http://football-data.co.uk/match/Liverpool_vs_Man_United_20230305
+2023-03-06,Brentford,Fulham,3,2,http://football-data.co.uk/match/Brentford_vs_Fulham_20230306
+2023-03-11,Bournemouth,Liverpool,1,0,http://football-data.co.uk/match/Bournemouth_vs_Liverpool_20230311
+2023-03-11,Everton,Brentford,1,0,http://football-data.co.uk/match/Everton_vs_Brentford_20230311
+2023-03-11,Leeds,Brighton,2,2,http://football-data.co.uk/match/Leeds_vs_Brighton_20230311
+2023-03-11,Leicester,Chelsea,1,3,http://football-data.co.uk/match/Leicester_vs_Chelsea_20230311
+2023-03-11,Tottenham,Nott'm Forest,3,1,http://football-data.co.uk/match/Tottenham_vs_Nott'm_Forest_20230311
+2023-03-11,Crystal Palace,Man City,0,1,http://football-data.co.uk/match/Crystal_Palace_vs_Man_City_20230311
+2023-03-12,Fulham,Arsenal,0,3,http://football-data.co.uk/match/Fulham_vs_Arsenal_20230312
+2023-03-12,Man United,Southampton,0,0,http://football-data.co.uk/match/Man_United_vs_Southampton_20230312
+2023-03-12,West Ham,Aston Villa,1,1,http://football-data.co.uk/match/West_Ham_vs_Aston_Villa_20230312
+2023-03-12,Newcastle,Wolves,2,1,http://football-data.co.uk/match/Newcastle_vs_Wolves_20230312
+2023-03-15,Brighton,Crystal Palace,1,0,http://football-data.co.uk/match/Brighton_vs_Crystal_Palace_20230315
+2023-03-15,Southampton,Brentford,0,2,http://football-data.co.uk/match/Southampton_vs_Brentford_20230315
+2023-03-17,Nott'm Forest,Newcastle,1,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Newcastle_20230317
+2023-03-18,Aston Villa,Bournemouth,3,0,http://football-data.co.uk/match/Aston_Villa_vs_Bournemouth_20230318
+2023-03-18,Brentford,Leicester,1,1,http://football-data.co.uk/match/Brentford_vs_Leicester_20230318
+2023-03-18,Southampton,Tottenham,3,3,http://football-data.co.uk/match/Southampton_vs_Tottenham_20230318
+2023-03-18,Wolves,Leeds,2,4,http://football-data.co.uk/match/Wolves_vs_Leeds_20230318
+2023-03-18,Chelsea,Everton,2,2,http://football-data.co.uk/match/Chelsea_vs_Everton_20230318
+2023-03-19,Arsenal,Crystal Palace,4,1,http://football-data.co.uk/match/Arsenal_vs_Crystal_Palace_20230319
+2023-04-01,Man City,Liverpool,4,1,http://football-data.co.uk/match/Man_City_vs_Liverpool_20230401
+2023-04-01,Arsenal,Leeds,4,1,http://football-data.co.uk/match/Arsenal_vs_Leeds_20230401
+2023-04-01,Bournemouth,Fulham,2,1,http://football-data.co.uk/match/Bournemouth_vs_Fulham_20230401
+2023-04-01,Brighton,Brentford,3,3,http://football-data.co.uk/match/Brighton_vs_Brentford_20230401
+2023-04-01,Crystal Palace,Leicester,2,1,http://football-data.co.uk/match/Crystal_Palace_vs_Leicester_20230401
+2023-04-01,Nott'm Forest,Wolves,1,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Wolves_20230401
+2023-04-01,Chelsea,Aston Villa,0,2,http://football-data.co.uk/match/Chelsea_vs_Aston_Villa_20230401
+2023-04-02,West Ham,Southampton,1,0,http://football-data.co.uk/match/West_Ham_vs_Southampton_20230402
+2023-04-02,Newcastle,Man United,2,0,http://football-data.co.uk/match/Newcastle_vs_Man_United_20230402
+2023-04-03,Everton,Tottenham,1,1,http://football-data.co.uk/match/Everton_vs_Tottenham_20230403
+2023-04-04,Bournemouth,Brighton,0,2,http://football-data.co.uk/match/Bournemouth_vs_Brighton_20230404
+2023-04-04,Leeds,Nott'm Forest,2,1,http://football-data.co.uk/match/Leeds_vs_Nott'm_Forest_20230404
+2023-04-04,Leicester,Aston Villa,1,2,http://football-data.co.uk/match/Leicester_vs_Aston_Villa_20230404
+2023-04-04,Chelsea,Liverpool,0,0,http://football-data.co.uk/match/Chelsea_vs_Liverpool_20230404
+2023-04-05,Man United,Brentford,1,0,http://football-data.co.uk/match/Man_United_vs_Brentford_20230405
+2023-04-05,West Ham,Newcastle,1,5,http://football-data.co.uk/match/West_Ham_vs_Newcastle_20230405
+2023-04-08,Man United,Everton,2,0,http://football-data.co.uk/match/Man_United_vs_Everton_20230408
+2023-04-08,Aston Villa,Nott'm Forest,2,0,http://football-data.co.uk/match/Aston_Villa_vs_Nott'm_Forest_20230408
+2023-04-08,Brentford,Newcastle,1,2,http://football-data.co.uk/match/Brentford_vs_Newcastle_20230408
+2023-04-08,Fulham,West Ham,0,1,http://football-data.co.uk/match/Fulham_vs_West_Ham_20230408
+2023-04-08,Leicester,Bournemouth,0,1,http://football-data.co.uk/match/Leicester_vs_Bournemouth_20230408
+2023-04-08,Tottenham,Brighton,2,1,http://football-data.co.uk/match/Tottenham_vs_Brighton_20230408
+2023-04-08,Wolves,Chelsea,1,0,http://football-data.co.uk/match/Wolves_vs_Chelsea_20230408
+2023-04-08,Southampton,Man City,1,4,http://football-data.co.uk/match/Southampton_vs_Man_City_20230408
+2023-04-09,Leeds,Crystal Palace,1,5,http://football-data.co.uk/match/Leeds_vs_Crystal_Palace_20230409
+2023-04-09,Liverpool,Arsenal,2,2,http://football-data.co.uk/match/Liverpool_vs_Arsenal_20230409
+2023-04-15,Aston Villa,Newcastle,3,0,http://football-data.co.uk/match/Aston_Villa_vs_Newcastle_20230415
+2023-04-15,Chelsea,Brighton,1,2,http://football-data.co.uk/match/Chelsea_vs_Brighton_20230415
+2023-04-15,Everton,Fulham,1,3,http://football-data.co.uk/match/Everton_vs_Fulham_20230415
+2023-04-15,Southampton,Crystal Palace,0,2,http://football-data.co.uk/match/Southampton_vs_Crystal_Palace_20230415
+2023-04-15,Tottenham,Bournemouth,2,3,http://football-data.co.uk/match/Tottenham_vs_Bournemouth_20230415
+2023-04-15,Wolves,Brentford,2,0,http://football-data.co.uk/match/Wolves_vs_Brentford_20230415
+2023-04-15,Man City,Leicester,3,1,http://football-data.co.uk/match/Man_City_vs_Leicester_20230415
+2023-04-16,West Ham,Arsenal,2,2,http://football-data.co.uk/match/West_Ham_vs_Arsenal_20230416
+2023-04-16,Nott'm Forest,Man United,0,2,http://football-data.co.uk/match/Nott'm_Forest_vs_Man_United_20230416
+2023-04-17,Leeds,Liverpool,1,6,http://football-data.co.uk/match/Leeds_vs_Liverpool_20230417
+2023-04-21,Arsenal,Southampton,3,3,http://football-data.co.uk/match/Arsenal_vs_Southampton_20230421
+2023-04-22,Fulham,Leeds,2,1,http://football-data.co.uk/match/Fulham_vs_Leeds_20230422
+2023-04-22,Brentford,Aston Villa,1,1,http://football-data.co.uk/match/Brentford_vs_Aston_Villa_20230422
+2023-04-22,Crystal Palace,Everton,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Everton_20230422
+2023-04-22,Leicester,Wolves,2,1,http://football-data.co.uk/match/Leicester_vs_Wolves_20230422
+2023-04-22,Liverpool,Nott'm Forest,3,2,http://football-data.co.uk/match/Liverpool_vs_Nott'm_Forest_20230422
+2023-04-23,Bournemouth,West Ham,0,4,http://football-data.co.uk/match/Bournemouth_vs_West_Ham_20230423
+2023-04-23,Newcastle,Tottenham,6,1,http://football-data.co.uk/match/Newcastle_vs_Tottenham_20230423
+2023-04-25,Wolves,Crystal Palace,2,0,http://football-data.co.uk/match/Wolves_vs_Crystal_Palace_20230425
+2023-04-25,Aston Villa,Fulham,1,0,http://football-data.co.uk/match/Aston_Villa_vs_Fulham_20230425
+2023-04-25,Leeds,Leicester,1,1,http://football-data.co.uk/match/Leeds_vs_Leicester_20230425
+2023-04-26,Nott'm Forest,Brighton,3,1,http://football-data.co.uk/match/Nott'm_Forest_vs_Brighton_20230426
+2023-04-26,Chelsea,Brentford,0,2,http://football-data.co.uk/match/Chelsea_vs_Brentford_20230426
+2023-04-26,West Ham,Liverpool,1,2,http://football-data.co.uk/match/West_Ham_vs_Liverpool_20230426
+2023-04-26,Man City,Arsenal,4,1,http://football-data.co.uk/match/Man_City_vs_Arsenal_20230426
+2023-04-27,Everton,Newcastle,1,4,http://football-data.co.uk/match/Everton_vs_Newcastle_20230427
+2023-04-27,Southampton,Bournemouth,0,1,http://football-data.co.uk/match/Southampton_vs_Bournemouth_20230427
+2023-04-27,Tottenham,Man United,2,2,http://football-data.co.uk/match/Tottenham_vs_Man_United_20230427
+2023-04-29,Crystal Palace,West Ham,4,3,http://football-data.co.uk/match/Crystal_Palace_vs_West_Ham_20230429
+2023-04-29,Brentford,Nott'm Forest,2,1,http://football-data.co.uk/match/Brentford_vs_Nott'm_Forest_20230429
+2023-04-29,Brighton,Wolves,6,0,http://football-data.co.uk/match/Brighton_vs_Wolves_20230429
+2023-04-30,Bournemouth,Leeds,4,1,http://football-data.co.uk/match/Bournemouth_vs_Leeds_20230430
+2023-04-30,Fulham,Man City,1,2,http://football-data.co.uk/match/Fulham_vs_Man_City_20230430
+2023-04-30,Man United,Aston Villa,1,0,http://football-data.co.uk/match/Man_United_vs_Aston_Villa_20230430
+2023-04-30,Newcastle,Southampton,3,1,http://football-data.co.uk/match/Newcastle_vs_Southampton_20230430
+2023-04-30,Liverpool,Tottenham,4,3,http://football-data.co.uk/match/Liverpool_vs_Tottenham_20230430
+2023-05-01,Leicester,Everton,2,2,http://football-data.co.uk/match/Leicester_vs_Everton_20230501
+2023-05-02,Arsenal,Chelsea,3,1,http://football-data.co.uk/match/Arsenal_vs_Chelsea_20230502
+2023-05-03,Liverpool,Fulham,1,0,http://football-data.co.uk/match/Liverpool_vs_Fulham_20230503
+2023-05-03,Man City,West Ham,3,0,http://football-data.co.uk/match/Man_City_vs_West_Ham_20230503
+2023-05-04,Brighton,Man United,1,0,http://football-data.co.uk/match/Brighton_vs_Man_United_20230504
+2023-05-06,Bournemouth,Chelsea,1,3,http://football-data.co.uk/match/Bournemouth_vs_Chelsea_20230506
+2023-05-06,Man City,Leeds,2,1,http://football-data.co.uk/match/Man_City_vs_Leeds_20230506
+2023-05-06,Tottenham,Crystal Palace,1,0,http://football-data.co.uk/match/Tottenham_vs_Crystal_Palace_20230506
+2023-05-06,Wolves,Aston Villa,1,0,http://football-data.co.uk/match/Wolves_vs_Aston_Villa_20230506
+2023-05-06,Liverpool,Brentford,1,0,http://football-data.co.uk/match/Liverpool_vs_Brentford_20230506
+2023-05-07,Newcastle,Arsenal,0,2,http://football-data.co.uk/match/Newcastle_vs_Arsenal_20230507
+2023-05-07,West Ham,Man United,1,0,http://football-data.co.uk/match/West_Ham_vs_Man_United_20230507
+2023-05-08,Fulham,Leicester,5,3,http://football-data.co.uk/match/Fulham_vs_Leicester_20230508
+2023-05-08,Brighton,Everton,1,5,http://football-data.co.uk/match/Brighton_vs_Everton_20230508
+2023-05-08,Nott'm Forest,Southampton,4,3,http://football-data.co.uk/match/Nott'm_Forest_vs_Southampton_20230508
+2023-05-13,Leeds,Newcastle,2,2,http://football-data.co.uk/match/Leeds_vs_Newcastle_20230513
+2023-05-13,Aston Villa,Tottenham,2,1,http://football-data.co.uk/match/Aston_Villa_vs_Tottenham_20230513
+2023-05-13,Chelsea,Nott'm Forest,2,2,http://football-data.co.uk/match/Chelsea_vs_Nott'm_Forest_20230513
+2023-05-13,Crystal Palace,Bournemouth,2,0,http://football-data.co.uk/match/Crystal_Palace_vs_Bournemouth_20230513
+2023-05-13,Man United,Wolves,2,0,http://football-data.co.uk/match/Man_United_vs_Wolves_20230513
+2023-05-13,Southampton,Fulham,0,2,http://football-data.co.uk/match/Southampton_vs_Fulham_20230513
+2023-05-14,Brentford,West Ham,2,0,http://football-data.co.uk/match/Brentford_vs_West_Ham_20230514
+2023-05-14,Everton,Man City,0,3,http://football-data.co.uk/match/Everton_vs_Man_City_20230514
+2023-05-14,Arsenal,Brighton,0,3,http://football-data.co.uk/match/Arsenal_vs_Brighton_20230514
+2023-05-15,Leicester,Liverpool,0,3,http://football-data.co.uk/match/Leicester_vs_Liverpool_20230515
+2023-05-18,Newcastle,Brighton,4,1,http://football-data.co.uk/match/Newcastle_vs_Brighton_20230518
+2023-05-20,Tottenham,Brentford,1,3,http://football-data.co.uk/match/Tottenham_vs_Brentford_20230520
+2023-05-20,Bournemouth,Man United,0,1,http://football-data.co.uk/match/Bournemouth_vs_Man_United_20230520
+2023-05-20,Fulham,Crystal Palace,2,2,http://football-data.co.uk/match/Fulham_vs_Crystal_Palace_20230520
+2023-05-20,Liverpool,Aston Villa,1,1,http://football-data.co.uk/match/Liverpool_vs_Aston_Villa_20230520
+2023-05-20,Wolves,Everton,1,1,http://football-data.co.uk/match/Wolves_vs_Everton_20230520
+2023-05-20,Nott'm Forest,Arsenal,1,0,http://football-data.co.uk/match/Nott'm_Forest_vs_Arsenal_20230520
+2023-05-21,West Ham,Leeds,3,1,http://football-data.co.uk/match/West_Ham_vs_Leeds_20230521
+2023-05-21,Brighton,Southampton,3,1,http://football-data.co.uk/match/Brighton_vs_Southampton_20230521
+2023-05-21,Man City,Chelsea,1,0,http://football-data.co.uk/match/Man_City_vs_Chelsea_20230521
+2023-05-22,Newcastle,Leicester,0,0,http://football-data.co.uk/match/Newcastle_vs_Leicester_20230522
+2023-05-24,Brighton,Man City,1,1,http://football-data.co.uk/match/Brighton_vs_Man_City_20230524
+2023-05-25,Man United,Chelsea,4,1,http://football-data.co.uk/match/Man_United_vs_Chelsea_20230525
+2023-05-28,Arsenal,Wolves,5,0,http://football-data.co.uk/match/Arsenal_vs_Wolves_20230528
+2023-05-28,Aston Villa,Brighton,2,1,http://football-data.co.uk/match/Aston_Villa_vs_Brighton_20230528
+2023-05-28,Brentford,Man City,1,0,http://football-data.co.uk/match/Brentford_vs_Man_City_20230528
+2023-05-28,Chelsea,Newcastle,1,1,http://football-data.co.uk/match/Chelsea_vs_Newcastle_20230528
+2023-05-28,Crystal Palace,Nott'm Forest,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Nott'm_Forest_20230528
+2023-05-28,Everton,Bournemouth,1,0,http://football-data.co.uk/match/Everton_vs_Bournemouth_20230528
+2023-05-28,Leeds,Tottenham,1,4,http://football-data.co.uk/match/Leeds_vs_Tottenham_20230528
+2023-05-28,Leicester,West Ham,2,1,http://football-data.co.uk/match/Leicester_vs_West_Ham_20230528
+2023-05-28,Man United,Fulham,2,1,http://football-data.co.uk/match/Man_United_vs_Fulham_20230528
+2023-05-28,Southampton,Liverpool,4,4,http://football-data.co.uk/match/Southampton_vs_Liverpool_20230528
+2021-08-13,Brentford,Arsenal,2,0,http://football-data.co.uk/match/Brentford_vs_Arsenal_20210813
+2021-08-14,Man United,Leeds,5,1,http://football-data.co.uk/match/Man_United_vs_Leeds_20210814
+2021-08-14,Burnley,Brighton,1,2,http://football-data.co.uk/match/Burnley_vs_Brighton_20210814
+2021-08-14,Chelsea,Crystal Palace,3,0,http://football-data.co.uk/match/Chelsea_vs_Crystal_Palace_20210814
+2021-08-14,Everton,Southampton,3,1,http://football-data.co.uk/match/Everton_vs_Southampton_20210814
+2021-08-14,Leicester,Wolves,1,0,http://football-data.co.uk/match/Leicester_vs_Wolves_20210814
+2021-08-14,Watford,Aston Villa,3,2,http://football-data.co.uk/match/Watford_vs_Aston_Villa_20210814
+2021-08-14,Norwich,Liverpool,0,3,http://football-data.co.uk/match/Norwich_vs_Liverpool_20210814
+2021-08-15,Newcastle,West Ham,2,4,http://football-data.co.uk/match/Newcastle_vs_West_Ham_20210815
+2021-08-15,Tottenham,Man City,1,0,http://football-data.co.uk/match/Tottenham_vs_Man_City_20210815
+2021-08-21,Liverpool,Burnley,2,0,http://football-data.co.uk/match/Liverpool_vs_Burnley_20210821
+2021-08-21,Aston Villa,Newcastle,2,0,http://football-data.co.uk/match/Aston_Villa_vs_Newcastle_20210821
+2021-08-21,Crystal Palace,Brentford,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Brentford_20210821
+2021-08-21,Leeds,Everton,2,2,http://football-data.co.uk/match/Leeds_vs_Everton_20210821
+2021-08-21,Man City,Norwich,5,0,http://football-data.co.uk/match/Man_City_vs_Norwich_20210821
+2021-08-21,Brighton,Watford,2,0,http://football-data.co.uk/match/Brighton_vs_Watford_20210821
+2021-08-22,Southampton,Man United,1,1,http://football-data.co.uk/match/Southampton_vs_Man_United_20210822
+2021-08-22,Wolves,Tottenham,0,1,http://football-data.co.uk/match/Wolves_vs_Tottenham_20210822
+2021-08-22,Arsenal,Chelsea,0,2,http://football-data.co.uk/match/Arsenal_vs_Chelsea_20210822
+2021-08-23,West Ham,Leicester,4,1,http://football-data.co.uk/match/West_Ham_vs_Leicester_20210823
+2021-08-28,Man City,Arsenal,5,0,http://football-data.co.uk/match/Man_City_vs_Arsenal_20210828
+2021-08-28,Aston Villa,Brentford,1,1,http://football-data.co.uk/match/Aston_Villa_vs_Brentford_20210828
+2021-08-28,Brighton,Everton,0,2,http://football-data.co.uk/match/Brighton_vs_Everton_20210828
+2021-08-28,Newcastle,Southampton,2,2,http://football-data.co.uk/match/Newcastle_vs_Southampton_20210828
+2021-08-28,Norwich,Leicester,1,2,http://football-data.co.uk/match/Norwich_vs_Leicester_20210828
+2021-08-28,West Ham,Crystal Palace,2,2,http://football-data.co.uk/match/West_Ham_vs_Crystal_Palace_20210828
+2021-08-28,Liverpool,Chelsea,1,1,http://football-data.co.uk/match/Liverpool_vs_Chelsea_20210828
+2021-08-29,Burnley,Leeds,1,1,http://football-data.co.uk/match/Burnley_vs_Leeds_20210829
+2021-08-29,Tottenham,Watford,1,0,http://football-data.co.uk/match/Tottenham_vs_Watford_20210829
+2021-08-29,Wolves,Man United,0,1,http://football-data.co.uk/match/Wolves_vs_Man_United_20210829
+2021-09-11,Crystal Palace,Tottenham,3,0,http://football-data.co.uk/match/Crystal_Palace_vs_Tottenham_20210911
+2021-09-11,Arsenal,Norwich,1,0,http://football-data.co.uk/match/Arsenal_vs_Norwich_20210911
+2021-09-11,Brentford,Brighton,0,1,http://football-data.co.uk/match/Brentford_vs_Brighton_20210911
+2021-09-11,Leicester,Man City,0,1,http://football-data.co.uk/match/Leicester_vs_Man_City_20210911
+2021-09-11,Man United,Newcastle,4,1,http://football-data.co.uk/match/Man_United_vs_Newcastle_20210911
+2021-09-11,Southampton,West Ham,0,0,http://football-data.co.uk/match/Southampton_vs_West_Ham_20210911
+2021-09-11,Watford,Wolves,0,2,http://football-data.co.uk/match/Watford_vs_Wolves_20210911
+2021-09-11,Chelsea,Aston Villa,3,0,http://football-data.co.uk/match/Chelsea_vs_Aston_Villa_20210911
+2021-09-12,Leeds,Liverpool,0,3,http://football-data.co.uk/match/Leeds_vs_Liverpool_20210912
+2021-09-13,Everton,Burnley,3,1,http://football-data.co.uk/match/Everton_vs_Burnley_20210913
+2021-09-17,Newcastle,Leeds,1,1,http://football-data.co.uk/match/Newcastle_vs_Leeds_20210917
+2021-09-18,Wolves,Brentford,0,2,http://football-data.co.uk/match/Wolves_vs_Brentford_20210918
+2021-09-18,Burnley,Arsenal,0,1,http://football-data.co.uk/match/Burnley_vs_Arsenal_20210918
+2021-09-18,Liverpool,Crystal Palace,3,0,http://football-data.co.uk/match/Liverpool_vs_Crystal_Palace_20210918
+2021-09-18,Man City,Southampton,0,0,http://football-data.co.uk/match/Man_City_vs_Southampton_20210918
+2021-09-18,Norwich,Watford,1,3,http://football-data.co.uk/match/Norwich_vs_Watford_20210918
+2021-09-18,Aston Villa,Everton,3,0,http://football-data.co.uk/match/Aston_Villa_vs_Everton_20210918
+2021-09-19,Brighton,Leicester,2,1,http://football-data.co.uk/match/Brighton_vs_Leicester_20210919
+2021-09-19,West Ham,Man United,1,2,http://football-data.co.uk/match/West_Ham_vs_Man_United_20210919
+2021-09-19,Tottenham,Chelsea,0,3,http://football-data.co.uk/match/Tottenham_vs_Chelsea_20210919
+2021-09-25,Chelsea,Man City,0,1,http://football-data.co.uk/match/Chelsea_vs_Man_City_20210925
+2021-09-25,Man United,Aston Villa,0,1,http://football-data.co.uk/match/Man_United_vs_Aston_Villa_20210925
+2021-09-25,Everton,Norwich,2,0,http://football-data.co.uk/match/Everton_vs_Norwich_20210925
+2021-09-25,Leeds,West Ham,1,2,http://football-data.co.uk/match/Leeds_vs_West_Ham_20210925
+2021-09-25,Leicester,Burnley,2,2,http://football-data.co.uk/match/Leicester_vs_Burnley_20210925
+2021-09-25,Watford,Newcastle,1,1,http://football-data.co.uk/match/Watford_vs_Newcastle_20210925
+2021-09-25,Brentford,Liverpool,3,3,http://football-data.co.uk/match/Brentford_vs_Liverpool_20210925
+2021-09-26,Southampton,Wolves,0,1,http://football-data.co.uk/match/Southampton_vs_Wolves_20210926
+2021-09-26,Arsenal,Tottenham,3,1,http://football-data.co.uk/match/Arsenal_vs_Tottenham_20210926
+2021-09-27,Crystal Palace,Brighton,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Brighton_20210927
+2021-10-02,Man United,Everton,1,1,http://football-data.co.uk/match/Man_United_vs_Everton_20211002
+2021-10-02,Burnley,Norwich,0,0,http://football-data.co.uk/match/Burnley_vs_Norwich_20211002
+2021-10-02,Chelsea,Southampton,3,1,http://football-data.co.uk/match/Chelsea_vs_Southampton_20211002
+2021-10-02,Leeds,Watford,1,0,http://football-data.co.uk/match/Leeds_vs_Watford_20211002
+2021-10-02,Wolves,Newcastle,2,1,http://football-data.co.uk/match/Wolves_vs_Newcastle_20211002
+2021-10-02,Brighton,Arsenal,0,0,http://football-data.co.uk/match/Brighton_vs_Arsenal_20211002
+2021-10-03,Crystal Palace,Leicester,2,2,http://football-data.co.uk/match/Crystal_Palace_vs_Leicester_20211003
+2021-10-03,Tottenham,Aston Villa,2,1,http://football-data.co.uk/match/Tottenham_vs_Aston_Villa_20211003
+2021-10-03,West Ham,Brentford,1,2,http://football-data.co.uk/match/West_Ham_vs_Brentford_20211003
+2021-10-03,Liverpool,Man City,2,2,http://football-data.co.uk/match/Liverpool_vs_Man_City_20211003
+2021-10-16,Watford,Liverpool,0,5,http://football-data.co.uk/match/Watford_vs_Liverpool_20211016
+2021-10-16,Aston Villa,Wolves,2,3,http://football-data.co.uk/match/Aston_Villa_vs_Wolves_20211016
+2021-10-16,Leicester,Man United,4,2,http://football-data.co.uk/match/Leicester_vs_Man_United_20211016
+2021-10-16,Man City,Burnley,2,0,http://football-data.co.uk/match/Man_City_vs_Burnley_20211016
+2021-10-16,Norwich,Brighton,0,0,http://football-data.co.uk/match/Norwich_vs_Brighton_20211016
+2021-10-16,Southampton,Leeds,1,0,http://football-data.co.uk/match/Southampton_vs_Leeds_20211016
+2021-10-16,Brentford,Chelsea,0,1,http://football-data.co.uk/match/Brentford_vs_Chelsea_20211016
+2021-10-17,Everton,West Ham,0,1,http://football-data.co.uk/match/Everton_vs_West_Ham_20211017
+2021-10-17,Newcastle,Tottenham,2,3,http://football-data.co.uk/match/Newcastle_vs_Tottenham_20211017
+2021-10-18,Arsenal,Crystal Palace,2,2,http://football-data.co.uk/match/Arsenal_vs_Crystal_Palace_20211018
+2021-10-22,Arsenal,Aston Villa,3,1,http://football-data.co.uk/match/Arsenal_vs_Aston_Villa_20211022
+2021-10-23,Chelsea,Norwich,7,0,http://football-data.co.uk/match/Chelsea_vs_Norwich_20211023
+2021-10-23,Crystal Palace,Newcastle,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Newcastle_20211023
+2021-10-23,Everton,Watford,2,5,http://football-data.co.uk/match/Everton_vs_Watford_20211023
+2021-10-23,Leeds,Wolves,1,1,http://football-data.co.uk/match/Leeds_vs_Wolves_20211023
+2021-10-23,Southampton,Burnley,2,2,http://football-data.co.uk/match/Southampton_vs_Burnley_20211023
+2021-10-23,Brighton,Man City,1,4,http://football-data.co.uk/match/Brighton_vs_Man_City_20211023
+2021-10-24,Brentford,Leicester,1,2,http://football-data.co.uk/match/Brentford_vs_Leicester_20211024
+2021-10-24,West Ham,Tottenham,1,0,http://football-data.co.uk/match/West_Ham_vs_Tottenham_20211024
+2021-10-24,Man United,Liverpool,0,5,http://football-data.co.uk/match/Man_United_vs_Liverpool_20211024
+2021-10-30,Leicester,Arsenal,0,2,http://football-data.co.uk/match/Leicester_vs_Arsenal_20211030
+2021-10-30,Burnley,Brentford,3,1,http://football-data.co.uk/match/Burnley_vs_Brentford_20211030
+2021-10-30,Liverpool,Brighton,2,2,http://football-data.co.uk/match/Liverpool_vs_Brighton_20211030
+2021-10-30,Man City,Crystal Palace,0,2,http://football-data.co.uk/match/Man_City_vs_Crystal_Palace_20211030
+2021-10-30,Newcastle,Chelsea,0,3,http://football-data.co.uk/match/Newcastle_vs_Chelsea_20211030
+2021-10-30,Watford,Southampton,0,1,http://football-data.co.uk/match/Watford_vs_Southampton_20211030
+2021-10-30,Tottenham,Man United,0,3,http://football-data.co.uk/match/Tottenham_vs_Man_United_20211030
+2021-10-31,Norwich,Leeds,1,2,http://football-data.co.uk/match/Norwich_vs_Leeds_20211031
+2021-10-31,Aston Villa,West Ham,1,4,http://football-data.co.uk/match/Aston_Villa_vs_West_Ham_20211031
+2021-11-01,Wolves,Everton,2,1,http://football-data.co.uk/match/Wolves_vs_Everton_20211101
+2021-11-05,Southampton,Aston Villa,1,0,http://football-data.co.uk/match/Southampton_vs_Aston_Villa_20211105
+2021-11-06,Man United,Man City,0,2,http://football-data.co.uk/match/Man_United_vs_Man_City_20211106
+2021-11-06,Brentford,Norwich,1,2,http://football-data.co.uk/match/Brentford_vs_Norwich_20211106
+2021-11-06,Chelsea,Burnley,1,1,http://football-data.co.uk/match/Chelsea_vs_Burnley_20211106
+2021-11-06,Crystal Palace,Wolves,2,0,http://football-data.co.uk/match/Crystal_Palace_vs_Wolves_20211106
+2021-11-06,Brighton,Newcastle,1,1,http://football-data.co.uk/match/Brighton_vs_Newcastle_20211106
+2021-11-07,Arsenal,Watford,1,0,http://football-data.co.uk/match/Arsenal_vs_Watford_20211107
+2021-11-07,Everton,Tottenham,0,0,http://football-data.co.uk/match/Everton_vs_Tottenham_20211107
+2021-11-07,Leeds,Leicester,1,1,http://football-data.co.uk/match/Leeds_vs_Leicester_20211107
+2021-11-07,West Ham,Liverpool,3,2,http://football-data.co.uk/match/West_Ham_vs_Liverpool_20211107
+2021-11-20,Leicester,Chelsea,0,3,http://football-data.co.uk/match/Leicester_vs_Chelsea_20211120
+2021-11-20,Aston Villa,Brighton,2,0,http://football-data.co.uk/match/Aston_Villa_vs_Brighton_20211120
+2021-11-20,Burnley,Crystal Palace,3,3,http://football-data.co.uk/match/Burnley_vs_Crystal_Palace_20211120
+2021-11-20,Newcastle,Brentford,3,3,http://football-data.co.uk/match/Newcastle_vs_Brentford_20211120
+2021-11-20,Norwich,Southampton,2,1,http://football-data.co.uk/match/Norwich_vs_Southampton_20211120
+2021-11-20,Watford,Man United,4,1,http://football-data.co.uk/match/Watford_vs_Man_United_20211120
+2021-11-20,Wolves,West Ham,1,0,http://football-data.co.uk/match/Wolves_vs_West_Ham_20211120
+2021-11-20,Liverpool,Arsenal,4,0,http://football-data.co.uk/match/Liverpool_vs_Arsenal_20211120
+2021-11-21,Man City,Everton,3,0,http://football-data.co.uk/match/Man_City_vs_Everton_20211121
+2021-11-21,Tottenham,Leeds,2,1,http://football-data.co.uk/match/Tottenham_vs_Leeds_20211121
+2021-11-27,Arsenal,Newcastle,2,0,http://football-data.co.uk/match/Arsenal_vs_Newcastle_20211127
+2021-11-27,Crystal Palace,Aston Villa,1,2,http://football-data.co.uk/match/Crystal_Palace_vs_Aston_Villa_20211127
+2021-11-27,Liverpool,Southampton,4,0,http://football-data.co.uk/match/Liverpool_vs_Southampton_20211127
+2021-11-27,Norwich,Wolves,0,0,http://football-data.co.uk/match/Norwich_vs_Wolves_20211127
+2021-11-27,Brighton,Leeds,0,0,http://football-data.co.uk/match/Brighton_vs_Leeds_20211127
+2021-11-28,Brentford,Everton,1,0,http://football-data.co.uk/match/Brentford_vs_Everton_20211128
+2021-11-28,Leicester,Watford,4,2,http://football-data.co.uk/match/Leicester_vs_Watford_20211128
+2021-11-28,Man City,West Ham,2,1,http://football-data.co.uk/match/Man_City_vs_West_Ham_20211128
+2021-11-28,Chelsea,Man United,1,1,http://football-data.co.uk/match/Chelsea_vs_Man_United_20211128
+2021-11-30,Newcastle,Norwich,1,1,http://football-data.co.uk/match/Newcastle_vs_Norwich_20211130
+2021-11-30,Leeds,Crystal Palace,1,0,http://football-data.co.uk/match/Leeds_vs_Crystal_Palace_20211130
+2021-12-01,Southampton,Leicester,2,2,http://football-data.co.uk/match/Southampton_vs_Leicester_20211201
+2021-12-01,Watford,Chelsea,1,2,http://football-data.co.uk/match/Watford_vs_Chelsea_20211201
+2021-12-01,West Ham,Brighton,1,1,http://football-data.co.uk/match/West_Ham_vs_Brighton_20211201
+2021-12-01,Wolves,Burnley,0,0,http://football-data.co.uk/match/Wolves_vs_Burnley_20211201
+2021-12-01,Aston Villa,Man City,1,2,http://football-data.co.uk/match/Aston_Villa_vs_Man_City_20211201
+2021-12-01,Everton,Liverpool,1,4,http://football-data.co.uk/match/Everton_vs_Liverpool_20211201
+2021-12-02,Tottenham,Brentford,2,0,http://football-data.co.uk/match/Tottenham_vs_Brentford_20211202
+2021-12-02,Man United,Arsenal,3,2,http://football-data.co.uk/match/Man_United_vs_Arsenal_20211202
+2021-12-04,West Ham,Chelsea,3,2,http://football-data.co.uk/match/West_Ham_vs_Chelsea_20211204
+2021-12-04,Newcastle,Burnley,1,0,http://football-data.co.uk/match/Newcastle_vs_Burnley_20211204
+2021-12-04,Southampton,Brighton,1,1,http://football-data.co.uk/match/Southampton_vs_Brighton_20211204
+2021-12-04,Wolves,Liverpool,0,1,http://football-data.co.uk/match/Wolves_vs_Liverpool_20211204
+2021-12-04,Watford,Man City,1,3,http://football-data.co.uk/match/Watford_vs_Man_City_20211204
+2021-12-05,Leeds,Brentford,2,2,http://football-data.co.uk/match/Leeds_vs_Brentford_20211205
+2021-12-05,Man United,Crystal Palace,1,0,http://football-data.co.uk/match/Man_United_vs_Crystal_Palace_20211205
+2021-12-05,Tottenham,Norwich,3,0,http://football-data.co.uk/match/Tottenham_vs_Norwich_20211205
+2021-12-05,Aston Villa,Leicester,2,1,http://football-data.co.uk/match/Aston_Villa_vs_Leicester_20211205
+2021-12-06,Everton,Arsenal,2,1,http://football-data.co.uk/match/Everton_vs_Arsenal_20211206
+2021-12-10,Brentford,Watford,2,1,http://football-data.co.uk/match/Brentford_vs_Watford_20211210
+2021-12-11,Man City,Wolves,1,0,http://football-data.co.uk/match/Man_City_vs_Wolves_20211211
+2021-12-11,Arsenal,Southampton,3,0,http://football-data.co.uk/match/Arsenal_vs_Southampton_20211211
+2021-12-11,Chelsea,Leeds,3,2,http://football-data.co.uk/match/Chelsea_vs_Leeds_20211211
+2021-12-11,Liverpool,Aston Villa,1,0,http://football-data.co.uk/match/Liverpool_vs_Aston_Villa_20211211
+2021-12-11,Norwich,Man United,0,1,http://football-data.co.uk/match/Norwich_vs_Man_United_20211211
+2021-12-12,Burnley,West Ham,0,0,http://football-data.co.uk/match/Burnley_vs_West_Ham_20211212
+2021-12-12,Leicester,Newcastle,4,0,http://football-data.co.uk/match/Leicester_vs_Newcastle_20211212
+2021-12-12,Crystal Palace,Everton,3,1,http://football-data.co.uk/match/Crystal_Palace_vs_Everton_20211212
+2021-12-14,Norwich,Aston Villa,0,2,http://football-data.co.uk/match/Norwich_vs_Aston_Villa_20211214
+2021-12-14,Man City,Leeds,7,0,http://football-data.co.uk/match/Man_City_vs_Leeds_20211214
+2021-12-15,Brighton,Wolves,0,1,http://football-data.co.uk/match/Brighton_vs_Wolves_20211215
+2021-12-15,Crystal Palace,Southampton,2,2,http://football-data.co.uk/match/Crystal_Palace_vs_Southampton_20211215
+2021-12-15,Arsenal,West Ham,2,0,http://football-data.co.uk/match/Arsenal_vs_West_Ham_20211215
+2021-12-16,Chelsea,Everton,1,1,http://football-data.co.uk/match/Chelsea_vs_Everton_20211216
+2021-12-16,Liverpool,Newcastle,3,1,http://football-data.co.uk/match/Liverpool_vs_Newcastle_20211216
+2021-12-18,Leeds,Arsenal,1,4,http://football-data.co.uk/match/Leeds_vs_Arsenal_20211218
+2021-12-19,Newcastle,Man City,0,4,http://football-data.co.uk/match/Newcastle_vs_Man_City_20211219
+2021-12-19,Wolves,Chelsea,0,0,http://football-data.co.uk/match/Wolves_vs_Chelsea_20211219
+2021-12-19,Tottenham,Liverpool,2,2,http://football-data.co.uk/match/Tottenham_vs_Liverpool_20211219
+2021-12-26,Man City,Leicester,6,3,http://football-data.co.uk/match/Man_City_vs_Leicester_20211226
+2021-12-26,Norwich,Arsenal,0,5,http://football-data.co.uk/match/Norwich_vs_Arsenal_20211226
+2021-12-26,Tottenham,Crystal Palace,3,0,http://football-data.co.uk/match/Tottenham_vs_Crystal_Palace_20211226
+2021-12-26,West Ham,Southampton,2,3,http://football-data.co.uk/match/West_Ham_vs_Southampton_20211226
+2021-12-26,Aston Villa,Chelsea,1,3,http://football-data.co.uk/match/Aston_Villa_vs_Chelsea_20211226
+2021-12-26,Brighton,Brentford,2,0,http://football-data.co.uk/match/Brighton_vs_Brentford_20211226
+2021-12-27,Newcastle,Man United,1,1,http://football-data.co.uk/match/Newcastle_vs_Man_United_20211227
+2021-12-28,Crystal Palace,Norwich,3,0,http://football-data.co.uk/match/Crystal_Palace_vs_Norwich_20211228
+2021-12-28,Southampton,Tottenham,1,1,http://football-data.co.uk/match/Southampton_vs_Tottenham_20211228
+2021-12-28,Watford,West Ham,1,4,http://football-data.co.uk/match/Watford_vs_West_Ham_20211228
+2021-12-28,Leicester,Liverpool,1,0,http://football-data.co.uk/match/Leicester_vs_Liverpool_20211228
+2021-12-29,Chelsea,Brighton,1,1,http://football-data.co.uk/match/Chelsea_vs_Brighton_20211229
+2021-12-29,Brentford,Man City,0,1,http://football-data.co.uk/match/Brentford_vs_Man_City_20211229
+2021-12-30,Man United,Burnley,3,1,http://football-data.co.uk/match/Man_United_vs_Burnley_20211230
+2022-01-01,Arsenal,Man City,1,2,http://football-data.co.uk/match/Arsenal_vs_Man_City_20220101
+2022-01-01,Watford,Tottenham,0,1,http://football-data.co.uk/match/Watford_vs_Tottenham_20220101
+2022-01-01,Crystal Palace,West Ham,2,3,http://football-data.co.uk/match/Crystal_Palace_vs_West_Ham_20220101
+2022-01-02,Brentford,Aston Villa,2,1,http://football-data.co.uk/match/Brentford_vs_Aston_Villa_20220102
+2022-01-02,Everton,Brighton,2,3,http://football-data.co.uk/match/Everton_vs_Brighton_20220102
+2022-01-02,Leeds,Burnley,3,1,http://football-data.co.uk/match/Leeds_vs_Burnley_20220102
+2022-01-02,Chelsea,Liverpool,2,2,http://football-data.co.uk/match/Chelsea_vs_Liverpool_20220102
+2022-01-03,Man United,Wolves,0,1,http://football-data.co.uk/match/Man_United_vs_Wolves_20220103
+2022-01-11,Southampton,Brentford,4,1,http://football-data.co.uk/match/Southampton_vs_Brentford_20220111
+2022-01-12,West Ham,Norwich,2,0,http://football-data.co.uk/match/West_Ham_vs_Norwich_20220112
+2022-01-14,Brighton,Crystal Palace,1,1,http://football-data.co.uk/match/Brighton_vs_Crystal_Palace_20220114
+2022-01-15,Man City,Chelsea,1,0,http://football-data.co.uk/match/Man_City_vs_Chelsea_20220115
+2022-01-15,Newcastle,Watford,1,1,http://football-data.co.uk/match/Newcastle_vs_Watford_20220115
+2022-01-15,Norwich,Everton,2,1,http://football-data.co.uk/match/Norwich_vs_Everton_20220115
+2022-01-15,Wolves,Southampton,3,1,http://football-data.co.uk/match/Wolves_vs_Southampton_20220115
+2022-01-15,Aston Villa,Man United,2,2,http://football-data.co.uk/match/Aston_Villa_vs_Man_United_20220115
+2022-01-16,Liverpool,Brentford,3,0,http://football-data.co.uk/match/Liverpool_vs_Brentford_20220116
+2022-01-16,West Ham,Leeds,2,3,http://football-data.co.uk/match/West_Ham_vs_Leeds_20220116
+2022-01-18,Brighton,Chelsea,1,1,http://football-data.co.uk/match/Brighton_vs_Chelsea_20220118
+2022-01-19,Leicester,Tottenham,2,3,http://football-data.co.uk/match/Leicester_vs_Tottenham_20220119
+2022-01-19,Brentford,Man United,1,3,http://football-data.co.uk/match/Brentford_vs_Man_United_20220119
+2022-01-21,Watford,Norwich,0,3,http://football-data.co.uk/match/Watford_vs_Norwich_20220121
+2022-01-22,Everton,Aston Villa,0,1,http://football-data.co.uk/match/Everton_vs_Aston_Villa_20220122
+2022-01-22,Brentford,Wolves,1,2,http://football-data.co.uk/match/Brentford_vs_Wolves_20220122
+2022-01-22,Leeds,Newcastle,0,1,http://football-data.co.uk/match/Leeds_vs_Newcastle_20220122
+2022-01-22,Man United,West Ham,1,0,http://football-data.co.uk/match/Man_United_vs_West_Ham_20220122
+2022-01-22,Southampton,Man City,1,1,http://football-data.co.uk/match/Southampton_vs_Man_City_20220122
+2022-01-23,Arsenal,Burnley,0,0,http://football-data.co.uk/match/Arsenal_vs_Burnley_20220123
+2022-01-23,Crystal Palace,Liverpool,1,3,http://football-data.co.uk/match/Crystal_Palace_vs_Liverpool_20220123
+2022-01-23,Leicester,Brighton,1,1,http://football-data.co.uk/match/Leicester_vs_Brighton_20220123
+2022-01-23,Chelsea,Tottenham,2,0,http://football-data.co.uk/match/Chelsea_vs_Tottenham_20220123
+2022-02-05,Burnley,Watford,0,0,http://football-data.co.uk/match/Burnley_vs_Watford_20220205
+2022-02-08,Newcastle,Everton,3,1,http://football-data.co.uk/match/Newcastle_vs_Everton_20220208
+2022-02-08,West Ham,Watford,1,0,http://football-data.co.uk/match/West_Ham_vs_Watford_20220208
+2022-02-08,Burnley,Man United,1,1,http://football-data.co.uk/match/Burnley_vs_Man_United_20220208
+2022-02-09,Man City,Brentford,2,0,http://football-data.co.uk/match/Man_City_vs_Brentford_20220209
+2022-02-09,Norwich,Crystal Palace,1,1,http://football-data.co.uk/match/Norwich_vs_Crystal_Palace_20220209
+2022-02-09,Tottenham,Southampton,2,3,http://football-data.co.uk/match/Tottenham_vs_Southampton_20220209
+2022-02-09,Aston Villa,Leeds,3,3,http://football-data.co.uk/match/Aston_Villa_vs_Leeds_20220209
+2022-02-10,Liverpool,Leicester,2,0,http://football-data.co.uk/match/Liverpool_vs_Leicester_20220210
+2022-02-10,Wolves,Arsenal,0,1,http://football-data.co.uk/match/Wolves_vs_Arsenal_20220210
+2022-02-12,Man United,Southampton,1,1,http://football-data.co.uk/match/Man_United_vs_Southampton_20220212
+2022-02-12,Brentford,Crystal Palace,0,0,http://football-data.co.uk/match/Brentford_vs_Crystal_Palace_20220212
+2022-02-12,Everton,Leeds,3,0,http://football-data.co.uk/match/Everton_vs_Leeds_20220212
+2022-02-12,Watford,Brighton,0,2,http://football-data.co.uk/match/Watford_vs_Brighton_20220212
+2022-02-12,Norwich,Man City,0,4,http://football-data.co.uk/match/Norwich_vs_Man_City_20220212
+2022-02-13,Burnley,Liverpool,0,1,http://football-data.co.uk/match/Burnley_vs_Liverpool_20220213
+2022-02-13,Newcastle,Aston Villa,1,0,http://football-data.co.uk/match/Newcastle_vs_Aston_Villa_20220213
+2022-02-13,Tottenham,Wolves,0,2,http://football-data.co.uk/match/Tottenham_vs_Wolves_20220213
+2022-02-13,Leicester,West Ham,2,2,http://football-data.co.uk/match/Leicester_vs_West_Ham_20220213
+2022-02-15,Man United,Brighton,2,0,http://football-data.co.uk/match/Man_United_vs_Brighton_20220215
+2022-02-19,West Ham,Newcastle,1,1,http://football-data.co.uk/match/West_Ham_vs_Newcastle_20220219
+2022-02-19,Arsenal,Brentford,2,1,http://football-data.co.uk/match/Arsenal_vs_Brentford_20220219
+2022-02-19,Aston Villa,Watford,0,1,http://football-data.co.uk/match/Aston_Villa_vs_Watford_20220219
+2022-02-19,Brighton,Burnley,0,3,http://football-data.co.uk/match/Brighton_vs_Burnley_20220219
+2022-02-19,Crystal Palace,Chelsea,0,1,http://football-data.co.uk/match/Crystal_Palace_vs_Chelsea_20220219
+2022-02-19,Liverpool,Norwich,3,1,http://football-data.co.uk/match/Liverpool_vs_Norwich_20220219
+2022-02-19,Southampton,Everton,2,0,http://football-data.co.uk/match/Southampton_vs_Everton_20220219
+2022-02-19,Man City,Tottenham,2,3,http://football-data.co.uk/match/Man_City_vs_Tottenham_20220219
+2022-02-20,Leeds,Man United,2,4,http://football-data.co.uk/match/Leeds_vs_Man_United_20220220
+2022-02-20,Wolves,Leicester,2,1,http://football-data.co.uk/match/Wolves_vs_Leicester_20220220
+2022-02-23,Burnley,Tottenham,1,0,http://football-data.co.uk/match/Burnley_vs_Tottenham_20220223
+2022-02-23,Watford,Crystal Palace,1,4,http://football-data.co.uk/match/Watford_vs_Crystal_Palace_20220223
+2022-02-23,Liverpool,Leeds,6,0,http://football-data.co.uk/match/Liverpool_vs_Leeds_20220223
+2022-02-24,Arsenal,Wolves,2,1,http://football-data.co.uk/match/Arsenal_vs_Wolves_20220224
+2022-02-25,Southampton,Norwich,2,0,http://football-data.co.uk/match/Southampton_vs_Norwich_20220225
+2022-02-26,Leeds,Tottenham,0,4,http://football-data.co.uk/match/Leeds_vs_Tottenham_20220226
+2022-02-26,Brentford,Newcastle,0,2,http://football-data.co.uk/match/Brentford_vs_Newcastle_20220226
+2022-02-26,Crystal Palace,Burnley,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Burnley_20220226
+2022-02-26,Man United,Watford,0,0,http://football-data.co.uk/match/Man_United_vs_Watford_20220226
+2022-02-26,Brighton,Aston Villa,0,2,http://football-data.co.uk/match/Brighton_vs_Aston_Villa_20220226
+2022-02-26,Everton,Man City,0,1,http://football-data.co.uk/match/Everton_vs_Man_City_20220226
+2022-02-27,West Ham,Wolves,1,0,http://football-data.co.uk/match/West_Ham_vs_Wolves_20220227
+2022-03-01,Burnley,Leicester,0,2,http://football-data.co.uk/match/Burnley_vs_Leicester_20220301
+2022-03-05,Leicester,Leeds,1,0,http://football-data.co.uk/match/Leicester_vs_Leeds_20220305
+2022-03-05,Aston Villa,Southampton,4,0,http://football-data.co.uk/match/Aston_Villa_vs_Southampton_20220305
+2022-03-05,Burnley,Chelsea,0,4,http://football-data.co.uk/match/Burnley_vs_Chelsea_20220305
+2022-03-05,Newcastle,Brighton,2,1,http://football-data.co.uk/match/Newcastle_vs_Brighton_20220305
+2022-03-05,Norwich,Brentford,1,3,http://football-data.co.uk/match/Norwich_vs_Brentford_20220305
+2022-03-05,Wolves,Crystal Palace,0,2,http://football-data.co.uk/match/Wolves_vs_Crystal_Palace_20220305
+2022-03-05,Liverpool,West Ham,1,0,http://football-data.co.uk/match/Liverpool_vs_West_Ham_20220305
+2022-03-06,Watford,Arsenal,2,3,http://football-data.co.uk/match/Watford_vs_Arsenal_20220306
+2022-03-06,Man City,Man United,4,1,http://football-data.co.uk/match/Man_City_vs_Man_United_20220306
+2022-03-07,Tottenham,Everton,5,0,http://football-data.co.uk/match/Tottenham_vs_Everton_20220307
+2022-03-10,Norwich,Chelsea,1,3,http://football-data.co.uk/match/Norwich_vs_Chelsea_20220310
+2022-03-10,Southampton,Newcastle,1,2,http://football-data.co.uk/match/Southampton_vs_Newcastle_20220310
+2022-03-10,Wolves,Watford,4,0,http://football-data.co.uk/match/Wolves_vs_Watford_20220310
+2022-03-10,Leeds,Aston Villa,0,3,http://football-data.co.uk/match/Leeds_vs_Aston_Villa_20220310
+2022-03-12,Brighton,Liverpool,0,2,http://football-data.co.uk/match/Brighton_vs_Liverpool_20220312
+2022-03-12,Brentford,Burnley,2,0,http://football-data.co.uk/match/Brentford_vs_Burnley_20220312
+2022-03-12,Man United,Tottenham,3,2,http://football-data.co.uk/match/Man_United_vs_Tottenham_20220312
+2022-03-13,Chelsea,Newcastle,1,0,http://football-data.co.uk/match/Chelsea_vs_Newcastle_20220313
+2022-03-13,Everton,Wolves,0,1,http://football-data.co.uk/match/Everton_vs_Wolves_20220313
+2022-03-13,Leeds,Norwich,2,1,http://football-data.co.uk/match/Leeds_vs_Norwich_20220313
+2022-03-13,Southampton,Watford,1,2,http://football-data.co.uk/match/Southampton_vs_Watford_20220313
+2022-03-13,West Ham,Aston Villa,2,1,http://football-data.co.uk/match/West_Ham_vs_Aston_Villa_20220313
+2022-03-13,Arsenal,Leicester,2,0,http://football-data.co.uk/match/Arsenal_vs_Leicester_20220313
+2022-03-14,Crystal Palace,Man City,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Man_City_20220314
+2022-03-16,Brighton,Tottenham,0,2,http://football-data.co.uk/match/Brighton_vs_Tottenham_20220316
+2022-03-16,Arsenal,Liverpool,0,2,http://football-data.co.uk/match/Arsenal_vs_Liverpool_20220316
+2022-03-17,Everton,Newcastle,1,0,http://football-data.co.uk/match/Everton_vs_Newcastle_20220317
+2022-03-18,Wolves,Leeds,2,3,http://football-data.co.uk/match/Wolves_vs_Leeds_20220318
+2022-03-19,Aston Villa,Arsenal,0,1,http://football-data.co.uk/match/Aston_Villa_vs_Arsenal_20220319
+2022-03-20,Leicester,Brentford,2,1,http://football-data.co.uk/match/Leicester_vs_Brentford_20220320
+2022-03-20,Tottenham,West Ham,3,1,http://football-data.co.uk/match/Tottenham_vs_West_Ham_20220320
+2022-04-02,Liverpool,Watford,2,0,http://football-data.co.uk/match/Liverpool_vs_Watford_20220402
+2022-04-02,Brighton,Norwich,0,0,http://football-data.co.uk/match/Brighton_vs_Norwich_20220402
+2022-04-02,Burnley,Man City,0,2,http://football-data.co.uk/match/Burnley_vs_Man_City_20220402
+2022-04-02,Chelsea,Brentford,1,4,http://football-data.co.uk/match/Chelsea_vs_Brentford_20220402
+2022-04-02,Leeds,Southampton,1,1,http://football-data.co.uk/match/Leeds_vs_Southampton_20220402
+2022-04-02,Wolves,Aston Villa,2,1,http://football-data.co.uk/match/Wolves_vs_Aston_Villa_20220402
+2022-04-02,Man United,Leicester,1,1,http://football-data.co.uk/match/Man_United_vs_Leicester_20220402
+2022-04-03,West Ham,Everton,2,1,http://football-data.co.uk/match/West_Ham_vs_Everton_20220403
+2022-04-03,Tottenham,Newcastle,5,1,http://football-data.co.uk/match/Tottenham_vs_Newcastle_20220403
+2022-04-04,Crystal Palace,Arsenal,3,0,http://football-data.co.uk/match/Crystal_Palace_vs_Arsenal_20220404
+2022-04-06,Burnley,Everton,3,2,http://football-data.co.uk/match/Burnley_vs_Everton_20220406
+2022-04-08,Newcastle,Wolves,1,0,http://football-data.co.uk/match/Newcastle_vs_Wolves_20220408
+2022-04-09,Everton,Man United,1,0,http://football-data.co.uk/match/Everton_vs_Man_United_20220409
+2022-04-09,Arsenal,Brighton,1,2,http://football-data.co.uk/match/Arsenal_vs_Brighton_20220409
+2022-04-09,Southampton,Chelsea,0,6,http://football-data.co.uk/match/Southampton_vs_Chelsea_20220409
+2022-04-09,Watford,Leeds,0,3,http://football-data.co.uk/match/Watford_vs_Leeds_20220409
+2022-04-09,Aston Villa,Tottenham,0,4,http://football-data.co.uk/match/Aston_Villa_vs_Tottenham_20220409
+2022-04-10,Brentford,West Ham,2,0,http://football-data.co.uk/match/Brentford_vs_West_Ham_20220410
+2022-04-10,Leicester,Crystal Palace,2,1,http://football-data.co.uk/match/Leicester_vs_Crystal_Palace_20220410
+2022-04-10,Norwich,Burnley,2,0,http://football-data.co.uk/match/Norwich_vs_Burnley_20220410
+2022-04-10,Man City,Liverpool,2,2,http://football-data.co.uk/match/Man_City_vs_Liverpool_20220410
+2022-04-16,Tottenham,Brighton,0,1,http://football-data.co.uk/match/Tottenham_vs_Brighton_20220416
+2022-04-16,Man United,Norwich,3,2,http://football-data.co.uk/match/Man_United_vs_Norwich_20220416
+2022-04-16,Southampton,Arsenal,1,0,http://football-data.co.uk/match/Southampton_vs_Arsenal_20220416
+2022-04-16,Watford,Brentford,1,2,http://football-data.co.uk/match/Watford_vs_Brentford_20220416
+2022-04-17,Newcastle,Leicester,2,1,http://football-data.co.uk/match/Newcastle_vs_Leicester_20220417
+2022-04-17,West Ham,Burnley,1,1,http://football-data.co.uk/match/West_Ham_vs_Burnley_20220417
+2022-04-19,Liverpool,Man United,4,0,http://football-data.co.uk/match/Liverpool_vs_Man_United_20220419
+2022-04-20,Chelsea,Arsenal,2,4,http://football-data.co.uk/match/Chelsea_vs_Arsenal_20220420
+2022-04-20,Everton,Leicester,1,1,http://football-data.co.uk/match/Everton_vs_Leicester_20220420
+2022-04-20,Newcastle,Crystal Palace,1,0,http://football-data.co.uk/match/Newcastle_vs_Crystal_Palace_20220420
+2022-04-20,Man City,Brighton,3,0,http://football-data.co.uk/match/Man_City_vs_Brighton_20220420
+2022-04-21,Burnley,Southampton,2,0,http://football-data.co.uk/match/Burnley_vs_Southampton_20220421
+2022-04-23,Arsenal,Man United,3,1,http://football-data.co.uk/match/Arsenal_vs_Man_United_20220423
+2022-04-23,Leicester,Aston Villa,0,0,http://football-data.co.uk/match/Leicester_vs_Aston_Villa_20220423
+2022-04-23,Man City,Watford,5,1,http://football-data.co.uk/match/Man_City_vs_Watford_20220423
+2022-04-23,Norwich,Newcastle,0,3,http://football-data.co.uk/match/Norwich_vs_Newcastle_20220423
+2022-04-23,Brentford,Tottenham,0,0,http://football-data.co.uk/match/Brentford_vs_Tottenham_20220423
+2022-04-24,Brighton,Southampton,2,2,http://football-data.co.uk/match/Brighton_vs_Southampton_20220424
+2022-04-24,Burnley,Wolves,1,0,http://football-data.co.uk/match/Burnley_vs_Wolves_20220424
+2022-04-24,Chelsea,West Ham,1,0,http://football-data.co.uk/match/Chelsea_vs_West_Ham_20220424
+2022-04-24,Liverpool,Everton,2,0,http://football-data.co.uk/match/Liverpool_vs_Everton_20220424
+2022-04-25,Crystal Palace,Leeds,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Leeds_20220425
+2022-04-28,Man United,Chelsea,1,1,http://football-data.co.uk/match/Man_United_vs_Chelsea_20220428
+2022-04-30,Newcastle,Liverpool,0,1,http://football-data.co.uk/match/Newcastle_vs_Liverpool_20220430
+2022-04-30,Aston Villa,Norwich,2,0,http://football-data.co.uk/match/Aston_Villa_vs_Norwich_20220430
+2022-04-30,Southampton,Crystal Palace,1,2,http://football-data.co.uk/match/Southampton_vs_Crystal_Palace_20220430
+2022-04-30,Watford,Burnley,1,2,http://football-data.co.uk/match/Watford_vs_Burnley_20220430
+2022-04-30,Wolves,Brighton,0,3,http://football-data.co.uk/match/Wolves_vs_Brighton_20220430
+2022-04-30,Leeds,Man City,0,4,http://football-data.co.uk/match/Leeds_vs_Man_City_20220430
+2022-05-01,Everton,Chelsea,1,0,http://football-data.co.uk/match/Everton_vs_Chelsea_20220501
+2022-05-01,Tottenham,Leicester,3,1,http://football-data.co.uk/match/Tottenham_vs_Leicester_20220501
+2022-05-01,West Ham,Arsenal,1,2,http://football-data.co.uk/match/West_Ham_vs_Arsenal_20220501
+2022-05-02,Man United,Brentford,3,0,http://football-data.co.uk/match/Man_United_vs_Brentford_20220502
+2022-05-07,Brentford,Southampton,3,0,http://football-data.co.uk/match/Brentford_vs_Southampton_20220507
+2022-05-07,Burnley,Aston Villa,1,3,http://football-data.co.uk/match/Burnley_vs_Aston_Villa_20220507
+2022-05-07,Chelsea,Wolves,2,2,http://football-data.co.uk/match/Chelsea_vs_Wolves_20220507
+2022-05-07,Crystal Palace,Watford,1,0,http://football-data.co.uk/match/Crystal_Palace_vs_Watford_20220507
+2022-05-07,Brighton,Man United,4,0,http://football-data.co.uk/match/Brighton_vs_Man_United_20220507
+2022-05-07,Liverpool,Tottenham,1,1,http://football-data.co.uk/match/Liverpool_vs_Tottenham_20220507
+2022-05-08,Arsenal,Leeds,2,1,http://football-data.co.uk/match/Arsenal_vs_Leeds_20220508
+2022-05-08,Leicester,Everton,1,2,http://football-data.co.uk/match/Leicester_vs_Everton_20220508
+2022-05-08,Norwich,West Ham,0,4,http://football-data.co.uk/match/Norwich_vs_West_Ham_20220508
+2022-05-08,Man City,Newcastle,5,0,http://football-data.co.uk/match/Man_City_vs_Newcastle_20220508
+2022-05-10,Aston Villa,Liverpool,1,2,http://football-data.co.uk/match/Aston_Villa_vs_Liverpool_20220510
+2022-05-11,Leeds,Chelsea,0,3,http://football-data.co.uk/match/Leeds_vs_Chelsea_20220511
+2022-05-11,Leicester,Norwich,3,0,http://football-data.co.uk/match/Leicester_vs_Norwich_20220511
+2022-05-11,Watford,Everton,0,0,http://football-data.co.uk/match/Watford_vs_Everton_20220511
+2022-05-11,Wolves,Man City,1,5,http://football-data.co.uk/match/Wolves_vs_Man_City_20220511
+2022-05-12,Tottenham,Arsenal,3,0,http://football-data.co.uk/match/Tottenham_vs_Arsenal_20220512
+2022-05-15,Tottenham,Burnley,1,0,http://football-data.co.uk/match/Tottenham_vs_Burnley_20220515
+2022-05-15,Aston Villa,Crystal Palace,1,1,http://football-data.co.uk/match/Aston_Villa_vs_Crystal_Palace_20220515
+2022-05-15,Leeds,Brighton,1,1,http://football-data.co.uk/match/Leeds_vs_Brighton_20220515
+2022-05-15,Watford,Leicester,1,5,http://football-data.co.uk/match/Watford_vs_Leicester_20220515
+2022-05-15,West Ham,Man City,2,2,http://football-data.co.uk/match/West_Ham_vs_Man_City_20220515
+2022-05-15,Wolves,Norwich,1,1,http://football-data.co.uk/match/Wolves_vs_Norwich_20220515
+2022-05-15,Everton,Brentford,2,3,http://football-data.co.uk/match/Everton_vs_Brentford_20220515
+2022-05-16,Newcastle,Arsenal,2,0,http://football-data.co.uk/match/Newcastle_vs_Arsenal_20220516
+2022-05-17,Southampton,Liverpool,1,2,http://football-data.co.uk/match/Southampton_vs_Liverpool_20220517
+2022-05-19,Everton,Crystal Palace,3,2,http://football-data.co.uk/match/Everton_vs_Crystal_Palace_20220519
+2022-05-19,Aston Villa,Burnley,1,1,http://football-data.co.uk/match/Aston_Villa_vs_Burnley_20220519
+2022-05-19,Chelsea,Leicester,1,1,http://football-data.co.uk/match/Chelsea_vs_Leicester_20220519
+2022-05-22,Arsenal,Everton,5,1,http://football-data.co.uk/match/Arsenal_vs_Everton_20220522
+2022-05-22,Brentford,Leeds,1,2,http://football-data.co.uk/match/Brentford_vs_Leeds_20220522
+2022-05-22,Brighton,West Ham,3,1,http://football-data.co.uk/match/Brighton_vs_West_Ham_20220522
+2022-05-22,Burnley,Newcastle,1,2,http://football-data.co.uk/match/Burnley_vs_Newcastle_20220522
+2022-05-22,Chelsea,Watford,2,1,http://football-data.co.uk/match/Chelsea_vs_Watford_20220522
+2022-05-22,Crystal Palace,Man United,1,0,http://football-data.co.uk/match/Crystal_Palace_vs_Man_United_20220522
+2022-05-22,Leicester,Southampton,4,1,http://football-data.co.uk/match/Leicester_vs_Southampton_20220522
+2022-05-22,Liverpool,Wolves,3,1,http://football-data.co.uk/match/Liverpool_vs_Wolves_20220522
+2022-05-22,Man City,Aston Villa,3,2,http://football-data.co.uk/match/Man_City_vs_Aston_Villa_20220522
+2022-05-22,Norwich,Tottenham,0,5,http://football-data.co.uk/match/Norwich_vs_Tottenham_20220522
+2020-09-12,Fulham,Arsenal,0,3,http://football-data.co.uk/match/Fulham_vs_Arsenal_20200912
+2020-09-12,Crystal Palace,Southampton,1,0,http://football-data.co.uk/match/Crystal_Palace_vs_Southampton_20200912
+2020-09-12,Liverpool,Leeds,4,3,http://football-data.co.uk/match/Liverpool_vs_Leeds_20200912
+2020-09-12,West Ham,Newcastle,0,2,http://football-data.co.uk/match/West_Ham_vs_Newcastle_20200912
+2020-09-13,West Brom,Leicester,0,3,http://football-data.co.uk/match/West_Brom_vs_Leicester_20200913
+2020-09-13,Tottenham,Everton,0,1,http://football-data.co.uk/match/Tottenham_vs_Everton_20200913
+2020-09-14,Brighton,Chelsea,1,3,http://football-data.co.uk/match/Brighton_vs_Chelsea_20200914
+2020-09-14,Sheffield United,Wolves,0,2,http://football-data.co.uk/match/Sheffield_United_vs_Wolves_20200914
+2020-09-19,Everton,West Brom,5,2,http://football-data.co.uk/match/Everton_vs_West_Brom_20200919
+2020-09-19,Leeds,Fulham,4,3,http://football-data.co.uk/match/Leeds_vs_Fulham_20200919
+2020-09-19,Man United,Crystal Palace,1,3,http://football-data.co.uk/match/Man_United_vs_Crystal_Palace_20200919
+2020-09-19,Arsenal,West Ham,2,1,http://football-data.co.uk/match/Arsenal_vs_West_Ham_20200919
+2020-09-20,Southampton,Tottenham,2,5,http://football-data.co.uk/match/Southampton_vs_Tottenham_20200920
+2020-09-20,Newcastle,Brighton,0,3,http://football-data.co.uk/match/Newcastle_vs_Brighton_20200920
+2020-09-20,Chelsea,Liverpool,0,2,http://football-data.co.uk/match/Chelsea_vs_Liverpool_20200920
+2020-09-20,Leicester,Burnley,4,2,http://football-data.co.uk/match/Leicester_vs_Burnley_20200920
+2020-09-21,Aston Villa,Sheffield United,1,0,http://football-data.co.uk/match/Aston_Villa_vs_Sheffield_United_20200921
+2020-09-21,Wolves,Man City,1,3,http://football-data.co.uk/match/Wolves_vs_Man_City_20200921
+2020-09-26,Brighton,Man United,2,3,http://football-data.co.uk/match/Brighton_vs_Man_United_20200926
+2020-09-26,Crystal Palace,Everton,1,2,http://football-data.co.uk/match/Crystal_Palace_vs_Everton_20200926
+2020-09-26,West Brom,Chelsea,3,3,http://football-data.co.uk/match/West_Brom_vs_Chelsea_20200926
+2020-09-26,Burnley,Southampton,0,1,http://football-data.co.uk/match/Burnley_vs_Southampton_20200926
+2020-09-27,Sheffield United,Leeds,0,1,http://football-data.co.uk/match/Sheffield_United_vs_Leeds_20200927
+2020-09-27,Tottenham,Newcastle,1,1,http://football-data.co.uk/match/Tottenham_vs_Newcastle_20200927
+2020-09-27,Man City,Leicester,2,5,http://football-data.co.uk/match/Man_City_vs_Leicester_20200927
+2020-09-27,West Ham,Wolves,4,0,http://football-data.co.uk/match/West_Ham_vs_Wolves_20200927
+2020-09-28,Fulham,Aston Villa,0,3,http://football-data.co.uk/match/Fulham_vs_Aston_Villa_20200928
+2020-09-28,Liverpool,Arsenal,3,1,http://football-data.co.uk/match/Liverpool_vs_Arsenal_20200928
+2020-10-03,Chelsea,Crystal Palace,4,0,http://football-data.co.uk/match/Chelsea_vs_Crystal_Palace_20201003
+2020-10-03,Everton,Brighton,4,2,http://football-data.co.uk/match/Everton_vs_Brighton_20201003
+2020-10-03,Leeds,Man City,1,1,http://football-data.co.uk/match/Leeds_vs_Man_City_20201003
+2020-10-03,Newcastle,Burnley,3,1,http://football-data.co.uk/match/Newcastle_vs_Burnley_20201003
+2020-10-04,Leicester,West Ham,0,3,http://football-data.co.uk/match/Leicester_vs_West_Ham_20201004
+2020-10-04,Southampton,West Brom,2,0,http://football-data.co.uk/match/Southampton_vs_West_Brom_20201004
+2020-10-04,Arsenal,Sheffield United,2,1,http://football-data.co.uk/match/Arsenal_vs_Sheffield_United_20201004
+2020-10-04,Wolves,Fulham,1,0,http://football-data.co.uk/match/Wolves_vs_Fulham_20201004
+2020-10-04,Man United,Tottenham,1,6,http://football-data.co.uk/match/Man_United_vs_Tottenham_20201004
+2020-10-04,Aston Villa,Liverpool,7,2,http://football-data.co.uk/match/Aston_Villa_vs_Liverpool_20201004
+2020-10-17,Everton,Liverpool,2,2,http://football-data.co.uk/match/Everton_vs_Liverpool_20201017
+2020-10-17,Chelsea,Southampton,3,3,http://football-data.co.uk/match/Chelsea_vs_Southampton_20201017
+2020-10-17,Man City,Arsenal,1,0,http://football-data.co.uk/match/Man_City_vs_Arsenal_20201017
+2020-10-17,Newcastle,Man United,1,4,http://football-data.co.uk/match/Newcastle_vs_Man_United_20201017
+2020-10-18,Sheffield United,Fulham,1,1,http://football-data.co.uk/match/Sheffield_United_vs_Fulham_20201018
+2020-10-18,Crystal Palace,Brighton,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Brighton_20201018
+2020-10-18,Tottenham,West Ham,3,3,http://football-data.co.uk/match/Tottenham_vs_West_Ham_20201018
+2020-10-18,Leicester,Aston Villa,0,1,http://football-data.co.uk/match/Leicester_vs_Aston_Villa_20201018
+2020-10-19,West Brom,Burnley,0,0,http://football-data.co.uk/match/West_Brom_vs_Burnley_20201019
+2020-10-19,Leeds,Wolves,0,1,http://football-data.co.uk/match/Leeds_vs_Wolves_20201019
+2020-10-23,Aston Villa,Leeds,0,3,http://football-data.co.uk/match/Aston_Villa_vs_Leeds_20201023
+2020-10-24,West Ham,Man City,1,1,http://football-data.co.uk/match/West_Ham_vs_Man_City_20201024
+2020-10-24,Fulham,Crystal Palace,1,2,http://football-data.co.uk/match/Fulham_vs_Crystal_Palace_20201024
+2020-10-24,Man United,Chelsea,0,0,http://football-data.co.uk/match/Man_United_vs_Chelsea_20201024
+2020-10-24,Liverpool,Sheffield United,2,1,http://football-data.co.uk/match/Liverpool_vs_Sheffield_United_20201024
+2020-10-25,Southampton,Everton,2,0,http://football-data.co.uk/match/Southampton_vs_Everton_20201025
+2020-10-25,Wolves,Newcastle,1,1,http://football-data.co.uk/match/Wolves_vs_Newcastle_20201025
+2020-10-25,Arsenal,Leicester,0,1,http://football-data.co.uk/match/Arsenal_vs_Leicester_20201025
+2020-10-26,Brighton,West Brom,1,1,http://football-data.co.uk/match/Brighton_vs_West_Brom_20201026
+2020-10-26,Burnley,Tottenham,0,1,http://football-data.co.uk/match/Burnley_vs_Tottenham_20201026
+2020-10-30,Wolves,Crystal Palace,2,0,http://football-data.co.uk/match/Wolves_vs_Crystal_Palace_20201030
+2020-10-31,Sheffield United,Man City,0,1,http://football-data.co.uk/match/Sheffield_United_vs_Man_City_20201031
+2020-10-31,Burnley,Chelsea,0,3,http://football-data.co.uk/match/Burnley_vs_Chelsea_20201031
+2020-10-31,Liverpool,West Ham,2,1,http://football-data.co.uk/match/Liverpool_vs_West_Ham_20201031
+2020-11-01,Aston Villa,Southampton,3,4,http://football-data.co.uk/match/Aston_Villa_vs_Southampton_20201101
+2020-11-01,Newcastle,Everton,2,1,http://football-data.co.uk/match/Newcastle_vs_Everton_20201101
+2020-11-01,Man United,Arsenal,0,1,http://football-data.co.uk/match/Man_United_vs_Arsenal_20201101
+2020-11-01,Tottenham,Brighton,2,1,http://football-data.co.uk/match/Tottenham_vs_Brighton_20201101
+2020-11-02,Fulham,West Brom,2,0,http://football-data.co.uk/match/Fulham_vs_West_Brom_20201102
+2020-11-02,Leeds,Leicester,1,4,http://football-data.co.uk/match/Leeds_vs_Leicester_20201102
+2020-11-06,Brighton,Burnley,0,0,http://football-data.co.uk/match/Brighton_vs_Burnley_20201106
+2020-11-06,Southampton,Newcastle,2,0,http://football-data.co.uk/match/Southampton_vs_Newcastle_20201106
+2020-11-07,Everton,Man United,1,3,http://football-data.co.uk/match/Everton_vs_Man_United_20201107
+2020-11-07,Crystal Palace,Leeds,4,1,http://football-data.co.uk/match/Crystal_Palace_vs_Leeds_20201107
+2020-11-07,Chelsea,Sheffield United,4,1,http://football-data.co.uk/match/Chelsea_vs_Sheffield_United_20201107
+2020-11-07,West Ham,Fulham,1,0,http://football-data.co.uk/match/West_Ham_vs_Fulham_20201107
+2020-11-08,West Brom,Tottenham,0,1,http://football-data.co.uk/match/West_Brom_vs_Tottenham_20201108
+2020-11-08,Leicester,Wolves,1,0,http://football-data.co.uk/match/Leicester_vs_Wolves_20201108
+2020-11-08,Man City,Liverpool,1,1,http://football-data.co.uk/match/Man_City_vs_Liverpool_20201108
+2020-11-08,Arsenal,Aston Villa,0,3,http://football-data.co.uk/match/Arsenal_vs_Aston_Villa_20201108
+2020-11-21,Newcastle,Chelsea,0,2,http://football-data.co.uk/match/Newcastle_vs_Chelsea_20201121
+2020-11-21,Aston Villa,Brighton,1,2,http://football-data.co.uk/match/Aston_Villa_vs_Brighton_20201121
+2020-11-21,Tottenham,Man City,2,0,http://football-data.co.uk/match/Tottenham_vs_Man_City_20201121
+2020-11-21,Man United,West Brom,1,0,http://football-data.co.uk/match/Man_United_vs_West_Brom_20201121
+2020-11-22,Fulham,Everton,2,3,http://football-data.co.uk/match/Fulham_vs_Everton_20201122
+2020-11-22,Sheffield United,West Ham,0,1,http://football-data.co.uk/match/Sheffield_United_vs_West_Ham_20201122
+2020-11-22,Leeds,Arsenal,0,0,http://football-data.co.uk/match/Leeds_vs_Arsenal_20201122
+2020-11-22,Liverpool,Leicester,3,0,http://football-data.co.uk/match/Liverpool_vs_Leicester_20201122
+2020-11-23,Burnley,Crystal Palace,1,0,http://football-data.co.uk/match/Burnley_vs_Crystal_Palace_20201123
+2020-11-23,Wolves,Southampton,1,1,http://football-data.co.uk/match/Wolves_vs_Southampton_20201123
+2020-11-27,Crystal Palace,Newcastle,0,2,http://football-data.co.uk/match/Crystal_Palace_vs_Newcastle_20201127
+2020-11-28,Brighton,Liverpool,1,1,http://football-data.co.uk/match/Brighton_vs_Liverpool_20201128
+2020-11-28,Man City,Burnley,5,0,http://football-data.co.uk/match/Man_City_vs_Burnley_20201128
+2020-11-28,Everton,Leeds,0,1,http://football-data.co.uk/match/Everton_vs_Leeds_20201128
+2020-11-28,West Brom,Sheffield United,1,0,http://football-data.co.uk/match/West_Brom_vs_Sheffield_United_20201128
+2020-11-29,Southampton,Man United,2,3,http://football-data.co.uk/match/Southampton_vs_Man_United_20201129
+2020-11-29,Chelsea,Tottenham,0,0,http://football-data.co.uk/match/Chelsea_vs_Tottenham_20201129
+2020-11-29,Arsenal,Wolves,1,2,http://football-data.co.uk/match/Arsenal_vs_Wolves_20201129
+2020-11-30,Leicester,Fulham,1,2,http://football-data.co.uk/match/Leicester_vs_Fulham_20201130
+2020-11-30,West Ham,Aston Villa,2,1,http://football-data.co.uk/match/West_Ham_vs_Aston_Villa_20201130
+2020-12-05,Burnley,Everton,1,1,http://football-data.co.uk/match/Burnley_vs_Everton_20201205
+2020-12-05,Man City,Fulham,2,0,http://football-data.co.uk/match/Man_City_vs_Fulham_20201205
+2020-12-05,West Ham,Man United,1,3,http://football-data.co.uk/match/West_Ham_vs_Man_United_20201205
+2020-12-05,Chelsea,Leeds,3,1,http://football-data.co.uk/match/Chelsea_vs_Leeds_20201205
+2020-12-06,West Brom,Crystal Palace,1,5,http://football-data.co.uk/match/West_Brom_vs_Crystal_Palace_20201206
+2020-12-06,Sheffield United,Leicester,1,2,http://football-data.co.uk/match/Sheffield_United_vs_Leicester_20201206
+2020-12-06,Tottenham,Arsenal,2,0,http://football-data.co.uk/match/Tottenham_vs_Arsenal_20201206
+2020-12-06,Liverpool,Wolves,4,0,http://football-data.co.uk/match/Liverpool_vs_Wolves_20201206
+2020-12-07,Brighton,Southampton,1,2,http://football-data.co.uk/match/Brighton_vs_Southampton_20201207
+2020-12-11,Leeds,West Ham,1,2,http://football-data.co.uk/match/Leeds_vs_West_Ham_20201211
+2020-12-12,Wolves,Aston Villa,0,1,http://football-data.co.uk/match/Wolves_vs_Aston_Villa_20201212
+2020-12-12,Newcastle,West Brom,2,1,http://football-data.co.uk/match/Newcastle_vs_West_Brom_20201212
+2020-12-12,Man United,Man City,0,0,http://football-data.co.uk/match/Man_United_vs_Man_City_20201212
+2020-12-12,Everton,Chelsea,1,0,http://football-data.co.uk/match/Everton_vs_Chelsea_20201212
+2020-12-13,Southampton,Sheffield United,3,0,http://football-data.co.uk/match/Southampton_vs_Sheffield_United_20201213
+2020-12-13,Crystal Palace,Tottenham,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Tottenham_20201213
+2020-12-13,Fulham,Liverpool,1,1,http://football-data.co.uk/match/Fulham_vs_Liverpool_20201213
+2020-12-13,Arsenal,Burnley,0,1,http://football-data.co.uk/match/Arsenal_vs_Burnley_20201213
+2020-12-13,Leicester,Brighton,3,0,http://football-data.co.uk/match/Leicester_vs_Brighton_20201213
+2020-12-15,Wolves,Chelsea,2,1,http://football-data.co.uk/match/Wolves_vs_Chelsea_20201215
+2020-12-15,Man City,West Brom,1,1,http://football-data.co.uk/match/Man_City_vs_West_Brom_20201215
+2020-12-16,Arsenal,Southampton,1,1,http://football-data.co.uk/match/Arsenal_vs_Southampton_20201216
+2020-12-16,Leeds,Newcastle,5,2,http://football-data.co.uk/match/Leeds_vs_Newcastle_20201216
+2020-12-16,Leicester,Everton,0,2,http://football-data.co.uk/match/Leicester_vs_Everton_20201216
+2020-12-16,Fulham,Brighton,0,0,http://football-data.co.uk/match/Fulham_vs_Brighton_20201216
+2020-12-16,Liverpool,Tottenham,2,1,http://football-data.co.uk/match/Liverpool_vs_Tottenham_20201216
+2020-12-16,West Ham,Crystal Palace,1,1,http://football-data.co.uk/match/West_Ham_vs_Crystal_Palace_20201216
+2020-12-17,Aston Villa,Burnley,0,0,http://football-data.co.uk/match/Aston_Villa_vs_Burnley_20201217
+2020-12-17,Sheffield United,Man United,2,3,http://football-data.co.uk/match/Sheffield_United_vs_Man_United_20201217
+2020-12-19,Crystal Palace,Liverpool,0,7,http://football-data.co.uk/match/Crystal_Palace_vs_Liverpool_20201219
+2020-12-19,Southampton,Man City,0,1,http://football-data.co.uk/match/Southampton_vs_Man_City_20201219
+2020-12-19,Everton,Arsenal,2,1,http://football-data.co.uk/match/Everton_vs_Arsenal_20201219
+2020-12-19,Newcastle,Fulham,1,1,http://football-data.co.uk/match/Newcastle_vs_Fulham_20201219
+2020-12-20,Brighton,Sheffield United,1,1,http://football-data.co.uk/match/Brighton_vs_Sheffield_United_20201220
+2020-12-20,Tottenham,Leicester,0,2,http://football-data.co.uk/match/Tottenham_vs_Leicester_20201220
+2020-12-20,Man United,Leeds,6,2,http://football-data.co.uk/match/Man_United_vs_Leeds_20201220
+2020-12-20,West Brom,Aston Villa,0,3,http://football-data.co.uk/match/West_Brom_vs_Aston_Villa_20201220
+2020-12-21,Burnley,Wolves,2,1,http://football-data.co.uk/match/Burnley_vs_Wolves_20201221
+2020-12-21,Chelsea,West Ham,3,0,http://football-data.co.uk/match/Chelsea_vs_West_Ham_20201221
+2020-12-26,Leicester,Man United,2,2,http://football-data.co.uk/match/Leicester_vs_Man_United_20201226
+2020-12-26,Aston Villa,Crystal Palace,3,0,http://football-data.co.uk/match/Aston_Villa_vs_Crystal_Palace_20201226
+2020-12-26,Fulham,Southampton,0,0,http://football-data.co.uk/match/Fulham_vs_Southampton_20201226
+2020-12-26,Arsenal,Chelsea,3,1,http://football-data.co.uk/match/Arsenal_vs_Chelsea_20201226
+2020-12-26,Man City,Newcastle,2,0,http://football-data.co.uk/match/Man_City_vs_Newcastle_20201226
+2020-12-26,Sheffield United,Everton,0,1,http://football-data.co.uk/match/Sheffield_United_vs_Everton_20201226
+2020-12-27,Leeds,Burnley,1,0,http://football-data.co.uk/match/Leeds_vs_Burnley_20201227
+2020-12-27,West Ham,Brighton,2,2,http://football-data.co.uk/match/West_Ham_vs_Brighton_20201227
+2020-12-27,Liverpool,West Brom,1,1,http://football-data.co.uk/match/Liverpool_vs_West_Brom_20201227
+2020-12-27,Wolves,Tottenham,1,1,http://football-data.co.uk/match/Wolves_vs_Tottenham_20201227
+2020-12-28,Crystal Palace,Leicester,1,1,http://football-data.co.uk/match/Crystal_Palace_vs_Leicester_20201228
+2020-12-28,Chelsea,Aston Villa,1,1,http://football-data.co.uk/match/Chelsea_vs_Aston_Villa_20201228
+2020-12-29,Brighton,Arsenal,0,1,http://football-data.co.uk/match/Brighton_vs_Arsenal_20201229
+2020-12-29,Burnley,Sheffield United,1,0,http://football-data.co.uk/match/Burnley_vs_Sheffield_United_20201229
+2020-12-29,Southampton,West Ham,0,0,http://football-data.co.uk/match/Southampton_vs_West_Ham_20201229
+2020-12-29,West Brom,Leeds,0,5,http://football-data.co.uk/match/West_Brom_vs_Leeds_20201229
+2020-12-29,Man United,Wolves,1,0,http://football-data.co.uk/match/Man_United_vs_Wolves_20201229
+2020-12-30,Newcastle,Liverpool,0,0,http://football-data.co.uk/match/Newcastle_vs_Liverpool_20201230
+2021-01-01,Everton,West Ham,0,1,http://football-data.co.uk/match/Everton_vs_West_Ham_20210101
+2021-01-01,Man United,Aston Villa,2,1,http://football-data.co.uk/match/Man_United_vs_Aston_Villa_20210101
+2021-01-02,Tottenham,Leeds,3,0,http://football-data.co.uk/match/Tottenham_vs_Leeds_20210102
+2021-01-02,Crystal Palace,Sheffield United,2,0,http://football-data.co.uk/match/Crystal_Palace_vs_Sheffield_United_20210102
+2021-01-02,Brighton,Wolves,3,3,http://football-data.co.uk/match/Brighton_vs_Wolves_20210102
+2021-01-02,West Brom,Arsenal,0,4,http://football-data.co.uk/match/West_Brom_vs_Arsenal_20210102
+2021-01-03,Newcastle,Leicester,1,2,http://football-data.co.uk/match/Newcastle_vs_Leicester_20210103
+2021-01-03,Chelsea,Man City,1,3,http://football-data.co.uk/match/Chelsea_vs_Man_City_20210103
+2021-01-04,Southampton,Liverpool,1,0,http://football-data.co.uk/match/Southampton_vs_Liverpool_20210104
+2021-01-12,Sheffield United,Newcastle,1,0,http://football-data.co.uk/match/Sheffield_United_vs_Newcastle_20210112
+2021-01-12,Burnley,Man United,0,1,http://football-data.co.uk/match/Burnley_vs_Man_United_20210112
+2021-01-12,Wolves,Everton,1,2,http://football-data.co.uk/match/Wolves_vs_Everton_20210112
+2021-01-13,Man City,Brighton,1,0,http://football-data.co.uk/match/Man_City_vs_Brighton_20210113
+2021-01-13,Tottenham,Fulham,1,1,http://football-data.co.uk/match/Tottenham_vs_Fulham_20210113
+2021-01-14,Arsenal,Crystal Palace,0,0,http://football-data.co.uk/match/Arsenal_vs_Crystal_Palace_20210114
+2021-01-16,Wolves,West Brom,2,3,http://football-data.co.uk/match/Wolves_vs_West_Brom_20210116
+2021-01-16,Leeds,Brighton,0,1,http://football-data.co.uk/match/Leeds_vs_Brighton_20210116
+2021-01-16,West Ham,Burnley,1,0,http://football-data.co.uk/match/West_Ham_vs_Burnley_20210116
+2021-01-16,Fulham,Chelsea,0,1,http://football-data.co.uk/match/Fulham_vs_Chelsea_20210116
+2021-01-16,Leicester,Southampton,2,0,http://football-data.co.uk/match/Leicester_vs_Southampton_20210116
+2021-01-17,Sheffield United,Tottenham,1,3,http://football-data.co.uk/match/Sheffield_United_vs_Tottenham_20210117
+2021-01-17,Liverpool,Man United,0,0,http://football-data.co.uk/match/Liverpool_vs_Man_United_20210117
+2021-01-17,Man City,Crystal Palace,4,0,http://football-data.co.uk/match/Man_City_vs_Crystal_Palace_20210117
+2021-01-18,Arsenal,Newcastle,3,0,http://football-data.co.uk/match/Arsenal_vs_Newcastle_20210118
+2021-01-19,West Ham,West Brom,2,1,http://football-data.co.uk/match/West_Ham_vs_West_Brom_20210119
+2021-01-19,Leicester,Chelsea,2,0,http://football-data.co.uk/match/Leicester_vs_Chelsea_20210119
+2021-01-20,Man City,Aston Villa,2,0,http://football-data.co.uk/match/Man_City_vs_Aston_Villa_20210120
+2021-01-20,Fulham,Man United,1,2,http://football-data.co.uk/match/Fulham_vs_Man_United_20210120
+2021-01-21,Liverpool,Burnley,0,1,http://football-data.co.uk/match/Liverpool_vs_Burnley_20210121
+2021-01-23,Aston Villa,Newcastle,2,0,http://football-data.co.uk/match/Aston_Villa_vs_Newcastle_20210123
+2021-01-26,Crystal Palace,West Ham,2,3,http://football-data.co.uk/match/Crystal_Palace_vs_West_Ham_20210126
+2021-01-26,Newcastle,Leeds,1,2,http://football-data.co.uk/match/Newcastle_vs_Leeds_20210126
+2021-01-26,Southampton,Arsenal,1,3,http://football-data.co.uk/match/Southampton_vs_Arsenal_20210126
+2021-01-26,West Brom,Man City,0,5,http://football-data.co.uk/match/West_Brom_vs_Man_City_20210126
+2021-01-27,Burnley,Aston Villa,3,2,http://football-data.co.uk/match/Burnley_vs_Aston_Villa_20210127
+2021-01-27,Chelsea,Wolves,0,0,http://football-data.co.uk/match/Chelsea_vs_Wolves_20210127
+2021-01-27,Brighton,Fulham,0,0,http://football-data.co.uk/match/Brighton_vs_Fulham_20210127
+2021-01-27,Everton,Leicester,1,1,http://football-data.co.uk/match/Everton_vs_Leicester_20210127
+2021-01-27,Man United,Sheffield United,1,2,http://football-data.co.uk/match/Man_United_vs_Sheffield_United_20210127
+2021-01-28,Tottenham,Liverpool,1,3,http://football-data.co.uk/match/Tottenham_vs_Liverpool_20210128
+2021-01-30,Everton,Newcastle,0,2,http://football-data.co.uk/match/Everton_vs_Newcastle_20210130
+2021-01-30,Crystal Palace,Wolves,1,0,http://football-data.co.uk/match/Crystal_Palace_vs_Wolves_20210130
+2021-01-30,Man City,Sheffield United,1,0,http://football-data.co.uk/match/Man_City_vs_Sheffield_United_20210130
+2021-01-30,West Brom,Fulham,2,2,http://football-data.co.uk/match/West_Brom_vs_Fulham_20210130
+2021-01-30,Arsenal,Man United,0,0,http://football-data.co.uk/match/Arsenal_vs_Man_United_20210130
+2021-01-30,Southampton,Aston Villa,0,1,http://football-data.co.uk/match/Southampton_vs_Aston_Villa_20210130
+2021-01-31,Chelsea,Burnley,2,0,http://football-data.co.uk/match/Chelsea_vs_Burnley_20210131
+2021-01-31,Leicester,Leeds,1,3,http://football-data.co.uk/match/Leicester_vs_Leeds_20210131
+2021-01-31,West Ham,Liverpool,1,3,http://football-data.co.uk/match/West_Ham_vs_Liverpool_20210131
+2021-01-31,Brighton,Tottenham,1,0,http://football-data.co.uk/match/Brighton_vs_Tottenham_20210131
+2021-02-02,Sheffield United,West Brom,2,1,http://football-data.co.uk/match/Sheffield_United_vs_West_Brom_20210202
+2021-02-02,Wolves,Arsenal,2,1,http://football-data.co.uk/match/Wolves_vs_Arsenal_20210202
+2021-02-02,Man United,Southampton,9,0,http://football-data.co.uk/match/Man_United_vs_Southampton_20210202
+2021-02-02,Newcastle,Crystal Palace,1,2,http://football-data.co.uk/match/Newcastle_vs_Crystal_Palace_20210202
+2021-02-03,Burnley,Man City,0,2,http://football-data.co.uk/match/Burnley_vs_Man_City_20210203
+2021-02-03,Fulham,Leicester,0,2,http://football-data.co.uk/match/Fulham_vs_Leicester_20210203
+2021-02-03,Leeds,Everton,1,2,http://football-data.co.uk/match/Leeds_vs_Everton_20210203
+2021-02-03,Aston Villa,West Ham,1,3,http://football-data.co.uk/match/Aston_Villa_vs_West_Ham_20210203
+2021-02-03,Liverpool,Brighton,0,1,http://football-data.co.uk/match/Liverpool_vs_Brighton_20210203
+2021-02-04,Tottenham,Chelsea,0,1,http://football-data.co.uk/match/Tottenham_vs_Chelsea_20210204
+2021-02-06,Aston Villa,Arsenal,1,0,http://football-data.co.uk/match/Aston_Villa_vs_Arsenal_20210206
+2021-02-06,Burnley,Brighton,1,1,http://football-data.co.uk/match/Burnley_vs_Brighton_20210206
+2021-02-06,Newcastle,Southampton,3,2,http://football-data.co.uk/match/Newcastle_vs_Southampton_20210206
+2021-02-06,Fulham,West Ham,0,0,http://football-data.co.uk/match/Fulham_vs_West_Ham_20210206
+2021-02-06,Man United,Everton,3,3,http://football-data.co.uk/match/Man_United_vs_Everton_20210206
+2021-02-07,Tottenham,West Brom,2,0,http://football-data.co.uk/match/Tottenham_vs_West_Brom_20210207
+2021-02-07,Wolves,Leicester,0,0,http://football-data.co.uk/match/Wolves_vs_Leicester_20210207
+2021-02-07,Liverpool,Man City,1,4,http://football-data.co.uk/match/Liverpool_vs_Man_City_20210207
+2021-02-07,Sheffield United,Chelsea,1,2,http://football-data.co.uk/match/Sheffield_United_vs_Chelsea_20210207
+2021-02-08,Leeds,Crystal Palace,2,0,http://football-data.co.uk/match/Leeds_vs_Crystal_Palace_20210208
+2021-02-13,Leicester,Liverpool,3,1,http://football-data.co.uk/match/Leicester_vs_Liverpool_20210213
+2021-02-13,Crystal Palace,Burnley,0,3,http://football-data.co.uk/match/Crystal_Palace_vs_Burnley_20210213
+2021-02-13,Man City,Tottenham,3,0,http://football-data.co.uk/match/Man_City_vs_Tottenham_20210213
+2021-02-13,Brighton,Aston Villa,0,0,http://football-data.co.uk/match/Brighton_vs_Aston_Villa_20210213
+2021-02-14,Southampton,Wolves,1,2,http://football-data.co.uk/match/Southampton_vs_Wolves_20210214
+2021-02-14,West Brom,Man United,1,1,http://football-data.co.uk/match/West_Brom_vs_Man_United_20210214
+2021-02-14,Arsenal,Leeds,4,2,http://football-data.co.uk/match/Arsenal_vs_Leeds_20210214
+2021-02-14,Everton,Fulham,0,2,http://football-data.co.uk/match/Everton_vs_Fulham_20210214
+2021-02-15,West Ham,Sheffield United,3,0,http://football-data.co.uk/match/West_Ham_vs_Sheffield_United_20210215
+2021-02-15,Chelsea,Newcastle,2,0,http://football-data.co.uk/match/Chelsea_vs_Newcastle_20210215
+2021-02-17,Burnley,Fulham,1,1,http://football-data.co.uk/match/Burnley_vs_Fulham_20210217
+2021-02-17,Everton,Man City,1,3,http://football-data.co.uk/match/Everton_vs_Man_City_20210217
+2021-02-19,Wolves,Leeds,1,0,http://football-data.co.uk/match/Wolves_vs_Leeds_20210219
+2021-02-20,Southampton,Chelsea,1,1,http://football-data.co.uk/match/Southampton_vs_Chelsea_20210220
+2021-02-20,Burnley,West Brom,0,0,http://football-data.co.uk/match/Burnley_vs_West_Brom_20210220
+2021-02-20,Liverpool,Everton,0,2,http://football-data.co.uk/match/Liverpool_vs_Everton_20210220
+2021-02-20,Fulham,Sheffield United,1,0,http://football-data.co.uk/match/Fulham_vs_Sheffield_United_20210220
+2021-02-21,West Ham,Tottenham,2,1,http://football-data.co.uk/match/West_Ham_vs_Tottenham_20210221
+2021-02-21,Aston Villa,Leicester,1,2,http://football-data.co.uk/match/Aston_Villa_vs_Leicester_20210221
+2021-02-21,Arsenal,Man City,0,1,http://football-data.co.uk/match/Arsenal_vs_Man_City_20210221
+2021-02-21,Man United,Newcastle,3,1,http://football-data.co.uk/match/Man_United_vs_Newcastle_20210221
+2021-02-22,Brighton,Crystal Palace,1,2,http://football-data.co.uk/match/Brighton_vs_Crystal_Palace_20210222
+2021-02-23,Leeds,Southampton,3,0,http://football-data.co.uk/match/Leeds_vs_Southampton_20210223
+2021-02-27,Man City,West Ham,2,1,http://football-data.co.uk/match/Man_City_vs_West_Ham_20210227
+2021-02-27,West Brom,Brighton,1,0,http://football-data.co.uk/match/West_Brom_vs_Brighton_20210227
+2021-02-27,Leeds,Aston Villa,0,1,http://football-data.co.uk/match/Leeds_vs_Aston_Villa_20210227
+2021-02-27,Newcastle,Wolves,1,1,http://football-data.co.uk/match/Newcastle_vs_Wolves_20210227
+2021-02-28,Crystal Palace,Fulham,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Fulham_20210228
+2021-02-28,Leicester,Arsenal,1,3,http://football-data.co.uk/match/Leicester_vs_Arsenal_20210228
+2021-02-28,Tottenham,Burnley,4,0,http://football-data.co.uk/match/Tottenham_vs_Burnley_20210228
+2021-02-28,Chelsea,Man United,0,0,http://football-data.co.uk/match/Chelsea_vs_Man_United_20210228
+2021-02-28,Sheffield United,Liverpool,0,2,http://football-data.co.uk/match/Sheffield_United_vs_Liverpool_20210228
+2021-03-01,Everton,Southampton,1,0,http://football-data.co.uk/match/Everton_vs_Southampton_20210301
+2021-03-02,Man City,Wolves,4,1,http://football-data.co.uk/match/Man_City_vs_Wolves_20210302
+2021-03-03,Burnley,Leicester,1,1,http://football-data.co.uk/match/Burnley_vs_Leicester_20210303
+2021-03-03,Sheffield United,Aston Villa,1,0,http://football-data.co.uk/match/Sheffield_United_vs_Aston_Villa_20210303
+2021-03-03,Crystal Palace,Man United,0,0,http://football-data.co.uk/match/Crystal_Palace_vs_Man_United_20210303
+2021-03-04,Fulham,Tottenham,0,1,http://football-data.co.uk/match/Fulham_vs_Tottenham_20210304
+2021-03-04,West Brom,Everton,0,1,http://football-data.co.uk/match/West_Brom_vs_Everton_20210304
+2021-03-04,Liverpool,Chelsea,0,1,http://football-data.co.uk/match/Liverpool_vs_Chelsea_20210304
+2021-03-06,Burnley,Arsenal,1,1,http://football-data.co.uk/match/Burnley_vs_Arsenal_20210306
+2021-03-06,Sheffield United,Southampton,0,2,http://football-data.co.uk/match/Sheffield_United_vs_Southampton_20210306
+2021-03-06,Aston Villa,Wolves,0,0,http://football-data.co.uk/match/Aston_Villa_vs_Wolves_20210306
+2021-03-06,Brighton,Leicester,1,2,http://football-data.co.uk/match/Brighton_vs_Leicester_20210306
+2021-03-07,West Brom,Newcastle,0,0,http://football-data.co.uk/match/West_Brom_vs_Newcastle_20210307
+2021-03-07,Liverpool,Fulham,0,1,http://football-data.co.uk/match/Liverpool_vs_Fulham_20210307
+2021-03-07,Man City,Man United,0,2,http://football-data.co.uk/match/Man_City_vs_Man_United_20210307
+2021-03-07,Tottenham,Crystal Palace,4,1,http://football-data.co.uk/match/Tottenham_vs_Crystal_Palace_20210307
+2021-03-08,Chelsea,Everton,2,0,http://football-data.co.uk/match/Chelsea_vs_Everton_20210308
+2021-03-08,West Ham,Leeds,2,0,http://football-data.co.uk/match/West_Ham_vs_Leeds_20210308
+2021-03-10,Man City,Southampton,5,2,http://football-data.co.uk/match/Man_City_vs_Southampton_20210310
+2021-03-12,Newcastle,Aston Villa,1,1,http://football-data.co.uk/match/Newcastle_vs_Aston_Villa_20210312
+2021-03-13,Leeds,Chelsea,0,0,http://football-data.co.uk/match/Leeds_vs_Chelsea_20210313
+2021-03-13,Crystal Palace,West Brom,1,0,http://football-data.co.uk/match/Crystal_Palace_vs_West_Brom_20210313
+2021-03-13,Everton,Burnley,1,2,http://football-data.co.uk/match/Everton_vs_Burnley_20210313
+2021-03-13,Fulham,Man City,0,3,http://football-data.co.uk/match/Fulham_vs_Man_City_20210313
+2021-03-14,Southampton,Brighton,1,2,http://football-data.co.uk/match/Southampton_vs_Brighton_20210314
+2021-03-14,Leicester,Sheffield United,5,0,http://football-data.co.uk/match/Leicester_vs_Sheffield_United_20210314
+2021-03-14,Arsenal,Tottenham,2,1,http://football-data.co.uk/match/Arsenal_vs_Tottenham_20210314
+2021-03-14,Man United,West Ham,1,0,http://football-data.co.uk/match/Man_United_vs_West_Ham_20210314
+2021-03-15,Wolves,Liverpool,0,1,http://football-data.co.uk/match/Wolves_vs_Liverpool_20210315
+2021-03-19,Fulham,Leeds,1,2,http://football-data.co.uk/match/Fulham_vs_Leeds_20210319
+2021-03-20,Brighton,Newcastle,3,0,http://football-data.co.uk/match/Brighton_vs_Newcastle_20210320
+2021-03-21,West Ham,Arsenal,3,3,http://football-data.co.uk/match/West_Ham_vs_Arsenal_20210321
+2021-03-21,Aston Villa,Tottenham,0,2,http://football-data.co.uk/match/Aston_Villa_vs_Tottenham_20210321
+2021-04-03,Chelsea,West Brom,2,5,http://football-data.co.uk/match/Chelsea_vs_West_Brom_20210403
+2021-04-03,Leeds,Sheffield United,2,1,http://football-data.co.uk/match/Leeds_vs_Sheffield_United_20210403
+2021-04-03,Leicester,Man City,0,2,http://football-data.co.uk/match/Leicester_vs_Man_City_20210403
+2021-04-03,Arsenal,Liverpool,0,3,http://football-data.co.uk/match/Arsenal_vs_Liverpool_20210403
+2021-04-04,Southampton,Burnley,3,2,http://football-data.co.uk/match/Southampton_vs_Burnley_20210404
+2021-04-04,Newcastle,Tottenham,2,2,http://football-data.co.uk/match/Newcastle_vs_Tottenham_20210404
+2021-04-04,Aston Villa,Fulham,3,1,http://football-data.co.uk/match/Aston_Villa_vs_Fulham_20210404
+2021-04-04,Man United,Brighton,2,1,http://football-data.co.uk/match/Man_United_vs_Brighton_20210404
+2021-04-05,Everton,Crystal Palace,1,1,http://football-data.co.uk/match/Everton_vs_Crystal_Palace_20210405
+2021-04-05,Wolves,West Ham,2,3,http://football-data.co.uk/match/Wolves_vs_West_Ham_20210405
+2021-04-09,Fulham,Wolves,0,1,http://football-data.co.uk/match/Fulham_vs_Wolves_20210409
+2021-04-10,Man City,Leeds,1,2,http://football-data.co.uk/match/Man_City_vs_Leeds_20210410
+2021-04-10,Liverpool,Aston Villa,2,1,http://football-data.co.uk/match/Liverpool_vs_Aston_Villa_20210410
+2021-04-10,Crystal Palace,Chelsea,1,4,http://football-data.co.uk/match/Crystal_Palace_vs_Chelsea_20210410
+2021-04-11,Burnley,Newcastle,1,2,http://football-data.co.uk/match/Burnley_vs_Newcastle_20210411
+2021-04-11,West Ham,Leicester,3,2,http://football-data.co.uk/match/West_Ham_vs_Leicester_20210411
+2021-04-11,Tottenham,Man United,1,3,http://football-data.co.uk/match/Tottenham_vs_Man_United_20210411
+2021-04-11,Sheffield United,Arsenal,0,3,http://football-data.co.uk/match/Sheffield_United_vs_Arsenal_20210411
+2021-04-12,West Brom,Southampton,3,0,http://football-data.co.uk/match/West_Brom_vs_Southampton_20210412
+2021-04-12,Brighton,Everton,0,0,http://football-data.co.uk/match/Brighton_vs_Everton_20210412
+2021-04-16,Everton,Tottenham,2,2,http://football-data.co.uk/match/Everton_vs_Tottenham_20210416
+2021-04-17,Newcastle,West Ham,3,2,http://football-data.co.uk/match/Newcastle_vs_West_Ham_20210417
+2021-04-17,Wolves,Sheffield United,1,0,http://football-data.co.uk/match/Wolves_vs_Sheffield_United_20210417
+2021-04-18,Arsenal,Fulham,1,1,http://football-data.co.uk/match/Arsenal_vs_Fulham_20210418
+2021-04-18,Man United,Burnley,3,1,http://football-data.co.uk/match/Man_United_vs_Burnley_20210418
+2021-04-19,Leeds,Liverpool,1,1,http://football-data.co.uk/match/Leeds_vs_Liverpool_20210419
+2021-04-20,Chelsea,Brighton,0,0,http://football-data.co.uk/match/Chelsea_vs_Brighton_20210420
+2021-04-21,Tottenham,Southampton,2,1,http://football-data.co.uk/match/Tottenham_vs_Southampton_20210421
+2021-04-21,Aston Villa,Man City,1,2,http://football-data.co.uk/match/Aston_Villa_vs_Man_City_20210421
+2021-04-22,Leicester,West Brom,3,0,http://football-data.co.uk/match/Leicester_vs_West_Brom_20210422
+2021-04-23,Arsenal,Everton,0,1,http://football-data.co.uk/match/Arsenal_vs_Everton_20210423
+2021-04-24,Liverpool,Newcastle,1,1,http://football-data.co.uk/match/Liverpool_vs_Newcastle_20210424
+2021-04-24,West Ham,Chelsea,0,1,http://football-data.co.uk/match/West_Ham_vs_Chelsea_20210424
+2021-04-24,Sheffield United,Brighton,1,0,http://football-data.co.uk/match/Sheffield_United_vs_Brighton_20210424
+2021-04-25,Wolves,Burnley,0,4,http://football-data.co.uk/match/Wolves_vs_Burnley_20210425
+2021-04-25,Leeds,Man United,0,0,http://football-data.co.uk/match/Leeds_vs_Man_United_20210425
+2021-04-25,Aston Villa,West Brom,2,2,http://football-data.co.uk/match/Aston_Villa_vs_West_Brom_20210425
+2021-04-26,Leicester,Crystal Palace,2,1,http://football-data.co.uk/match/Leicester_vs_Crystal_Palace_20210426
+2021-04-30,Southampton,Leicester,1,1,http://football-data.co.uk/match/Southampton_vs_Leicester_20210430
+2021-05-01,Crystal Palace,Man City,0,2,http://football-data.co.uk/match/Crystal_Palace_vs_Man_City_20210501
+2021-05-01,Brighton,Leeds,2,0,http://football-data.co.uk/match/Brighton_vs_Leeds_20210501
+2021-05-01,Chelsea,Fulham,2,0,http://football-data.co.uk/match/Chelsea_vs_Fulham_20210501
+2021-05-01,Everton,Aston Villa,1,2,http://football-data.co.uk/match/Everton_vs_Aston_Villa_20210501
+2021-05-02,Newcastle,Arsenal,0,2,http://football-data.co.uk/match/Newcastle_vs_Arsenal_20210502
+2021-05-02,Tottenham,Sheffield United,4,0,http://football-data.co.uk/match/Tottenham_vs_Sheffield_United_20210502
+2021-05-03,West Brom,Wolves,1,1,http://football-data.co.uk/match/West_Brom_vs_Wolves_20210503
+2021-05-03,Burnley,West Ham,1,2,http://football-data.co.uk/match/Burnley_vs_West_Ham_20210503
+2021-05-07,Leicester,Newcastle,2,4,http://football-data.co.uk/match/Leicester_vs_Newcastle_20210507
+2021-05-08,Leeds,Tottenham,3,1,http://football-data.co.uk/match/Leeds_vs_Tottenham_20210508
+2021-05-08,Sheffield United,Crystal Palace,0,2,http://football-data.co.uk/match/Sheffield_United_vs_Crystal_Palace_20210508
+2021-05-08,Man City,Chelsea,1,2,http://football-data.co.uk/match/Man_City_vs_Chelsea_20210508
+2021-05-08,Liverpool,Southampton,2,0,http://football-data.co.uk/match/Liverpool_vs_Southampton_20210508
+2021-05-09,Wolves,Brighton,2,1,http://football-data.co.uk/match/Wolves_vs_Brighton_20210509
+2021-05-09,Aston Villa,Man United,1,3,http://football-data.co.uk/match/Aston_Villa_vs_Man_United_20210509
+2021-05-09,West Ham,Everton,0,1,http://football-data.co.uk/match/West_Ham_vs_Everton_20210509
+2021-05-09,Arsenal,West Brom,3,1,http://football-data.co.uk/match/Arsenal_vs_West_Brom_20210509
+2021-05-10,Fulham,Burnley,0,2,http://football-data.co.uk/match/Fulham_vs_Burnley_20210510
+2021-05-11,Man United,Leicester,1,2,http://football-data.co.uk/match/Man_United_vs_Leicester_20210511
+2021-05-11,Southampton,Crystal Palace,3,1,http://football-data.co.uk/match/Southampton_vs_Crystal_Palace_20210511
+2021-05-12,Chelsea,Arsenal,0,1,http://football-data.co.uk/match/Chelsea_vs_Arsenal_20210512
+2021-05-13,Aston Villa,Everton,0,0,http://football-data.co.uk/match/Aston_Villa_vs_Everton_20210513
+2021-05-13,Man United,Liverpool,2,4,http://football-data.co.uk/match/Man_United_vs_Liverpool_20210513
+2021-05-14,Newcastle,Man City,3,4,http://football-data.co.uk/match/Newcastle_vs_Man_City_20210514
+2021-05-15,Burnley,Leeds,0,4,http://football-data.co.uk/match/Burnley_vs_Leeds_20210515
+2021-05-15,Southampton,Fulham,3,1,http://football-data.co.uk/match/Southampton_vs_Fulham_20210515
+2021-05-15,Brighton,West Ham,1,1,http://football-data.co.uk/match/Brighton_vs_West_Ham_20210515
+2021-05-16,Crystal Palace,Aston Villa,3,2,http://football-data.co.uk/match/Crystal_Palace_vs_Aston_Villa_20210516
+2021-05-16,Tottenham,Wolves,2,0,http://football-data.co.uk/match/Tottenham_vs_Wolves_20210516
+2021-05-16,West Brom,Liverpool,1,2,http://football-data.co.uk/match/West_Brom_vs_Liverpool_20210516
+2021-05-16,Everton,Sheffield United,0,1,http://football-data.co.uk/match/Everton_vs_Sheffield_United_20210516
+2021-05-18,Man United,Fulham,1,1,http://football-data.co.uk/match/Man_United_vs_Fulham_20210518
+2021-05-18,Southampton,Leeds,0,2,http://football-data.co.uk/match/Southampton_vs_Leeds_20210518
+2021-05-18,Brighton,Man City,3,2,http://football-data.co.uk/match/Brighton_vs_Man_City_20210518
+2021-05-18,Chelsea,Leicester,2,1,http://football-data.co.uk/match/Chelsea_vs_Leicester_20210518
+2021-05-19,Everton,Wolves,1,0,http://football-data.co.uk/match/Everton_vs_Wolves_20210519
+2021-05-19,Newcastle,Sheffield United,1,0,http://football-data.co.uk/match/Newcastle_vs_Sheffield_United_20210519
+2021-05-19,Tottenham,Aston Villa,1,2,http://football-data.co.uk/match/Tottenham_vs_Aston_Villa_20210519
+2021-05-19,Crystal Palace,Arsenal,1,3,http://football-data.co.uk/match/Crystal_Palace_vs_Arsenal_20210519
+2021-05-19,Burnley,Liverpool,0,3,http://football-data.co.uk/match/Burnley_vs_Liverpool_20210519
+2021-05-19,West Brom,West Ham,1,3,http://football-data.co.uk/match/West_Brom_vs_West_Ham_20210519
+2021-05-23,Arsenal,Brighton,2,0,http://football-data.co.uk/match/Arsenal_vs_Brighton_20210523
+2021-05-23,Aston Villa,Chelsea,2,1,http://football-data.co.uk/match/Aston_Villa_vs_Chelsea_20210523
+2021-05-23,Fulham,Newcastle,0,2,http://football-data.co.uk/match/Fulham_vs_Newcastle_20210523
+2021-05-23,Leeds,West Brom,3,1,http://football-data.co.uk/match/Leeds_vs_West_Brom_20210523
+2021-05-23,Leicester,Tottenham,2,4,http://football-data.co.uk/match/Leicester_vs_Tottenham_20210523
+2021-05-23,Liverpool,Crystal Palace,2,0,http://football-data.co.uk/match/Liverpool_vs_Crystal_Palace_20210523
+2021-05-23,Man City,Everton,5,0,http://football-data.co.uk/match/Man_City_vs_Everton_20210523
+2021-05-23,Sheffield United,Burnley,1,0,http://football-data.co.uk/match/Sheffield_United_vs_Burnley_20210523
+2021-05-23,West Ham,Southampton,3,0,http://football-data.co.uk/match/West_Ham_vs_Southampton_20210523
+2021-05-23,Wolves,Man United,1,2,http://football-data.co.uk/match/Wolves_vs_Man_United_20210523
