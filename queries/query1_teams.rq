@@ -1,0 +1,14 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?team ?teamName ?stadium ?founded WHERE {
+  ?team dbo:league dbr:Premier_League .
+  ?team rdfs:label ?teamName .
+  OPTIONAL { ?team dbo:ground ?stadium . }
+  OPTIONAL { ?team dbo:foundingDate ?founded . }
+  FILTER (lang(?teamName) = 'en')
+}
+ORDER BY ?teamName
+LIMIT 200
+

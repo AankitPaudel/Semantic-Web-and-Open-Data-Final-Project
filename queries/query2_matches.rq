@@ -1,0 +1,30 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?match ?matchLabel ?date ?homeTeam ?homeTeamLabel ?awayTeam ?awayTeamLabel ?homeGoals ?awayGoals
+WHERE {
+  VALUES ?season { 
+    wd:Q116198950 # 2023-24
+    wd:Q111963073 # 2022-23
+    wd:Q106624599 # 2021-22
+    wd:Q94051381  # 2020-21
+  }
+  ?match wdt:P2453 ?season .
+  
+  ?match wdt:P6112 ?homeTeam ;
+         wdt:P6113 ?awayTeam ;
+         wdt:P585  ?date ;
+         wdt:P1350 ?homeGoals ;
+         wdt:P1351 ?awayGoals .
+
+  ?homeTeam rdfs:label ?homeTeamLabel .
+  ?awayTeam rdfs:label ?awayTeamLabel .
+
+  FILTER (lang(?homeTeamLabel) = "en")
+  FILTER (lang(?awayTeamLabel) = "en")
+}
+ORDER BY DESC(?date)
+LIMIT 2000
+

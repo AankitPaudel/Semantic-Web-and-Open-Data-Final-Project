@@ -1,0 +1,15 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?team ?teamName ?wins ?losses ?draws ?goalsFor ?goalsAgainst WHERE {
+  ?team dbo:league dbr:Premier_League .
+  ?team rdfs:label ?teamName .
+  
+  OPTIONAL { ?team dbo:numberOfWins ?wins . }
+  OPTIONAL { ?team dbo:numberOfGoals ?goalsFor . }
+  
+  FILTER (lang(?teamName) = 'en')
+}
+LIMIT 100
+
