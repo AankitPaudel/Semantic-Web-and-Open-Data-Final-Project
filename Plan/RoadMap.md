@@ -1,8 +1,7 @@
 # Project Roadmap
 ## Premier League Home Advantage Analysis
 
-Student: Aarav  
-Course: CS4625/5625 - Semantic Web & Ontology  
+ Course: CS4625/5625 - Semantic Web & Ontology  
 Timeline: 2 Weeks
 
 ---
@@ -233,9 +232,9 @@ This will generate professional charts at 300 DPI.
 4. Clear visualizations communicate results effectively
 
 **Domain Lessons:**
-1. Home advantage is real and measurable (10 percentage points)
+1. Home advantage is real and measurable 
 2. Effect varies significantly across teams
-3. Some teams show negative home advantage (Watford)
+3. Some teams show negative home advantage
 4. Results consistent with existing sports science literature
 
 ---
@@ -255,8 +254,6 @@ This will generate professional charts at 300 DPI.
 - Results reproducible with documented code
 
 **Documentation Quality:**
-- Report exceeds minimum page requirement (10-12 vs 8-10)
-- All sentence requirements exceeded
 - Professional formatting throughout
 - Complete references included
 
