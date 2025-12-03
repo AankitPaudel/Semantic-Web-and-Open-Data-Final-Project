@@ -9,7 +9,7 @@ plt.rcParams['figure.dpi'] = 300
 plt.rcParams['font.family'] = 'sans-serif'
 
 def plot_overall_stats():
-    # Data from your analyze_data.py
+    # Data from analyze_data.py
     outcomes = ['Home Wins', 'Away Wins', 'Draws']
     percentages = [43.82, 33.82, 22.37]
     colors = ['#2ecc71', '#e74c3c', '#95a5a6']  # Green (Home), Red (Away), Gray (Draw)
